@@ -1,0 +1,664 @@
+AGABAL Total Armour Types, Categories And Strength Requirements (Character Creation Attribute Statistics Range, Averages, Point Buy System (1-100 + 30 [~55.5, 55-56 x 6])
+
+
+
+
+
+
+Armour Types, Categories And Strength Requirements
+
+
+
+Character Creation (Average Age ~20 Adolescent Adult)
+
+1-100 + 30 Point Buy (1-130) [6x1 + 30/6 = 6x6 = 36 to 100x6 + 30 = 630.
+A range of 36 to 630 total possible starting attribute statistics.
+With an average of 1+100/2 = 50.5x6 = 303 + 30 = 333 average total attribute statistics.
+(50.5 + (30 / 6 = 5) = 55.5 x 6 = average individual attribute statistics.
+(3 x 55) + (3 x 56) = 333 average total attribute statistics.
+
+
+
+
+Attribute Statistics:
+
+Strength (0-300)
+Agility (0-300)
+Constitution (0-300)
+Perception (0-300)
+Intelligence (0-300)
+Charisma (0-300)
+
+
+Average Age ~20 Adolescent Adult (Statistics):
+
+Strength (~55.5)
+Agility (~55.5)
+Constitution (~55.5)
+Perception (~55.5)
+Intelligence (~55.5)
+Charisma (~55.5)
+
+
+
+Average Age ~20 Adolescent Adult (Default):
+
+Strength (~56)
+Agility (~56)
+Constitution (~56)
+Perception (~55)
+Intelligence (~55)
+Charisma (~55)
+
+
+
+Strength
+
+0-4  
+5-9   
+10-14  
+15-19  
+20-24  
+25-29  
+30-34  
+35-39  
+40-44  
+45-49  
+50-54  
+55-59  
+60-64  
+65-69  
+70-74  
+75-79  
+80-84  
+85-89  
+90-94  
+95-99  
+100-104 
+105-109 
+110-114  
+115-119 
+120-124 
+125-129 
+130-134 
+135-139 
+140-144 
+145-149 
+150-154 
+155-159 
+160-164 
+165-169 
+170-174 
+175-179 
+180-184 
+185-189 
+190-194 
+195-199 
+200-204  
+205-209 
+210-214 
+215-219 
+220-224 
+225-229 
+230-234 
+235-239 
+240-244 
+245-249 
+250-254 
+255-259 
+260-264 
+265-269 
+270-274 
+275-279 
+280-284 
+285-289 
+290-294 
+295-299 
+300 
+
+
+
+Average Armour Types Per Strength Requirements
+
+0-4  Super Light Clothing 
+5-9   Light Clothing 
+10-14  Medium Light Clothing 
+15-19  Light Medium Clothing
+20-24  Medium Clothing
+25-29  Heavy Medium Clothing
+30-34  Light Medium Cloth
+35-39  Medium Cloth
+40-44  Heavy Medium Cloth
+45-49  Light Medium Leather
+50-54  Medium Leather
+55-59  Heavy Medium Leather
+60-64  Light Medium Mail
+65-69  Medium Mail
+70-74  Heavy Medium Mail
+75-79  Light Medium Plate
+80-84  Medium Plate
+85-89  Heavy Medium Plate
+90-94  Light Medium Full Plate
+95-99  Medium Full Plate
+100-104 Heavy Medium Full Plate
+105-109 Medium Heavy Full Plate
+110-114  Heavy Full Plate
+115-119 Super Heavy Full Plate
+120-124 
+125-129 
+130-134 
+135-139 
+140-144 
+145-149 
+150-154 
+155-159 
+160-164 
+165-169 
+170-174 
+175-179 
+180-184 
+185-189 
+190-194 
+195-199 
+200-204  
+205-209 
+210-214 
+215-219 
+220-224 
+225-229 
+230-234 
+235-239 
+240-244 
+245-249 
+250-254 
+255-259 
+260-264 
+265-269 
+270-274 
+275-279 
+280-284 
+285-289 
+290-294 
+295-299 
+300 
+
+
+
+Armour Types Per Strength Requirements (Including Light Armour)
+
+0-4  Super Light Clothing 
+5-9   Light Clothing 
+10-14  Medium Light Clothing 
+15-19  Light Medium Clothing, Super Light Cloth
+20-24  Medium Clothing, Light Cloth
+25-29  Heavy Medium Clothing, Medium Light Cloth
+30-34  Light Medium Cloth, Super Light Leather
+35-39  Medium Cloth, Light Leather
+40-44  Heavy Medium Cloth, Medium Light Leather
+45-49  Light Medium Leather, Super Light Mail
+50-54  Medium Leather, Light Mail
+55-59  Heavy Medium Leather, Medium Light Mail
+60-64  Light Medium Mail, Super Light Plate
+65-69  Medium Mail, Light Plate
+70-74  Heavy Medium Mail, Medium Light Plate
+75-79  Light Medium Plate, Super Light Full Plate
+80-84  Medium Plate, Light Full Plate
+85-89  Heavy Medium Plate, Medium Light Full Plate
+90-94  Light Medium Full Plate
+95-99  Medium Full Plate
+100-104 Heavy Medium Full Plate
+105-109 Medium Heavy Full Plate
+110-114  Heavy Full Plate
+115-119 Super Heavy Full Plate
+120-124 
+125-129 
+130-134 
+135-139 
+140-144 
+145-149 
+150-154 
+155-159 
+160-164 
+165-169 
+170-174 
+175-179 
+180-184 
+185-189 
+190-194 
+195-199 
+200-204  
+205-209 
+210-214 
+215-219 
+220-224 
+225-229 
+230-234 
+235-239 
+240-244 
+245-249 
+250-254 
+255-259 
+260-264 
+265-269 
+270-274 
+275-279 
+280-284 
+285-289 
+290-294 
+295-299 
+300 
+
+
+
+Total Armour Types Per Strength Requirements (Including Light, Medium And Heavy Armour)
+
+0-4  Super Light Clothing 
+5-9   Light Clothing 
+10-14  Medium Light Clothing 
+15-19  Light Medium Clothing, Super Light Cloth
+20-24  Medium Clothing, Light Cloth
+25-29  Heavy Medium Clothing, Medium Light Cloth
+30-34  Light Medium Cloth, Super Light Leather, Medium Heavy Clothing
+35-39  Medium Cloth, Light Leather, Heavy Clothing
+40-44  Heavy Medium Cloth, Medium Light Leather, Super Heavy Clothing
+45-49  Light Medium Leather, Super Light Mail, Medium Heavy Cloth
+50-54  Medium Leather, Light Mail, Heavy Cloth
+55-59  Heavy Medium Leather, Medium Light Mail, Super Heavy Cloth
+60-64  Light Medium Mail, Super Light Plate, Medium Heavy Leather
+65-69  Medium Mail, Light Plate, Heavy Leather
+70-74  Heavy Medium Mail, Medium Light Plate, Super Heavy Leather
+75-79  Light Medium Plate, Super Light Full Plate, Medium Heavy Mail
+80-84  Medium Plate, Light Full Plate, Heavy Mail
+85-89  Heavy Medium Plate, Medium Light Full Plate, Super Heavy Mail
+90-94  Light Medium Full Plate, Medium Heavy Plate
+95-99  Medium Full Plate, Heavy Plate
+100-104 Heavy Medium Full Plate, Super Heavy Plate
+105-109 Medium Heavy Full Plate
+110-114  Heavy Full Plate
+115-119 Super Heavy Full Plate
+120-124 
+125-129 
+130-134 
+135-139 
+140-144 
+145-149 
+150-154 
+155-159 
+160-164 
+165-169 
+170-174 
+175-179 
+180-184 
+185-189 
+190-194 
+195-199 
+200-204  
+205-209 
+210-214 
+215-219 
+220-224 
+225-229 
+230-234 
+235-239 
+240-244 
+245-249 
+250-254 
+255-259 
+260-264 
+265-269 
+270-274 
+275-279 
+280-284 
+285-289 
+290-294 
+295-299 
+300 
+
+
+
+
+Armour Types:
+
+Clothing
+Cloth
+Leather
+Mail
+Plate
+Full Plate
+
+
+
+Armour Categories:
+
+Super Light 
+Light 
+Medium Light 
+Light Medium 
+Medium 
+Heavy Medium 
+Medium Heavy 
+Heavy 
+Super Heavy 
+
+
+
+Total Armour Types And Categories List:
+
+
+
+Clothing Armour Categories:
+
+Super Light Clothing
+Light Clothing
+Medium Light Clothing
+Light Medium Clothing
+Medium Clothing
+Heavy Medium Clothing
+Medium Heavy Clothing
+Heavy Clothing
+Super Heavy Clothing
+
+
+
+Cloth Armour Categories:
+
+Super Light Cloth
+Light Cloth
+Medium Light Cloth
+Light Medium Cloth
+Medium Cloth
+Heavy Medium Cloth
+Medium Heavy Cloth
+Heavy Cloth
+Super Heavy Cloth
+
+
+
+Leather Armour Categories:
+
+Super Light Leather
+Light Leather
+Medium Light Leather
+Light Medium Leather
+Medium Leather
+Heavy Medium Leather
+Medium Heavy Leather
+Heavy Leather
+Super Heavy Leather
+
+
+
+Mail Armour Categories:
+
+Super Light Mail
+Light Mail
+Medium Light Mail
+Light Medium Mail
+Medium Mail
+Heavy Medium Mail
+Medium Heavy Mail
+Heavy Mail
+Super Heavy Mail
+
+
+
+Plate Armour Categories:
+
+Super Light Plate
+Light Plate
+Medium Light Plate
+Light Medium Plate
+Medium Plate
+Heavy Medium Plate
+Medium Heavy Plate
+Heavy Plate
+Super Heavy Plate
+
+
+
+Full Plate Armour Categories:
+
+Super Light Full Plate
+Light Full Plate
+Medium Light Full Plate
+Light Medium Full Plate
+Medium Full Plate
+Heavy Medium Full Plate
+Medium Heavy Full Plate
+Heavy Full Plate
+Super Heavy Full Plate
+
+
+
+Range Of Strength Requirements For Armour:
+
+0-4  
+5-9   
+10-14  
+15-19  
+20-24  
+25-29  
+30-34  
+35-39  
+40-44  
+45-49  
+50-54  
+55-59  
+60-64  
+65-69  
+70-74  
+75-79  
+80-84  
+85-89  
+90-94  
+95-99  
+100-104 
+105-109 
+110-114  
+115-119 
+
+
+
+Total Armour Types And Categories By Strength Requirements List:
+
+
+
+Clothing Armour Categories By Strength Requirements:
+
+
+
+Strength Requirement Range:
+
+0-44 Clothing Armour Type
+
+
+
+Light:
+
+0-4  Super Light Clothing 
+5-9   Light Clothing 
+10-14  Medium Light Clothing
+
+Medium:
+
+15-19  Light Medium Clothing
+20-24  Medium Clothing
+25-29  Heavy Medium Clothing
+
+Heavy:
+
+30-34  Medium Heavy Clothing
+35-39  Heavy Clothing
+40-44  Super Heavy Clothing
+
+
+
+Cloth Armour Categories By Strength Requirements:
+
+
+
+Strength Requirement Range:
+
+15-59 Cloth Armour Type
+
+
+
+Light:
+
+15-19  Super Light Cloth
+20-24  Light Cloth
+25-29  Medium Light Cloth
+
+Medium:
+
+30-34  Light Medium Cloth
+35-39  Medium Cloth
+40-44  Heavy Medium Cloth
+
+Heavy:
+
+45-49  Medium Heavy Cloth
+50-54  Heavy Cloth
+55-59  Super Heavy Cloth
+
+
+
+Leather Armour Categories By Strength Requirements:
+
+
+
+Strength Requirement Range:
+
+30-74 Leather Armour Type
+
+
+
+Light:
+
+30-34  Super Light Leather
+35-39  Light Leather
+40-44  Medium Light Leather
+
+Medium:
+
+45-49  Light Medium Leather
+50-54  Medium Leather
+55-59  Heavy Medium Leather
+
+Heavy:
+
+60-64  Medium Heavy Leather
+65-69  Heavy Leather
+70-74  Super Heavy Leather
+
+
+
+Mail Armour Categories By Strength Requirements:
+
+
+
+Strength Requirement Range:
+
+45-89 Mail Armour Type
+
+
+
+Light:
+
+45-49  Super Light Mail
+50-54  Light Mail
+55-59  Medium Light Mail
+
+Medium:
+
+60-64  Light Medium Mail
+65-69  Medium Mail
+70-74  Heavy Medium Mail
+
+Heavy:
+
+75-79  Medium Heavy Mail
+80-84  Heavy Mail
+85-89  Super Heavy Mail
+
+
+
+Plate Armour Categories By Strength Requirements:
+
+
+
+Strength Requirement Range:
+
+60-104 Plate Armour Type
+
+
+
+Light:
+
+60-64  Super Light Plate
+65-69  Light Plate
+70-74  Medium Light Plate
+
+Medium:
+
+75-79  Light Medium Plate
+80-84  Medium Plate
+85-89  Heavy Medium Plate
+
+Heavy:
+
+90-94  Medium Heavy Plate
+95-99  Heavy Plate
+100-104 Super Heavy Plate
+
+
+
+Full Plate Armour Categories By Strength Requirements:
+
+
+
+Strength Requirement Range:
+
+75-119 Full Plate Armour Type
+
+
+
+Light:
+
+75-79  Super Light Full Plate
+80-84  Light Full Plate
+85-89  Medium Light Full Plate
+
+Medium:
+
+90-94  Light Medium Full Plate
+95-99  Medium Full Plate
+100-104 Heavy Medium Full Plate
+
+Heavy:
+
+105-109 Medium Heavy Full Plate
+110-114  Heavy Full Plate
+115-119 Super Heavy Full Plate
+
+
+
+Total Armour Types By Strength Requirements:
+
+
+
+Strength Requirement Range:
+
+0-44 Clothing Armour Type
+15-59 Cloth Armour Type
+30-74 Leather Armour Type
+45-89 Mail Armour Type
+60-104 Plate Armour Type
+75-119 Full Plate Armour Type
+
+
+
+
+
+-Matthew Gordon Roulston 2:55 PM 02nd / 10 (October) / 2024
+
