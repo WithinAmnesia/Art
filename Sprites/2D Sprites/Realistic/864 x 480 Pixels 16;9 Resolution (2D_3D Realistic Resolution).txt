@@ -1,0 +1,14 @@
+864 x 480 Pixels 16:9 Resolution (2D_3D Realistic Resolution)
+
+864 x 480 Pixels 16:9 Resolution is Fully Divisible by 16 x 16 Pixel Tiles for scaling accurately and cleanly from all 16:9 Aspect Ratios of:
+432 x 240 Pixels
+864 x 480 Pixels
+960 x 720 Pixels
+1920 x 1080 Pixels
+2560 x 1440 Pixels
+3840 x 2160 Pixels
+7680 x 4320 Pixels
+
+
+
+-Matthew Gordon Roulston 4:02 PM 08th / 11 (November) / 2024
