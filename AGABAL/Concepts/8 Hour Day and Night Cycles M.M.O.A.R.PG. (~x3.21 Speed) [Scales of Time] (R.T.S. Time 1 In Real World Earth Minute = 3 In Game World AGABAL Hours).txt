@@ -1,0 +1,409 @@
+8 Hour Day and Night Cycles (~x3.21 Speed) [Scales of Time]
+
+365 + leap year Gregorian Calendar
+
+~3.21 times speed
+
+24 hours / 3 = 8
+
+Day Night Cycles
+
+2 hours for day / night time stages
+
+
+12:00 AM - Midnight Ending
+01:00 AM - Morning Starting
+02:00 AM - Morning Ending
+03:00 AM - Noon Starting
+04:00 AM - Noon Ending
+05:00 AM - Dusk Starting
+06:00 AM - Dusk Ending
+07:00 AM - Midnight Starting
+08:00 AM - Midnight Ending
+09:00 AM - Morning Starting
+10:00 AM - Morning Ending
+11:00 AM - Noon Starting
+12:00 PM - Noon Ending
+01:00 PM - Dusk Starting
+02:00 PM - Dusk Ending
+03:00 PM - Midnight Starting
+04:00 PM - Midnight Ending
+05:00 PM - Morning Starting
+06:00 PM - Morning Ending
+07:00 PM - Noon Starting
+08:00 PM - Noon Ending
+09:00 PM - Dusk Starting
+10:00 PM - Dusk Ending
+11:00 PM - Midnight Starting
+
+
+
+Regeneration of Adventure (~Encounter Respawns / Raid Lockout Timers)
+
+~Infinite / 0.001 Seconds
+
+~Infinite / 0.01 Seconds
+
+~Infinite / 0.1 Seconds
+
+1 Second
+
+2 Seconds
+
+3 Seconds
+
+4 Seconds
+
+5 Seconds
+
+6 Seconds
+
+7 Seconds
+
+8 Seconds
+
+9 Seconds
+
+10 Seconds
+
+11 Seconds
+
+12 Seconds
+
+13 Seconds
+
+14 Seconds
+
+15 Seconds
+
+16  Seconds
+
+18  Seconds
+
+20  Seconds
+
+22  Seconds
+
+25  Seconds
+
+30 Seconds
+
+35 Seconds
+
+40 Seconds
+
+45 Seconds
+
+50 Seconds
+
+55 Seconds
+
+60 Seconds
+
+1 Minute
+
+1 Minute 5 Seconds
+
+1 Minute 10 Seconds
+
+1 Minute 15 Seconds
+
+1 Minute 20 Seconds
+
+1 Minute 25 Seconds
+
+1 Minute 30 Seconds
+
+1 Minute 35 Seconds
+
+1 Minute 40 Seconds
+
+1 Minute 45 Seconds
+
+1 Minute 50 Seconds
+
+1 Minute 55 Seconds
+
+2 Minutes
+
+2 Minutes 5 Seconds
+
+2 Minutes 10 Seconds
+
+2 Minutes 15 Seconds
+
+2 Minutes 30 Seconds
+
+2 Minutes 45 Seconds 
+
+3 Minutes
+
+3 Minutes 15 Seconds
+
+3 Minutes 30 Seconds
+
+3 Minutes 45 Seconds
+
+4 Minutes 
+
+4 Minutes 30 Seconds
+
+5 Minutes
+
+6 Minutes
+
+7 Minutes
+
+8 Minutes
+
+9 Minutes
+
+10 Minutes
+
+11 Minutes
+
+12 Minutes
+
+13 Minutes
+
+14 Minutes
+
+15 Minutes
+
+16 Minutes
+
+18 Minutes
+
+20 Minutes
+
+22 Minutes
+
+25 Minutes
+
+30 Minutes
+
+35 Minutes
+
+40 Minutes
+
+45 Minutes
+
+50 Minutes
+
+55 Minutes
+
+1 Hour
+
+1 Hour 15 Minutes
+
+1 Hour 30 Minutes
+
+1 Hour 45 Minutes
+
+2 Hours
+
+2 Hours 30 Minutes
+
+3 Hours
+
+4 Hours
+
+5 Hours
+
+6 Hours
+
+7 Hours
+
+8 Hours
+
+9 Hours
+
+10 Hours
+
+11 Hours
+
+12 Hours
+
+13 Hours
+
+14 Hours
+
+15 Hours
+
+16 Hours
+
+17 Hours
+
+18 Hours
+
+19 Hours
+
+20 Hours
+
+21 Hours
+
+22 Hours
+
+23 Hours
+
+24 Hours / 1 Day
+
+2 Days
+
+3 Days
+
+4 Days
+
+5 Days
+
+6 Days
+
+7 Days / 1 Week
+
+2 Weeks
+
+3 Weeks
+
+4 Weeks
+
+~30 (28-31 ) Days / 1 Month
+
+2 Months
+
+3 Months (~1 Season)
+
+4 Months (~1 '~x3.21 Year')
+
+5 Months
+
+6 Months
+
+7 Months
+
+8 Months
+
+9 Months
+
+10 Months
+
+11 Months
+
+12 Months / 1 Year
+
+2 Years
+
+3 Years
+
+4 Years
+
+5 Years / 1 Pentade
+
+6 Years
+
+7 Years
+
+8 Years
+
+9 Years
+
+10 Years / 1 Decade
+
+2 Decades / (~12-25 Years) 1 Generation
+
+3 Decades
+
+4 Decades
+
+5 Decades
+
+6 Decades
+
+7 Decades
+
+8 Decades
+
+9 Decades
+
+10 Decades / 1 Century
+
+2 Centuries
+
+3 Centuries
+
+4 Centuries
+
+5 Centuries / (~2-8 Centuries) 1 Era  (~500 Years)
+
+6 Centuries
+
+7 Centuries
+
+8 Centuries
+
+9 Centuries
+
+10 Centuries / 1 Millennium (~1,000 Years)
+
+2 Millenniums / 1 Age (~2,000 Years)
+
+3 Millenniums  (~3,000 Years)
+
+4 Millenniums / 2 Ages (~4,000 Years)
+
+5 Millenniums (~5,000 Years)
+
+6 Millenniums / 3 Ages (~6,000 Years)
+
+7 Millenniums (~7,000 Years)
+
+8 Millenniums / 4 Ages (~8,000 Years)
+
+9 Millenniums (~9,000 Years)
+
+10 Millenniums / 5 Ages / 1 Eon (~10,000 Years)
+
+2 Eons (~20,000 Years)
+
+
+
+-Matthew Gordon Roulston 6:39 PM 16th / 01 (January) / 2024
+
+
+
+M.M.O.A.R.P.G. Time 1 In Real World Earth Hour = 3 In Game World AGABAL Hours.
+
+R.T.S. Time 1 In Real World Earth Minute = 3 In Game World AGABAL Hours.
+
+
+
+-Matthew Gordon Roulston 8:21 PM 13th / 11 (November) / 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
