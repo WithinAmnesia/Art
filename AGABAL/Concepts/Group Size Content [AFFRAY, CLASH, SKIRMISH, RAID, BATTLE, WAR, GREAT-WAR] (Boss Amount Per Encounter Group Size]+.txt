@@ -1,0 +1,141 @@
+Group Size Content [AFFRAY, CLASH, SKIRMISH, RAID, BATTLE, WAR, GREAT-WAR] (Boss Amount Per Encounter Group Size]
+
+Boss Amount Per Encounter Group Size
+
+
+
+AFFRAY 0.1 Person:
+
+0.1 Person x 2 = 0.2 +/-0 = 0.2 [0.0-0.4] Boss Amount
+
+
+
+CLASH 0.5-1.5 Person:
+
+0.5 Person x 2 = 1 +/-0 = 1 [0.5-1.4] Boss Amount
+
+1 Person x 2 = 2 +/-0 = 2 [1.5-2.4] Boss Amount
+
+1.5 Person x 2 = 3 +/-0 = 3 [2.5-4] Boss Amount
+
+
+
+SKIRMISH 3-15 Person:
+
+3 Person x 2 = 6 + 1 = 7 [5-10] Boss Amount
+
+6 Person x 2 = 12 + 2 = 14 [11-17] Boss Amount
+
+9 Person x 2 = 18 + 3 = 21 [18-24] Boss Amount
+
+12 Person x 2 = 24 + 4 = 28 [25-31] Boss Amount
+
+15 Person x 2 = 30 + 5 = 35 [32-40] Boss Amount
+
+
+
+RAID 20-90 Person:
+
+20 Person x 2 = 40 + 6 = 46 [41-51] Boss Amount
+
+25 Person x 2 = 50 + 7 = 57 [52-62] Boss Amount
+
+30 Person x 2 = 60 + 8 = 68 [63-73] Boss Amount
+
+35 Person x 2 = 70 + 9 = 79 [74-84] Boss Amount
+
+40 Person x 2 = 80 + 10 = 90 [85-95] Boss Amount
+
+45 Person x 2 = 90 + 11 = 101 [96-106] Boss Amount
+
+50 Person x 2 = 100 + 12 = 112 [107-122] Boss Amount
+
+60 Person x 2 = 120 + 14 = 134 [123-144] Boss Amount
+
+70 Person x 2 = 140 + 16 = 156 [145-166] Boss Amount
+
+80 Person x 2 = 160 + 18 = 178 [167-188] Boss Amount
+
+90 Person x 2 = 180 + 20 = 200 [189-212] Boss Amount
+
+
+
+BATTLE 100-900 Person:
+
+100 Person x 2 = 200 + 25 = 225 [213-252] Boss Amount
+
+125 Person x 2 = 250 + 30 = 280 [253-307] Boss Amount
+
+150 Person x 2 = 300 + 35 = 335 [308-362] Boss Amount
+
+175 Person x 2 = 350 + 40 = 390 [363-417] Boss Amount
+
+200 Person x 2 = 400 + 45 = 445 [418-472] Boss Amount
+
+225 Person x 2 = 450 + 50 = 500 [473-527] Boss Amount
+
+250 Person x 2 = 500 + 55 = 555 [528-609] Boss Amount
+
+300 Person x 2 = 600 + 65 = 665 [610-719] Boss Amount
+
+350 Person x 2 = 700 + 75 = 775 [720-829] Boss Amount
+
+400 Person x 2 = 800 + 85 = 885 [830-939] Boss Amount
+
+450 Person x 2 = 900 + 95 = 995 [940-1,049] Boss Amount
+
+500 Person x 2 = 1,000 + 105 = 1,105 [1,050-1,214] Boss Amount
+
+600 Person x 2 = 1,200 + 125 = 1,325 [1,215-1,434] Boss Amount
+
+700 Person x 2 = 1,400 + 145 = 1,545 [1,435-1,654] Boss Amount
+
+800 Person x 2 = 1,600 + 165 = 1,765 [1,655-1,874] Boss Amount
+
+900 Person x 2 = 1,800 + 185 = 1,985 [1,875-2,097] Boss Amount
+
+
+
+WAR 1,000-9,000 Person:
+
+1,000 Person x 2 = 2,000 + 210 = 2,210 [2,098-2,484] Boss Amount
+
+1,250 Person x 2 = 2,500 + 260 = 2,760 [2,485-3,034] Boss Amount
+
+1,500 Person x 2 = 3,000 + 310 = 3,310 [3,035-3,584] Boss Amount
+
+1,750 Person x 2 = 3,500 + 360 = 3,860 [3,585-4,134] Boss Amount
+
+2,000 Person x 2 = 4,000 + 410 = 4,410 [4,135-4,684] Boss Amount
+
+2,250 Person x 2 = 4,500 + 460 = 4,960 [4,685-5,234] Boss Amount
+
+2,500 Person x 2 = 5,000 + 510 = 5,510 [5,235-6,059] Boss Amount
+
+3,000 Person x 2 = 6,000 + 610 = 6,610 [6,060-7,159] Boss Amount
+
+3,500 Person x 2 = 7,000 + 710 = 7,710 [7,160-8,259] Boss Amount
+
+4,000 Person x 2 = 8,000 + 810 = 8,810 [8,260-9,359] Boss Amount
+
+4,500 Person x 2 = 9,000 + 910 = 9,910 [9,360-10,459] Boss Amount
+
+5,000 Person x 2 = 10,000 + 1,010 = 11,010 [10,460-12,109] Boss Amount
+
+6,000 Person x 2 = 12,000 + 1,210 = 13,210 [12,110-14,309] Boss Amount
+
+7,000 Person x 2 = 14,000 + 1,410 = 15,410 [14,310-16,509] Boss Amount
+
+8,000 Person x 2 = 16,000 + 1,610 = 17,610 [16,510-18,709] Boss Amount
+
+9,000 Person x 2 = 18,000 + 1,810 = 19,810 [18,710-20,914] Boss Amount
+
+
+
+GREAT-WAR 10,000+ Person:
+
+10,000 Person x 2 = 20,000 + 2,020 = 22,020 [20,915-23,124+?] Boss Amount
+
+
+
+-Matthew Gordon Roulston 2:59 01/04(April)/2022 (April Fool's Day) + 3:36 PM 24th / 04 (April) / 2022 (45 Person Group) + 3:51 PM 03 / 05 (May) / 2022 (Group Size Content [AFFRAY, CLASH, SKIRMISH, RAID, BATTLE, WAR, GREAT-WAR]) + 4:30 PM 17th / 05 (May) / 2022 (Added Boss Amount / Loot Amount Bracket Averages)
