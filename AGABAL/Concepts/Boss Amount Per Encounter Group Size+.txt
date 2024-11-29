@@ -1,0 +1,109 @@
+Boss Amount Per Encounter Group Size
+
+0.5 Person x 2 = 1 +/-0 = 1 Boss Amount
+
+1 Person x 2 = 2 +/-0 = 2 Boss Amount
+
+1.5 Person x 2 = 3 +/-0 = 3 Boss Amount
+
+3 Person x 2 = 6 + 1 = 7 Boss Amount
+
+6 Person x 2 = 12 + 2 = 14 Boss Amount
+
+9 Person x 2 = 18 + 3 = 21 Boss Amount
+
+12 Person x 2 = 24 + 4 = 28 Boss Amount
+
+15 Person x 2 = 30 + 5 = 35 Boss Amount
+
+20 Person x 2 = 40 + 6 = 46 Boss Amount
+
+25 Person x 2 = 50 + 7 = 57 Boss Amount
+
+30 Person x 2 = 60 + 8 = 68 Boss Amount
+
+35 Person x 2 = 70 + 9 = 79 Boss Amount
+
+40 Person x 2 = 80 + 10 = 90 Boss Amount
+
+45 Person x 2 = 90 + 11 = 101 Boss Amount
+
+50 Person x 2 = 100 + 12 = 112 Boss Amount
+
+60 Person x 2 = 120 + 14 = 134 Boss Amount
+
+70 Person x 2 = 140 + 16 = 156 Boss Amount
+
+80 Person x 2 = 160 + 18 = 178 Boss Amount
+
+90 Person x 2 = 180 + 20 = 200 Boss Amount
+
+100 Person x 2 = 200 + 25 = 225 Boss Amount
+
+125 Person x 2 = 250 + 30 = 280 Boss Amount
+
+150 Person x 2 = 300 + 35 = 335 Boss Amount
+
+175 Person x 2 = 350 + 40 = 390 Boss Amount
+
+200 Person x 2 = 400 + 45 = 445 Boss Amount
+
+225 Person x 2 = 450 + 50 = 500 Boss Amount
+
+250 Person x 2 = 500 + 55 = 555 Boss Amount
+
+300 Person x 2 = 600 + 65 = 665 Boss Amount
+
+350 Person x 2 = 700 + 75 = 775 Boss Amount
+
+400 Person x 2 = 800 + 85 = 885 Boss Amount
+
+450 Person x 2 = 900 + 95 = 995 Boss Amount
+
+500 Person x 2 = 1,000 + 105 = 1,105 Boss Amount
+
+600 Person x 2 = 1,200 + 125 = 1,325 Boss Amount
+
+700 Person x 2 = 1,400 + 145 = 1,545 Boss Amount
+
+800 Person x 2 = 1,600 + 165 = 1,765 Boss Amount
+
+900 Person x 2 = 1,800 + 185 = 1,985 Boss Amount
+
+1,000 Person x 2 = 2,000 + 210 = 2,210 Boss Amount
+
+1,250 Person x 2 = 2,500 + 260 = 2,760 Boss Amount
+
+1,500 Person x 2 = 3,000 + 310 = 3,310 Boss Amount
+
+1,750 Person x 2 = 3,500 + 360 = 3,860 Boss Amount
+
+2,000 Person x 2 = 4,000 + 410 = 4,410 Boss Amount
+
+2,250 Person x 2 = 4,500 + 460 = 4,960 Boss Amount
+
+2,500 Person x 2 = 5,000 + 510 = 5,510 Boss Amount
+
+3,000 Person x 2 = 6,000 + 610 = 6,610 Boss Amount
+
+3,500 Person x 2 = 7,000 + 710 = 7,710 Boss Amount
+
+4,000 Person x 2 = 8,000 + 810 = 8,810 Boss Amount
+
+4,500 Person x 2 = 9,000 + 910 = 9,910 Boss Amount
+
+5,000 Person x 2 = 10,000 + 1,010 = 11,010 Boss Amount
+
+6,000 Person x 2 = 12,000 + 1,210 = 13,210 Boss Amount
+
+7,000 Person x 2 = 14,000 + 1,410 = 15,410 Boss Amount
+
+8,000 Person x 2 = 16,000 + 1,610 = 17,610 Boss Amount
+
+9,000 Person x 2 = 18,000 + 1,810 = 19,810 Boss Amount
+
+10,000 Person x 2 = 20,000 + 2,020 = 22,020 Boss Amount
+
+
+
+-Matthew Gordon Roulston 2:59 01/04(April)/2022 (April Fool's Day) + 3:36 PM 24th / 04 (April) / 2022 (45 Person Group)

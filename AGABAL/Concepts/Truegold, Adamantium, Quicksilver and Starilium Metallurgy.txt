@@ -1,0 +1,7 @@
+Truegold, Adamantium, Quicksilver and Starilium Metallurgy
+
+Truegold = 7 x (100% Pure) Quicksilver + 3 x Adamantium Ingot + 2 x ~'Quicksilver Tier ~Stone Produced' Flux + 1 x Philosopher's Crystal = 1 x Truegold Ingot
+Adamantium = 1 x (100% Pure) Quicksilver + 10 x Starilium + 1 x ~'Quicksilver Tier ~Stone Produced' Flux = 10 x Adamantium Ingot
+Starilium = 1 x Azurium Ingot + 1 x Starlite Ingot + 1 x ~'Starlite Tier ~Stone Produced' Flux = 1 x Starilium Ingot
+
+-Matthew Gordon Roulston 2:17 AM 08th / 01 (January) / 2022

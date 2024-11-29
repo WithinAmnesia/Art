@@ -1,0 +1,329 @@
+X.X Person Content Size Brackets (Including 4.5 Person Content)
+
+(Inspiration Idea Concept Notes: 1.0 x 1.5 = 1.5, 1.5 x 1.5 = 2.25, 4.5 / 2 = 2.25 [~'2.3']. Or 1.5 is hard to 1.0 normal, as 4.5 is insane to 1.5 hard)
+
+---------------
+[0.0]
+0.1 Person Content [0.0 - 0.2 Person Content Size Bracket]
+[0.2]
+---------------
+[0.3]
+0.5 Person Content
+1.0 Person Content [0.3 - 2.2 Person Content Size Bracket]
+1.5 Person Content
+[2.2]
+---------------
+[2.3]
+3.0 Person Content
+4.5 Person Content [2.3 - 7 Person Content Size Bracket]
+6.0 Person Content
+[7]
+---------------
+[8]
+9.0 Person Content
+12.0 Person Content [8 - 17 Person Content Size Bracket]
+15.0 Person Content
+[17]
+---------------
+[18]
+20 Person Content
+25 Person Content [18 - 32 Person Content Size Bracket]
+30 Person Content
+[32]
+---------------
+[33]
+35 Person Content
+40 Person Content [33 - 44 Person Content Size Bracket]
+45 Person Content
+[44]
+---------------
+[45]
+50 Person Content
+60 Person Content [45 - 74 Person Content Size Bracket]
+70 Person Content
+[74]
+---------------
+[75]
+80 Person Content
+90 Person Content [75 - 104 Person Content Size Bracket]
+100 Person Content
+[104]
+---------------
+[105]
+110
+120 Person Content [105 - 134 Person Content Size Bracket]
+130
+[134]
+---------------
+[135]
+140
+150 Person Content [135 - 174 Person Content Size Bracket]
+160
+170
+[174]
+---------------
+[175]
+180
+190
+200 Person Content [175 - 224 Person Content Size Bracket]
+210
+220
+[224]
+---------------
+[225]
+230
+240
+250 Person Content [225 - 274 Person Content Size Bracket]
+260
+270
+[274]
+--------------
+[275]
+280
+290
+300 Person Content [275 - 324 Person Content Size Bracket]
+310
+320
+[324]
+---------------
+[325]
+330
+340
+350 Person Content [325 - 374 Person Content Size Bracket]
+360
+370
+[374]
+---------------
+[375]
+380
+390
+400 Person Content [375 - 424 Person Content Size Bracket]
+410
+420
+[424]
+---------------
+[425]
+430
+440
+450 Person Content [425 - 474 Person Content Size Bracket]
+460
+470
+[474]
+---------------
+[475]
+480
+490
+500 Person Content [475 - 549 Person Content Size Bracket]
+510
+520
+530
+540
+[549]
+---------------
+[550]
+560
+570
+580
+590
+600 Person Content [550 - 649 Person Content Size Bracket]
+610
+620
+630
+640
+[649]
+---------------
+[650]
+660
+670
+680
+690
+700 Person Content [650 - 749 Person Content Size Bracket]
+710
+720
+730
+740
+[749]
+---------------
+[750]
+760
+770
+780
+790
+800 Person Content [750 - 849 Person Content Size Bracket]
+810
+820
+830
+840
+[849]
+---------------
+[850]
+860
+870
+880
+890
+900 Person Content [850 - 949 Person Content Size Bracket]
+910
+920
+930
+940
+[949]
+---------------
+[950]
+960
+970
+980
+990
+1,000 Person Content [950 - 1,099 Person Content Size Bracket]
+1,010
+1,020
+1,030
+1,040
+1,050
+1,060
+1,070
+1,080
+1,090
+[1,099]
+---------------
+[1,100]
+1,110
+1,120
+1,130
+1,140
+1,150
+1,160
+1,170
+1,180
+1,190
+1,200 Person Content [1,100 - 1,349 Person Content Size Bracket]
+1,230
+1,240
+1,250
+1,260
+1,270
+1,280
+1,290
+1,300
+1,310
+1,320
+1,330
+1,340
+[1,349]
+---------------
+[1,350]
+1,360
+1,370
+1,380
+1,390
+1,400
+1,410
+1,420
+1,430
+1,440
+1,450
+1,460
+1,470
+1,480
+1,490
+1,500 Person Content [1,350 - 1,749 Person Content Size Bracket]
+1,510
+1,520
+1,530
+1,540
+1,550
+1,560
+1,570
+1,580
+1,590
+1,600
+1,610
+1,620
+1,630
+1,640
+1,650
+1,660
+1,670
+1,680
+1,690
+1,700
+1,710
+1,720
+1,730
+1,740
+[1,749]
+---------------
+[1,750]
+
+2,000 Person Content [1,750 - 2,249 Person Content Size Bracket]
+
+[2,249]
+---------------
+[2,250]
+
+2,500 Person Content [2,250 - 2,749 Person Content Size Bracket]
+
+[2,749]
+---------------
+[2,750]
+
+3,000 Person Content [2,750 - 3,249 Person Content Size Bracket]
+
+[3,249]
+---------------
+[3,250]
+
+3,500 Person Content [3,250 - 3,749 Person Content Size Bracket]
+
+[3,749]
+---------------
+[3,750]
+
+4,000 Person Content [3,750 - 4,249 Person Content Size Bracket]
+
+[4,249]
+---------------
+[4,250]
+
+4,500 Person Content [4,250 - 4,749 Person Content Size Bracket]
+
+[4,749]
+---------------
+[4,750]
+
+5,000 Person Content [4,750 - 5,499 Person Content Size Bracket]
+
+[5,499]
+---------------
+[5,500]
+
+6,000 Person Content [5,500 - 6,499 Person Content Size Bracket]
+
+[6,499]
+---------------
+[6,500]
+
+7,000 Person Content [6,500 - 7,499 Person Content Size Bracket]
+
+[7,499]
+---------------
+[7,500]
+
+8,000 Person Content [7,500 - 8,499 Person Content Size Bracket]
+
+[8,499]
+---------------
+[8,500]
+
+9,000 Person Content [8,500 - 9,499 Person Content Size Bracket]
+
+[9,499]
+---------------
+[9,500]
+
+10,000 Person Content  [9,500 - 10,999 Person Content Size Bracket]
+
+[10,999]
+---------------
+[For Person Content Sizes above the 10,000 Person Content Size Bracket; as in : 12,000, 15,000, 20,000, 25,000, 30,000 35,000, 40,000, 45,000, 50,000, 60,000, 70,000 80,000, 90,000, 10,000, 120,000 150,000 and onward etc repeat the numeration / number ratio pattern from 1,000 Person Content to 10,000 Person Content'.]
+
+-Matthew Gordon Roulston 5:09 PM 07th/07(July)/2022

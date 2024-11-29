@@ -1,0 +1,283 @@
+Level 60 vanilla wow and D&D / Baldur's Gate +0 to +6 enchanted items equivalency:
+Formula:
+Item enchantment (+X) times 6 = D&D item level progression out of max level of 40.
+Vanilla WoW has 60 levels D&D has 40 levels thus 60/40 = 1.5. So one can take D&D character / item levels out of 40 times by 1.5 and its ~equal to vanilla wow character / item levels.
+
+Compared at level 1 D&D / BG and level 60 vanilla WoW):
+D&D / BG +0 x 6 = 0/40 (~Level 1)
+D&D / BG +1  x 6 = 6/40 (Level 6)
+D&D / BG +2 x 6 = 12/40 (Level 12)
+D&D / BG +3 x 6 = 18/40 (Level 18)
+D&D / BG +4 x 6 = 24/40 (Level 24)
+D&D / BG +5 x 6 = 30/40 (Level 30)
+D&D / BG +6 x 6 = 36/40 (Level 36)
+[15:47]
+Since this is level 60 in vanilla we need to like take all the wow item levels a go -60 to bring the vanilla wow items in line with the D&D / BG item levels for comparison.
+[15:49]
+Like in vanilla wow item rarity and item level works like this:
+-5 Item Level = Poor
++/-0 Item Level = Common
++5 Item Level = Uncommon
+ +11 Item Level = Rare
++17 Item Level = Epic
++23 Item Level = Legendary (edited)
+[15:50]
+But in game it does not show up like this.
+[15:52]
+Like if you get a level 60 epic it just says item level 65 same as a rare item says item level 65 but the epic is better than the rare item. But behind the scenes the rare item has an effective item level of 60 + 11 = 71 where as the epic item has an effective item level of 60 + 17 = 77 which is exactly why the level 60 epic is better than the level 60 rare item; this item level and also stats budgeting math is called itemization.
+[15:53]
+https://wow.allakhazam.com/wiki/Itemization_Formulas_(WoW) it has weird formulas but this is the result benhind the scenes.
+World of Warcraft :: ZAM
+Itemization Formulas (WoW)
+Wiki article for Itemization Formulas (WoW) :: Wiki
+
+[15:53]
+Anyway
+
+Matthew — Today at 15:56
+in vanilla wow they ran out of item quality colour after epic and legendary and did not use artifact for end game, it was like all epic and some random legendaries. BUT like if wow did stick to the item quality thing it would look a bit different with more item quality colours past epic and legendary and artifact. We can sorta hypthically like think of these 'what if' item qualities as end game loot tiers for they are already effectively in vanilla WoW but they are all purple and use a clunky itemization system and messed up item levels cus blizzard was lazy but if you look at it long enough you can see behind the scenes.
+
+Matthew
+Like in vanilla wow item rarity and item level works like this: -5 Item Level = Poor +/-0 Item Level = Common +5 Item Level = Uncommon +11 Item Level = Rare +17 Item Level = Epic +23 Item Level = Legendary (edited)
+
+Matthew — Today at 15:57
+vanilla wow has a pattern with the item quality item levels like here.
+[16:01]
+The pattern goes:
+-5 + 0 = -5 Item Level for Poor Quality Items
+0 + 0  = 0 Item Level for Common Quality Items
++5 + 0 = +5 Item Level for Uncommon Quality Items
++10 +1  = +11 Item Level for Rare Quality Items
++15 +2 = +17 Item Level for Epic Quality Items
++20 +3 = +23 Item Level for Legendary Quality Items
++25 +4 = +29 Item Level for Artifact Quality Items [hypothetical]
+[16:02]
+Yes I did reverse engineer this pattern from that gloggly gook itemisation formula too lol.
+[16:02]
+SO
+
+Matthew — Today at 16:07
+In Vanilla WoW the levelling 1 to 60 has pretty consistent items generated from a standard itemisation formula like there not really any rule breaker items like if you get a level 36 epic it will be 36 + 17= 53 effective item level.
+Like all the items follow this formula. Its only until raiding happens basically that this rule is broken items get stronger than they should if they followed the formula used in levelling.
+[16:12]
+Like if vanilla stuck to the levelling item level formula it would max out around like
+Requires level 60 Item:
+Poor: 60 -5 = 55 effective Item level.
+Common: 60 +/-0 = 60 effective Item level.
+Uncommon: 60 +5 = 65 effective Item level.
+Rare: 60 +11 = 71 effective Item level.
+Epic: 60 +17 = 77 effective Item level.
+Legendary: 60 +23 = 83 effective Item level.
+Artifact: 60 ~+29 = 89 effective Item level.
+[16:13]
+This is just like D&D with the +0,+1,+2,+3,+4,+5,+6 item enchantment system but like its fixed at level 60.
+
+Matthew — Today at 16:17
+Yet in vanilla wow end game items did not stick to the item rarity formula and with raids came rule breaking epic and rare items that gavce greater effective item levels past the usual fixed amount assign to each rarity while leveling from 1-60. Like an item raiding can require level 60 still but say its item level 92 in game but it has a real effective item level of 104 (92 in game item level -5 to bring it work with +17 epic rarity = 104) anyway anyway.
+[16:18]
+
+[16:20]
+It gets a bit messy the math just trust me to save you some confusion like it took me a while to piece this mystery all together exactly how / why did vanilla end game loot look so weird verses the leveling loot but still feel well put together.
+[16:21]
+Okay back to D&D / BG effective item levels for +0 to +6 enchanted items. (edited)
+
+Matthew
+Level 60 vanilla wow and D&D / Baldur's Gate +0 to +6 enchanted items equivalency: Formula: Item enchantment (+X) times 6 = D&D item level progression out of max level of 40. Vanilla WoW has 60 levels D&D has 40 levels thus 60/40 = 1.5. So one can take D&D character / item levels out of 40 times by 1.5 and its ~equal to vanilla wow character / item levels. Compared at level 1 D&D / BG and level 60 vanilla WoW): D&D / BG +0 x 6 = 0/40 (~Level 1) D&D / BG +1 x 6 = 6/40 (Level 6) D&D / BG +2 x 6 = 12/40 (Level 12) D&D / BG +3 x 6 = 18/40 (Level 18) D&D / BG +4 x 6 = 24/40 (Level 24) D&D / BG +5 x 6 = 30/40 (Level 30) D&D / BG +6 x 6 = 36/40 (Level 36)
+
+Matthew — Today at 16:21
+"Compared at level 1 D&D / BG and level 60 vanilla WoW):
+D&D / BG +0 x 6 = 0/40 (~Level 1)
+D&D / BG +1  x 6 = 6/40 (Level 6)
+D&D / BG +2 x 6 = 12/40 (Level 12)
+D&D / BG +3 x 6 = 18/40 (Level 18)
+D&D / BG +4 x 6 = 24/40 (Level 24)
+D&D / BG +5 x 6 = 30/40 (Level 30)
+D&D / BG +6 x 6 = 36/40 (Level 36)"
+[16:23]
+All we need to do to convert D&D levels into vanilla WoW levels is go 60/40 = 1.5 and we takes that 1.5 and go like D&D level say like 12 x 1.5 = 18 in vanilla WoW.
+or like to think of it another way we just figured out that
+level 12 in D&D is equal to level 18 in vanilla WoW via some math. (edited)
+
+Matthew
+"Compared at level 1 D&D / BG and level 60 vanilla WoW): D&D / BG +0 x 6 = 0/40 (~Level 1) D&D / BG +1 x 6 = 6/40 (Level 6) D&D / BG +2 x 6 = 12/40 (Level 12) D&D / BG +3 x 6 = 18/40 (Level 18) D&D / BG +4 x 6 = 24/40 (Level 24) D&D / BG +5 x 6 = 30/40 (Level 30) D&D / BG +6 x 6 = 36/40 (Level 36)"
+
+Matthew — Today at 16:28
+So if we convert this table into WoW levels by taking the end levels 0 through 36 into vanilla WoW numbers we end up with:
+D&D / BG +0 x 6 = 0/40 (~Level 1) times by 1.5 = Level 0/60 (~Level 1) Vanilla WoW Levels
+D&D / BG +1  x 6 = 6/40 (Level 6) times by 1.5 = Level 9/60 Vanilla WoW Levels
+D&D / BG +2 x 6 = 12/40 (Level 12) times by 1.5 = Level 18/60 Vanilla WoW Levels
+D&D / BG +3 x 6 = 18/40 (Level 18) times by 1.5 = Level 27/60 Vanilla WoW Levels
+D&D / BG +4 x 6 = 24/40 (Level 24) times by 1.5 = Level 36/60 Vanilla WoW Levels
+D&D / BG +5 x 6 = 30/40 (Level 30) times by 1.5 = Level 45/60 Vanilla WoW Levels
+D&D / BG +6 x 6 = 36/40 (Level 36) times by 1.5 = Level 54/60 Vanilla WoW Levels
+[16:28]
+So whats the point?
+[16:30]
+If we match the Level 0 in D&D / BG to the Level 60 end game item level progression system we can over lay them and make discoveries and solve some rpg myseries.
+[16:30]
+Like this:
+[16:30]
+D&D / BG +0 ... = +0 Vanilla WoW Levels
+D&D / BG +1 ... = +9 Vanilla WoW Levels
+D&D / BG +2 ... = +18 Vanilla WoW Levels
+D&D / BG +3 ... = +27 Vanilla WoW Levels
+D&D / BG +4 ... = +36 Vanilla WoW Levels
+D&D / BG +5 ... = +45 Vanilla WoW Levels
+D&D / BG +6 ... = +54 Vanilla WoW Levels (edited)
+
+Matthew — Today at 16:56
+I made a super chocolate milk drink!
+
+[16:58]
+Dark and regular Hershey's cocoa powder and blue berry stevia and mint extract mineral water heated to melt pure smooth peanut butter and dissolve chocolate and vanilla nutrient powder mix and vanilla oat milk and dark chocolate oatmilk to mix together and even the temperature mhmm.
+[17:01]
+It was my finest chocolate milk creation to date 10/10 need to make again.
+
+Matthew — Today at 17:04
+  
+
+Matthew — Today at 17:16
+This one is just oats dark cocoa powder and vanilla nutrient mix and boiling water ya.
+
+[17:18]
+Anyway um its a bit trick with the next step with the vanilla wow end game items we have to like try to do soem simplification first
+[17:19]
+Okay at end game in vanilla wow most all of the end game items have 'requests level 60' etc. these are level 60 items.
+[17:19]
+I have to use effective item level like after all the hoopla / gobly gook to make it easier to understand.
+[17:20]
+we will just look at epic quality items from in game item level 65 to 92+ in the wow data base. Like to make it simple.
+
+Matthew — Today at 17:24
+Like what I did like kinda dumb but it works lol.
+
+So like in vanilla wow an item that was like requires level 60 and say item level 65 and is epic is like this behind the scenes for effective item level.
+
+required level is 60 and in game it says item level is 65 and is epic. but what the math is doing is like requires level 60 +17 effective item level = 77 ewffective item level because its epic then like after it added item levels and it gets confusing really fast lol. (edited)
+[17:26]
+So like blizzard got lazy and did not add more item qualities for more item level increases while keeping the required level the same in end game vanilla wow (it was rushed like less than a month to go before launch when end game raiding was 'ready' for live launch lol). (edited)
+[17:28]
+So all blizzard did was take like the levelling epics that worked like this:
+Required Level + Item Quality Level = Effective Level and use the effective item level to run teh item stat budget math but like it gets all messed up in game when like it shows 'item level'.
+[17:29]
+All that 'item level' usually is in vanilla wow is like required level +5 (edited)
+[17:29]
+So required level 60 is like 60 + 5 = 65, like for uncommon, rare, epic etc. (edited)
+[17:30]
+So when we see item level 92 epic naxxramas drop in vanilla wow its all kinda of messed up lol.
+
+Matthew — Today at 17:31
+like what I do is go 92 -5 item levels to get the 'base equipment required level' so like 92 - 5 = 87 like ...
+[17:34]
+uhg
+[17:34]
+so many 'rules' lol 
+[17:34]
+I swear this makes sense at the end and is simple
+[17:34]
+it does go 'click'
+[17:35]
+Okay like
+[17:36]
+This item
+"Dreadnaught Breastplate
+
+Item Level 92
+Binds when picked up
+Chest    Plate
+1027 Armor
++21 Strength
++43 Stamina
+Durability 165 / 165
+Requires Level 60
+Equip: Increased Defense +13.
+Equip: Increases your chance to dodge an attack by 1%.
+Equip: Improves your chance to hit by 2%.
+
+Dreadnaught's Battlegear (0/9)"
+
+[17:36]
+
+
+Matthew — Today at 17:39
+This epic item is the same as if in vanilla wow the player was level 92 -5 = 87. this item is as powerful as a requires level 87 epic item but requires level 60.
+[17:42]
+If this was a common item (don't mind the stats) it would require 92 -5 = 87 base level +17 epic item quality = Level 104 if it was a common item; or minus the stats it would require level 104 if it were a common item. I call this effective level for all items in vanilla wow are scalled from common items. Like Uncommon is effectively +5 levels better than common, rare is +11, epic is +17 etc. (edited)
+[17:44]
+Okay so eventually we have to get back to the D&D / BG item stuff with the +0 to +6 and where those kind of items would equate to / fit in if they were in vanilla WoW.
+
+Matthew
+D&D / BG +0 ... = +0 Vanilla WoW Levels D&D / BG +1 ... = +9 Vanilla WoW Levels D&D / BG +2 ... = +18 Vanilla WoW Levels D&D / BG +3 ... = +27 Vanilla WoW Levels D&D / BG +4 ... = +36 Vanilla WoW Levels D&D / BG +5 ... = +45 Vanilla WoW Levels D&D / BG +6 ... = +54 Vanilla WoW Levels (edited)
+
+Matthew — Today at 17:45
+"D&D / BG +0 ... = +0 Vanilla WoW Levels
+D&D / BG +1 ... = +9 Vanilla WoW Levels
+D&D / BG +2 ... = +18 Vanilla WoW Levels
+D&D / BG +3 ... = +27 Vanilla WoW Levels
+D&D / BG +4 ... = +36 Vanilla WoW Levels
+D&D / BG +5 ... = +45 Vanilla WoW Levels
+D&D / BG +6 ... = +54 Vanilla WoW Levels"
+[17:45]
+So if we use a base level of 'requires level 60'
+[17:48]
+We can go like:
+D&D / BG +0 ... = +0 +60 = 60 Vanilla WoW End Game Effective Item Levels 
+D&D / BG +1 ... = +9 +60 = 69 Vanilla WoW End Game Effective Item Levels 
+D&D / BG +2 ... = +18 +60 = 78 Vanilla WoW End Game Effective Item Levels 
+D&D / BG +3 ... = +27 +60 = 87 Vanilla WoW End Game Effective Item Levels 
+D&D / BG +4 ... = +36 +60 = 96 Vanilla WoW End Game Effective Item Levels 
+D&D / BG +5 ... = +45 +60 = 105 Vanilla WoW End Game Effective Item Levels 
+D&D / BG +6 ... = +54 +60 = 114 Vanilla WoW End Game Effective Item Levels (edited)
+
+Matthew
+If this was a common item (don't mind the stats) it would require 92 -5 = 87 base level +17 epic item quality = Level 104 if it was a common item; or minus the stats it would require level 104 if it were a common item. I call this effective level for all items in vanilla wow are scalled from common items. Like Uncommon is effectively +5 levels better than common, rare is +11, epic is +17 etc. (edited)
+
+Matthew — Today at 17:49
+So then we can take those like effective item levels and translate them into in game item levels so one can search in the vanilla wow item data base and find our +0 to +6 equivalent vanilla WoW items.
+
+Matthew
+We can go like: D&D / BG +0 ... = +0 +60 = 60 Vanilla WoW End Game Effective Item Levels D&D / BG +1 ... = +9 +60 = 69 Vanilla WoW End Game Effective Item Levels D&D / BG +2 ... = +18 +60 = 78 Vanilla WoW End Game Effective Item Levels D&D / BG +3 ... = +27 +60 = 87 Vanilla WoW End Game Effective Item Levels D&D / BG +4 ... = +36 +60 = 96 Vanilla WoW End Game Effective Item Levels D&D / BG +5 ... = +45 +60 = 105 Vanilla WoW End Game Effective Item Levels D&D / BG +6 ... = +54 +60 = 114 Vanilla WoW End Game Effective Item Levels (edited)
+
+Matthew — Today at 17:55
+So in order to find equivalent item level we gotta do one last bit of math gain to go in reverse a bit to line it all back again to work in the data base.
+One takes the equivalent item level and works backwards to find the in game item level like for example that Dreadnaught Breast plate of item level 92 epic quality item has an effective item level of 114 (92-5=87,87+17=104) so we go like this silly process of going -5 then going +17 right after.
+[17:56]
+So if we want a straight apples to oranges in game item level to equivalent item level for epic items we just look at the item level and go +12 and bingo it works! 92+12=104 wow!
+[17:57]
+Why +12? well if you go 17 -5 = 12. Its like simplifies the process a bit for quick math / maths. (edited)
+[17:59]
+So we can go in reverse too like we can take that 104 equivalent item level and as long as its epic quality item we can go -12 (reverse of +12) and 104 equivalent item level -12 turns into 92 in-game item level bingo wow! (edited)
+[17:59]
+104-12=92
+[17:59]
+
+[18:01]
+Then like we find in game item levels (which are shown in the vanilla wow item data base) of Effective item levels from items like in our D&D / BG case.
+
+Matthew
+We can go like: D&D / BG +0 ... = +0 +60 = 60 Vanilla WoW End Game Effective Item Levels D&D / BG +1 ... = +9 +60 = 69 Vanilla WoW End Game Effective Item Levels D&D / BG +2 ... = +18 +60 = 78 Vanilla WoW End Game Effective Item Levels D&D / BG +3 ... = +27 +60 = 87 Vanilla WoW End Game Effective Item Levels D&D / BG +4 ... = +36 +60 = 96 Vanilla WoW End Game Effective Item Levels D&D / BG +5 ... = +45 +60 = 105 Vanilla WoW End Game Effective Item Levels D&D / BG +6 ... = +54 +60 = 114 Vanilla WoW End Game Effective Item Levels (edited)
+
+Matthew — Today at 18:04
+D&D / BG +0 ... = 60 Vanilla WoW Effective Item Levels
+D&D / BG +1 ... = 69 Vanilla WoW Effective Item Levels
+D&D / BG +2 ... = 78 Vanilla WoW Effective Item Levels
+D&D / BG +3 ... = 87 Vanilla WoW Effective Item Levels
+D&D / BG +4 ...  = 96 Vanilla WoW Effective Item Levels
+D&D / BG +5 ... = 105 Vanilla WoW Effective Item Levels 
+D&D / BG +6 ... = 114 Vanilla WoW Effective Item Levels
+[18:07]
+Vanilla WoW Epic Effective Item Levels into Epic In-Game Item Levels:
+D&D / BG +0 ... = 60 -12 = 48 Epic In-Game Item Levels
+D&D / BG +1 ... = 69 -12 = 57 Epic In-Game Item Levels
+D&D / BG +2 ... = 78 -12 = 66 Epic In-Game Item Levels
+D&D / BG +3 ... = 87 -12 = 75 Epic In-Game Item Levels
+D&D / BG +4 ...  = 96 -12 = 84 Epic In-Game Item Levels
+D&D / BG +5 ... = 105 -12 = 93 Epic In-Game Item Levels
+D&D / BG +6 ... = 114 -12 = 102 Epic In-Game Item Levels
+[18:08]
+           
+[18:08]
+I did this in my head a few hours ago but I wanted to tell you so you could follow along and include you too.
+[18:10]
+Next part because I want to include you in the next part where we dive even deeper but it won't make any sense unless we expand the D&D / BG enchanted item progression system of +0 to +6 items to better reflect in game power and level progression.
+-Matthew Gordon Roulston and Ashley Corbin 4th of July 7:38 PM 4th / 07th (July) / 2023
