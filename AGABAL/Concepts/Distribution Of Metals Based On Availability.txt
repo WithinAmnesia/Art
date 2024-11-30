@@ -1,0 +1,26 @@
+Distribution Of Metals Based On Availability
+
+Prototype Availability Distribution:
+
+Primary Mineral: 300 / 2
+Secondary Mineral: 200 / 2
+Alloy: N/A
+Uncommon Mineral: 100 / 2
+Rare Mineral: 50 / 2
+Epic Mineral: 10 / 2
+
+8 Tiers:
+Each tier down divide the previous tier result by / 2 to get result for current tier; first tier does not follow this logic and is listed above for its starting value(s).
+
+Example:
+Epic Minerals:
+Tier 1 (Gold): 10 / 2 = 5%
+Tier 1 (Platinum): 5 / 2 = 2.5%
+Tier 1 (Shadow Steel): 2.5 / 2 = 1.25%
+Tier 1 (Aridium): 1.25 / 2 = 0.625%
+Tier 1 (Truegold): 0.625 / 2 = 0.3125%
+Tier 1 (Crimsonite): 0.3125 / 2 = 0.15625%
+Tier 1 (Arcanite): 0.15625 / 2 = 0.078125%
+Tier 1 (Orichalcum): 0.078125 / 2 = 0.0390625%
+
+-Matthew Gordon Roulston 10:26 AM 09th / 08 (August) / 2021
