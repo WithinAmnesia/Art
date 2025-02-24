@@ -1,0 +1,10 @@
+Potential Properties Existence Cube (A.K.A. P.P.E.C.)
+
+Time - (Flow of Existence, Millisecond, Second, Minute, Hour, Day, Week, Month, Season, Year, Decade, Campaign, Term, Generation, Era, Century, Millennium, Age)
+Cost - (Work Hours, Manhours, Person Hours, Investment)
+Value - (Gold, Silver, Copper, Fair Value, Free Market Value, Return of Investment, Profit, Gains, Gets)
+Location - (Space, Geographic, Deployment, Geography, Co-ordinates)
+Weight - (Grams, Kilograms, Tonnes)
+Dimensions - (Form, Appearance, Aesthetics, Meter, Kilometer, Quartermeter)
+
+-Matthew Gordon Roulston Ambitionfire 9:34 PM 23rd / 02 (February) / 2025
