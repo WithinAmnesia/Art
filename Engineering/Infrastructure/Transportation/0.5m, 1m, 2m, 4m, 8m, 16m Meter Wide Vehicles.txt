@@ -1,0 +1,5 @@
+0.5m, 1m, 2m, 4m, 8m, 16m Meter Wide Vehicles
+
+Land, Rail, Sea, Air, Space Global Standardized Vehicle Widths
+
+-Matthew Gordon Roulston Ambitionfire 2:42 AM 05th / 03 (March) / 2025
