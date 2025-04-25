@@ -8,7 +8,7 @@ Each player draw 2 cards each turn (at least 2 players possibly more).
 
 Players then pick what hidden cards in their hand to place face up when ready to go / shoot.
 
-Players must say ready then go / shoot and lay down 1 or 2 cards from thier hand (or 0 if they run out of cards vs a player with cards left [automatic round win(s) for the player with cards remaining]. (Players can elect to just say go and lay cards at the same time to make things faster).
+Players must say ready then go / shoot and lay down 1 or 2 cards from their hand (or 0 if they run out of cards vs a player with cards left [automatic round win(s) for the player with cards remaining]. (Players can elect to just say go and lay cards at the same time to make things faster).
 
 Player with the larger combined card number wins (face cards can be 10's or go higher face card beats lower, but this is optional).
 
