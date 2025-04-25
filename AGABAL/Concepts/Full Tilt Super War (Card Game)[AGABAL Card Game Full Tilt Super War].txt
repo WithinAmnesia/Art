@@ -12,7 +12,7 @@ Players must say ready then go / shoot and lay down 1 or 2 cards from their hand
 
 Player with the larger combined card number wins (face cards can be 10's or go higher face card beats lower, but this is optional).
 
-If there is a tie for highest card hand combination (what ever rules for values used) this is then a 'Full Tilt' and the tieing players must go again and draw 2 cards if their are cards left to draw from the deck in the center put cards down from their hand (this can be 0, 1 or 2 cards depending on if they have cards left but must be at least 1 card if they have 1 card left) bigger combined card hand number wins and will keep going until their is a winner. Or the cards run out. If the cards run out at a draw the original card holders get back their cards and the game is counted to see who won.
+If there is a tie for highest card hand combination (what ever rules for values used) this is then a 'Full Tilt' and the tieing players must go again and draw 2 cards if there are cards left to draw from the deck in the center put cards down from their hand (this can be 0, 1 or 2 cards depending on if they have cards left but must be at least 1 card if they have 1 card left) bigger combined card hand number wins and will keep going until their is a winner. Or the cards run out. If the cards run out at a draw the original card holders get back their cards and the game is counted to see who won.
 
 When a card hand is won by a player they take all the cards in the round and add them to their winnings pile (optionally face up) to count when the game is over.
 
