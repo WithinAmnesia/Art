@@ -4,7 +4,7 @@ Full Tilt Super War (Card Game)[AGABAL Card Game Full Tilt Super War]
 
 Highest number of card wins (optional suits count as numbers, jack, queen king in order etc.) Ace is 11 or 1 Joker is 1, needs 1 joker per suit if using joker. Joker counts as 1 if Ace is 11 or Ace is highest card.
 
-Each player sraw 2 cards each turn (at least 2 players possibly more).
+Each player draw 2 cards each turn (at least 2 players possibly more).
 
 Players then pick what hidden cards in their hand to place face up when ready to go / shoot.
 
