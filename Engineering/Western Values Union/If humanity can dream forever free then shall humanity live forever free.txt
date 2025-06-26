@@ -1,0 +1,42 @@
+"If humanity can dream forever free then shall humanity live forever free."
+
+withinamnesia
+1h
+
+Thank you for the feedback. I am glad to learn of more progress for C# with Godot and to learn about the LibGodot.DLL work progressing.
+
+I understand some of the difficulties in community building / growing the C# usage with Godot due to a lack of preexisting templates and deep documentation. This can be alleviated / solved / made better via more open source (preferably MIT license) projects and fully working game templates being made to give the creative community a deep in-field / boots on the ground / fighting in the trenches / first hand direct experience of theories and possibilities manifested / created into reality.
+
+A grand set of proper MIT templates can do a great deal to teach not only engine theory but also game design and applied logic to empower people. So as to see the ways of turning ideas / dreams into reality / making a working project into a game or at least a vertical slice.
+
+This can be done in part via a working grand set of templates and MIT forever free games that can be reverse-engineered by the creative community to help everyone deeply understand how the kinds of games the world loves are made.
+
+Also a feature complete properly working set of grand scale vertical slice kind of game templates made in Godot can step by step, piece by piece, bit by bit show them directly / hand on / teach everyone how in part one must operate the Godot tool set in the real world / practically.
+
+Also to have a creative community directly own outright MIT forever free all the tools and great works and great proof of concept sets of educational / show case games / demos / vertical slices. So as to properly help the creative community help themselves make their own iterations and jump-start their own creative spirit and be properly empowered via MIT creative game developing tools such as Godot to pursue their dreams.
+
+There is a lot of work to do. The people are always worth the effort though. When we give to the community, in many ways we give more than what we could give to ourselves and we are made better people in many ways by making the community a better place to live. If we give well to empower everyone for all time we can all live forever free. Yet it is hard work and the sacrifices are great yet these battles once won will echo into eternity.
+
+MIT is by the highest courts in the western world and all regions enforced by NATO legally forever free. Once we win with MIT we win forever; thus we, everyone, all peoples of humanity for all time become forever free to pursue our creative dreams. If humanity can dream forever free then shall humanity live forever free.
+
+For my small part in this kind of freedom fighting to empower all of humanity, everyone alive and to be born for all time to be able to dream forever free and thus shall empower everyone to live forever free. I am currently under going a great / big task of making a vertical slice MIT C# Voxel M.M.O.A.R.P.G. to give my past creative developer experiences in grand scale games and M.M.O.'s into a proper sharable form that can empower the creative community.
+
+I am not special yet someone has to help the creative community in this time of challenge; one must be strong themselves in order to be strong for others. It is strong to be able help one’s self, it is beyond strength to able help all others.
+
+Today requires strength just to live freely, even so not all people can unfortunately. In this great struggle of our time it requires a strength beyond strength, a will beyond will for all people today to be able to truly dream freely. In my small ways perhaps one person can do big things so long as they believe. If I can help such a noble aim as to help everyone, all human beings be able to dream forever free and thus live forever free. Then my life is well lived and my sacrifices well made. For thus I fear not death, I fear only the inability to keep helping others and to thus empower all of humanity to be forever free.
+
+This work has manifested it self into myself working with many MIT projects and currently the battle / struggle is making a proper MIT C# human translation of the great VoxelGame / BlockyGame of GodotVoxel (links: GitHub - Zylann/voxelgame: Voxel world prototype made with Godot Engine + GitHub - Zylann/godot_voxel: Voxel module for Godot Engine ). This is my major / prime focus / main effort part in helping grow the MIT C# game developer community currently.
+
+Godot 4 has many strengths yet this project I am on might break Godot 4 to its core and most likely will require a new C# focused engine rewrite. As in why I say this is that currently I suspect there will be the great reworks needed as for any case of adolescent / patchwork integrations when met within the harsh unforgiving process of optimization / code efficiency demands for large scale M.M.O. endeavours. Any 4k to 8k to 16k+ Voxels in C / C++ / C# most likely will rip apart the Godot 4 code that is less than ideal at hosting colossal scale worlds.
+
+I broke Unreal 5 in the late 2010’s and early 2020’s with a far less demanding project. I ran into large scale growth and future proofing issues with the closed source nature of the Unreal developers team and business model. This was also the case for many old guard developers.
+
+Godot 5.x perhaps will not be required for a MIT C# 480p / 512p to 1024p / 1080p Voxels M.M.O.A.R.P.G. but I suspect that this will push Godot 4.x to its breaking points along with the supercharged GodotVoxels. I suspect through this open source / MIT discoverable process / endeavour the creative community can learn alongside myself. As we watch together the related works and projects be less stupid and more smart over time as they ram through brick wall after brick wall towards progress to empower the creative community with great works being MIT forever free.
+
+I am grateful for the life / positive spirit of the creative community that supports and works to improve Godot and the family of works that depend upon Godot. I wish to help answer my not easy to answer questions by applying myself to the hard challenges and seeing what the work will reveal in what is practical and what requires more will to succeed.
+
+It should be fun in the end and I look forward to helping empower the creative community with great works / vertical slice templates (including MIT C# Voxel M.M.O.A.R.P.G.'s) that are C# MIT and forever free.
+
+Thank you and I wish to learn more from the creative community. If anyone has anything to share please feel free to do so. Please feel free to ask any questions, share thoughts and feelings and feel free to give any feedback. Take care and best of luck. The creative community is full of the greatest people in the world, the people are worthy of great MIT forever free creative tools to empower all peoples across all lands, nations and spaces and across walks of life to create games worth playing!
+
+Matthew Gordon Roulston Ambitionfire 3:21 AM to 4:39 AM 26th / 06 (June) / 2025
