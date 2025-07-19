@@ -1,0 +1,20 @@
+Item Quality / Rarity Table+++++ (Colours, Item Level) [Range: -50 to +100]
+
+Annihilated (Defective) -50 Item Levels [Black]
+Destroyed (Faulty) -40 Item Levels [Soot]
+Broken (Flawed) -30 Item Levels [Iron]
+Decrepit (Poor) -20 Item Levels [Ash]
+Crude (Inferior) -10 Item Levels [White]
+Common (Weak) +/-0 Item Levels [Amber]
+Fine (Minor) +10 Item Levels [Chartreuse]
+Exquisite (Lesser) +20 Item Levels [Green]
+Masterwork (Substantial) +30 Item Levels [Aqua]
+Elite (Greater) +40 Item Levels [Blue]
+Heroic (Major) +50 Item Levels [Purple]
+Epic (Mighty) +60 Item Levels [Pink]
+Wonderous (Superior) +70 Item Levels [Red]
+Legendary (Supreme) +80 Item Levels [Orange]
+Supernatural (Transcendent) +90 Item Levels [Yellow]
+Mythical (Absolute) +100 Item Levels [Grey]
+
+-Matthew Gordon Roulston 1:53 PM 11th / 10 (October) / 2023
