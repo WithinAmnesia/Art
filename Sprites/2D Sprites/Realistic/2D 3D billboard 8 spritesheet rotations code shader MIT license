@@ -1,0 +1,79 @@
+2D 3D billboard 8 spritesheet rotations code shader license
+
+Matthew — 15:18
+How can the rest of the creative community do this? Is this a plugin or something. Looks neat.
+Nicholas — 15:18
+Yeah, a camera with the same functionality as Unreal Engine’s as an opinion choice could be fun to see, @panickbutton. 
+notarget137
+[LAVA]
+ — 15:19
+Nah I wrote i teeny tiny shader it's not even a plugin
+Matthew — 15:21
+Can this be a MIT license repo thingy that the the rest of the lego block coding devs could use? Its really cool and there are lots of 2D sprites and not many good coders or resources to do Doom-esque graphics easy for the creative community. Some artists have ~0 code skills so I figured to share that in case it can help the wider creative community. 
+notarget137
+[LAVA]
+ — 15:23
+shader_type spatial;
+uniform bool billboard = true;
+uniform bool y_billboard = false;
+uniform vec2 xy_scale = vec2(1.0, 1.0);
+uniform int rotations = 8;
+
+uniform sampler2D sprite_texture : source_color, filter_nearest;
+
+void vertex() {
+    if (billboard) {
+        mat4 billboard_matrix = VIEW_MATRIX * mat4(
+                INV_VIEW_MATRIX[0] * xy_scale.x,
+                y_billboard ? INV_VIEW_MATRIX[1] : MODEL_MATRIX[1] * xy_scale.y,
+                INV_VIEW_MATRIX[2],
+                MODEL_MATRIX[3]
+            );
+            MODELVIEW_MATRIX = billboard_matrix;
+    }
+}
+
+void fragment() {
+    vec2 uv = UV / vec2(float(rotations), 1.0);
+    
+    float rotation_angle_normalized = 0.0;
+    
+    if (NORMAL.r < 0.0) {
+        rotation_angle_normalized = (atan(NORMAL.b/NORMAL.r) / PI + 0.5) / 2.0;
+    } else {
+        rotation_angle_normalized = (atan(NORMAL.b/NORMAL.r) / PI + 1.5) / 2.0;
+    }
+    
+    vec2 uv_offset = vec2(round(rotation_angle_normalized * float(rotations)) / float(rotations), 0.0);
+    
+    vec4 sprite_color = texture(sprite_texture, uv + uv_offset);
+    ALBEDO = sprite_color.rgb;
+    ALPHA = sprite_color.a;
+}
+
+Here you go. Feed it 8 rotations in one sprite in a row and it's done.
+I therefore release this piece of code under DWTFYW license.
+Entity325🇩 — 15:23
+based
+Matthew — 15:24
+Can I archive this code as MIT with your credit too? I have lots of CC0 and MIT archived assets and not many Unlicense and DWTFYW licenses.
+notarget137
+[LAVA]
+ — 15:25
+Sure thing
+Matthew — 15:25
+Thank you. (if someone wants 3D/2D Doom-esque graphics help I'll point them to this. it looks great.) 
+notarget137
+[LAVA]
+ — 15:25
+DWTFYW includes relicensing the code under any name. Basically do whatever you want. 
+Matthew — 15:26
+Okay I did not know that thank you.
+notarget137
+[LAVA]
+ — 15:27
+https://choosealicense.com/licenses/wtfpl/
+Exactly this
+Choose a License
+Do What The F*ck You Want To Public License
+The easiest license out there. It gives the user permissions to do whatever they want with your code.
