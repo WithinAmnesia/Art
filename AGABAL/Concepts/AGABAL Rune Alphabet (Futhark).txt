@@ -7,7 +7,7 @@ b = Birch (02)
 C = Calxaz (03)
 c = Calx (03)
 D = Dayaz (04)
-e = Day (04)
+d = Day (04)
 E = Earaz (05)
 e = Ear (05)
 F = Foeaz (06)
@@ -64,5 +64,6 @@ Phi = Phiaz (31)
 phi = Phi (31)
 Omega = Omegaz (32)
 omega = Omega (32)
+
 
 -Matthew Gordon Roulston 6:21 PM 26th / 05 (May) / 2025 [Still needs Rune Symbols for Upper Case and Lower Case Rune Letters.]
