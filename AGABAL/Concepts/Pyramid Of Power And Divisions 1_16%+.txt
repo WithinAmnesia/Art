@@ -25,7 +25,7 @@ Foundation:
 13 x 13 = 169 [25.00%]
 14 x 14 = 196 [18.75%]
 15 x 15 = 225 [12.50%]
-16 x 16 = 256 [6.25]
+16 x 16 = 256 [6.25%]
 (169 + 196 + 225 + 256 = 846)
 
 Combined Pyramid Of Power Blocks Total:
@@ -38,5 +38,6 @@ Combined Pyramid Of Power Blocks Total:
 (169 + 196 + 225 + 256 = 846)
 =
 1,496
+
 
 -Matthew Gordon Roulston Ambitionfire 3:59 PM 10th + 11:11 PM 16th / 09 (September) / 2025 
