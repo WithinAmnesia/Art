@@ -1,0 +1,27 @@
+AGABAL Southern Hemisphere 8 Geocultural Continents Area Kilometers Squared
+
+1.) North America Geocultural Continent:
+[( 8   ÷   8 )   ×   ( 100   ÷   450 )   ×   827412.48 = 183,869.44 km2 (scaled 1:100)]
+
+2.) Europe Geocultural Continent:
+[( 7   ÷   8 )   ×   ( 100   ÷   450 )   ×   827412.48 = 160,885.76 km2 (scaled 1:100)]
+
+3.) Asia Geocultural Continent:
+[( 6   ÷   8 )   ×   ( 100   ÷   450 )   ×   827412.48 = 137,902.08 km2 (scaled 1:100)]
+
+4.) South America Geocultural Continent:
+[( 5   ÷   8 )   ×   ( 100   ÷   450 )   ×   827412.48 = 114,918.4 km2 (scaled 1:100)]
+
+5.) Oceania Geocultural Continent:
+[( 4   ÷   8 )   ×   ( 100   ÷   450 )   ×   827412.48 = 91,934.72 km2 (scaled 1:100)]
+
+6.) Africa Geocultural Continent:
+[( 3   ÷   8 )   ×   ( 100   ÷   450 )   ×   827412.48 = 68,951.04 km2 (scaled 1:100)]
+
+7.) Zealandia Geocultural Continent:
+[( 2   ÷   8 )   ×   ( 100   ÷   450 )   ×   827412.48 = 45,967.36 km2 (scaled 1:100)]
+
+8.) Antarctica Geocultural Continent:
+[( 1   ÷   8 )   ×   ( 100   ÷   450 )   ×   827412.48 = 22,983.68 km2 (scaled 1:100)]
+
+-Matthew Gordon Roulston Ambitionfire 5:51 PM 16th / 10 (October) / 2025
