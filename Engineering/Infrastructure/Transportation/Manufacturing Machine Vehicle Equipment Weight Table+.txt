@@ -1,0 +1,167 @@
+Manufacturing Machine Vehicle Equipment Weight Table:
+
+0.125-0.25-0.5 Tons
+
+0.5-1.0-1.5 Tons
+
+1.5-2.0-3.0 Tons
+
+3-5 Tons
+
+5-7 Tons
+
+7-9 Tons
+
+9-15 Tons
+
+14-20 Tons
+
+19-25 Tons
+
+24-30 Tons
+
+29-35 Tons
+
+34-40 Tons
+
+39-45 Tons
+
+44-50 Tons
+
+49-55 Tons
+
+54-60 Tons
+
+59-65 Tons
+
+64-70 Tons
+
+69-75 Tons
+
+74-80 Tons
+
+79-85 Tons
+
+84-90 Tons
+
+89-95 Tons
+
+94-100 Tons
+
+99-105 Tons
+
+104-110 Tons
+
+100 Tonnes
+
+200 Tonnes
+
+300 Tonnes
+
+400 Tonnes
+
+500 Tonnes
+
+640 Tonnes
+
+800 Tonnes
+
+1,000 Tonnes
+
+2,560 Tonnes
+
+3,210 Tonnes
+
+6,400 Tonnes
+
+8,000 Tonnes
+
+10,000 Tonnes
+
+12,800 Tonnes
+
+16,000 Tonnes
+
+20,000 Tonnes
+
+25,600 Tonnes
+
+32,100 Tonnes
+
+64,000 Tonnes
+
+100,000 Tonnes
+
+128,000 Tonnes
+
+256,000 Tonnes
+
+321,000 Tonnes
+
+640,000 Tonnes
+
+1,000,000 Tonnes (Land / Sea Vehicles)
+
+1,600,000 Tonnes (Land / Sea Vehicles)
+
+2,000,000 Tonnes (Land / Sea Vehicles)
+
+4,000,000 Tonnes (Land / Sea Vehicles)
+
+8,000,000 Tonnes (Land / Sea Vehicles)
+
+10,000,000  Tonnes (Land / Sea Vehicles)
+
+16,000,000 Tonnes (Land / Sea Vehicles)
+
+32,100,000 Tonnes (Land / Sea Vehicles)
+
+64,000,000 Tonnes (Land / Sea Vehicles)
+
+100,000,000 Tonnes (Land / Sea Vehicles)
+
+128,000,000 Tonnes (Land / Sea Vehicles)
+
+256,000,000 Tonnes (Land / Sea Vehicles)
+
+321,000,000 Tonnes (Land / Sea Vehicles)
+
+640,000,000 Tonnes (Land / Sea Vehicles)
+
+1,000,000,000 Tonnes (Land / Sea Vehicles)
+
+1,280,000,000 Tonnes (Land / Sea Vehicles)
+
+1,600,000,000 Tonnes (Land / Sea Vehicles)
+
+2,560,000,000 Tonnes (Land / Sea Vehicles)
+
+3,210,000,000 Tonnes (Land / Sea / Space Vehicles)
+
+1,600,000,000,000 Tonnes (Land / Sea / Space Vehicles)
+
+3,210,000,000,000 Tonnes (Land / Sea / Space Vehicles)
+
+6,400,000,000,000 Tonnes (Land / Sea / Space Vehicles)
+
+12,800,000,000,000 Tonnes (Land / Sea / Space Vehicles)
+
+25,600,000,000,000 Tonnes (Land / Sea / Space Vehicles)
+
+32,100,000,000,000 Tonnes (Land / Sea / Space Vehicles)
+
+64,000,000,000,000 Tonnes (Land / Sea / Space Vehicles)
+
+128,000,000,000,000 Tonnes (Land / Sea / Space Vehicles)
+
+321,000,000,000,000+ Tonnes (Land / Sea / Space Vehicles)
+
+640,000,000,000,000+ Tonnes (Land / Sea / Space Vehicles)
+
+1,280,000,000,000,000+ Tonnes (Land / Sea / Space Vehicles)
+
+3,210,000,000,000,000+ Tonnes (Land / Sea / Space Vehicles)
+
+
+
+-Matthew Gordon Roulston Ambitionfire 9:00 PM - 9:21 PM - 9:32 PM 02nd / 12 (December) / 2025
