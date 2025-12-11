@@ -1,0 +1,32 @@
+Production Functionality %, Completeness Grade And Morale Value Table:
+----------------
+0/1 0% to 40%. Not working. ~F to ~E Grade (Very low morale)
+----
+1/2 50% to 59%. Working with problems. ~D Grade. (Okay morale)
+2/3 60% to 69% to ~70% to 74%. Working with minor difficulties ~C Grade (Nice morale)
+3/4 75% to 79% Working well with some issues here and there, still needs work. ~B Grade (Good Morale)
+4/5 80% to 99% Working very well with uncommon minor known issues, it should be public testing for more real world bug fixing testing iteration. ~A Grade (Great Morale)
+----
+5/5 100+% Working extremely well and used as an example to help others, a genuinely good experience for most all involved people. ~A+ to S+ Grade (World Class Morale) 
+-Matthew Gordon Roulston Ambitionfire 10:46 AM 11th / 12 (December) / 2025
+
+
+
+
+
+
+"The gist of my message was an adaptor for GDscript that runs in ReX to dump in GDscript and have a project work (even with losses) although side RDscript / C++ / C# code base / scripts can help people / teams be productive for a 1/2 ~50-51% ~D Grade working prototype is a lot more reasonable to give to a team to be like 'eh this could use a patch / code translation' vs. okay its 0/1~25-40%  F to E Grade broken not working and its your job to get it working good luck x.x.
+
+It feels like this sorta from experience making things work from idea to reality:
+
+Production Functionality %, Completeness Grade And Morale Value Table:
+----------------
+0/1 0% to 40%. Not working. ~F to ~E Grade (Very low morale)
+----
+1/2 50% to 59%. Working with problems. ~D Grade. (Okay morale)
+2/3 60% to 69% to ~70% to 74%. Working with minor difficulties ~C Grade (Nice morale)
+3/4 75% to 79% Working well with some issues here and there, still needs work. ~B Grade (Good Morale)
+4/5 80% to 99% Working very well with uncommon minor known issues, it should be public testing for more real world bug fixing testing iteration. ~A Grade (Great Morale)
+----
+5/5 100+% Working extremely well and used as an example to help others, a genuinely good experience for most all involved people. ~A+ to S+ Grade (World Class Morale) "
+-Discord Redot And ReX Engine Channels
