@@ -1,0 +1,49 @@
+Vehicle Weight Classes Names By Tonne
+
+
+
+0.125 Tonnes Ultra Micro Weight Class
+
+0.250 Tonnes = Ultra Miniature Weight Class
+
+0.500 Tonnes = Ultra Compact Weight Class
+
+1.000 Tonnes = Ultra Light Weight Class
+
+2.000 Tonnes = Micro Weight Class
+
+4.000 Tonnes = Miniature Weight Class
+
+8.000 Tonnes = Compact Weight Class
+
+16.000 Tonnes = Light Weight Class
+
+32.000 Tonnes = Medium Weight Class
+
+64.000 Tonnes = Heavy Weight Class
+
+128.000 Tonnes = Super Heavy Weight Class
+
+256.000 Tonnes = Ultra Heavy Weight Class
+
+512.000 Tonnes = Mega Heavy Weight Class
+
+1,024.000 Tonnes = Giga Heavy Weight Class
+
+2,048.000 Tonnes = Tera Heavy Weight Class
+
+4,096.000 Tonnes = Peta Heavy Weight Class
+
+8,192.000 Tonnes = Exa Heavy Weight Class
+
+16,384.000 Tonnes = Zetta Heavy Weight Class
+
+32,768.000 Tonnes = Yotta Heavy Weight Class
+
+65,536.000 Tonnes = Ronna Heavy Weight Class
+
+131,072.000 Tonnes = Quetta Heavy Weight Class
+
+
+
+-Matthew Gordon Roulston Ambitionfire 7:56 PM 18th / 12 (December) / 2025
