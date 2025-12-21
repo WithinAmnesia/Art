@@ -1,0 +1,36 @@
+128 (64+64) +8, + 2, +16, +4, + 1, +0.25 = ~160 Dungeons [160 x 2 = 320 + 1 (Tera Dungeon) = 321]
+
+128 dungeon / 16
+16 regions with 8 dungeons is 16 x 8 = 128 total dungeons
+each of the 16 regions has 4 dungeons together to make 1 super dungeon
+16 regions with 1 super dungeon each = 16 super dungeons
+16 super dungeons / 4 = 4 ultra dungeons
+4 ultra dungeons / 4 = 1 mega dungeon
+1 mega dungeon
+0.25 Giga dungeon or ~1 Giga Dungeon
+
+
+128 regular dungeons with 16 regions with 8 regular dungeons each with 4 regular dungeons paired up in a share set (sea, fire, earth, wind etc) that once the 4 regular set dungeons are beat it unlocks 1 regional super dungeon. Then beat all 16 regional super dungeons (made of 4 shared themed regular dungeons in a super dungeon set) so the 16 super dungeons can be follow same pattern of 4 shared theme set of 4 super dungeons beaten together unlocks 1 ultra dungeon and if all 16 super dungeons are beaten they should unlock 4 ultra dungeons and with 4 ultra dungeons beaten it should unlock 1 mega dungeon.
+
+128 regular dungeons (64 smaller dungeons 64 shared theme set dungeons)
+
+8 Micro Dungeons / 4 = 2 Miniature Dungeons
+
+16 super dungeons each on regional and base on the 4 of the 64 themed set dungeons
+4 ultra dungeons based on the 16 super dungeons with 4 themed set super dungeons beaten together to unlock the corresponding 1 ultra dungeon
+1 mega dungeon unlocked after beating all 4 of the ultra dungeons in a themed set.
+0.25 Giga dungeon after beating the 1 mega dungeon.
+
+128 (64 smaller dungeons, 64 themed set dungeons)
+16 super dungeons
+4 ultra dungeons
+1 mega dungeon(s)
+0.25 Giga dungeon(s)
+[0.125 Tera Dungeon(s) from 2 x 0.25 Giga Dungeon(s)]
+
+8 micro dungeons
+2 miniature dungeons
+
+= 159 or ~160 total dungeons
+
+-Matthew Gordon Roulston Ambitionfire 11:59 PM 20th / 12 (December) / 2025
