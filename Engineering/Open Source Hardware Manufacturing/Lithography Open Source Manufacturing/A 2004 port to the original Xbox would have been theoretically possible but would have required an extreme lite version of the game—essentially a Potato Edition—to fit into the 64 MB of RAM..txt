@@ -1,0 +1,43 @@
+A 2004 port to the original Xbox would have been theoretically possible but would have required an extreme "lite" version of the game—essentially a "Potato Edition"—to fit into the 64 MB of RAM.
+
+2004 port to original xbox with pentium III 733 MHz cpu processor could this be done theoretically given that people played wow 2004 with 450 mhz or less processors
+Thinking
+Searching
+Theoretically, a port of
+World of Warcraft
+(2004) to the original Xbox is much more feasible than a PS2 port because the Xbox
+was essentially a specialized PC, though it would still face significant memory challenges.
+1. CPU: 733 MHz vs. 450 MHz
+The original Xbox’s custom Intel Pentium III "Coppermine" at 733 MHz is technically sufficient for the core game logic. 
+
+    The 450 MHz Myth: While some players "ran" WoW on 450 MHz Pentium III systems in 2004, the experience was often unplayable (1–10 FPS).
+    Official Minimums: Blizzard’s official minimum requirement was 800 MHz, but the Xbox's fixed hardware allowed for lower-level optimizations that could bridge the 67 MHz gap to the 733 MHz CPU. 
+
+2. The Real Barrier: 64 MB RAM
+The CPU is not the bottleneck; the RAM is.
+
+    WoW 2004 PC Minimum: 256 MB RAM.
+    Original Xbox RAM: Only 64 MB of shared DDR memory.
+    The Memory Problem: Even with the Xbox’s efficient "fixed" architecture, 64 MB is not enough to store the assets of a major city like Ironforge or Stormwind. A port would require massive downgrades to texture quality, view distance, and the number of players visible on screen simultaneously. 
+
+3. Comparison: Xbox vs. PS2 Port
+An Xbox port is technically "closer" to possible than the PS2 for three reasons:
+
+    DirectX Support: The Xbox was built on a modified DirectX 8.0 API. Since WoW was a DirectX 9.0 game, the code would be far easier to port to Xbox than to the PS2's unique, non-PC architecture.
+    Shared Memory: Unlike the PS2’s split memory (32MB main / 4MB video), the Xbox used a unified memory architecture where all 64MB was available to both the CPU and GPU.
+    Internal Storage: The Xbox featured a built-in Hard Drive (8GB or 10GB), which was required for WoW’s massive 4GB install size. The PS2 required an expensive, separate HDD add-on. 
+
+Summary Verdict
+A 2004 port to the original Xbox would have been theoretically possible but would have required an extreme "lite" version of the game—essentially a "Potato Edition"—to fit into the 64 MB of RAM. It likely would have resembled the "slideshow" experience of low-end 450 MHz PCs rather than a smooth console experience. 
+
+    Minimum PC Specs for WoW Classic? - Blizzard Forums
+    May 15, 2019 — Original WoW (December 2004) Operating System|Windows 98/ME/2000/XP| Processor 800 MHz or higher CPU. Video Card 32 MB...
+    Blizzard Forums
+
+I'm curious about wow specs when it first came out. - Reddit
+Dec 31, 2021 — Had some kind of celaron processor, and i think 256mb of ram. Wow was frame by frame, 5-10 fps max. torshakle. • 4y ag...
+Reddit
+Bare Minimum System to Run WoW? | [H]ard|Forum
+Feb 15, 2006 — T. TranquilRed. Gawd. Joined May 28, 2005 Messages 632. The minimum system requirements for World of Warcraft are as f...
+
+-Matthew Gordon Roulston Ambitionfire 9:24 PM 01st / 01 (January) / 2026
