@@ -1,0 +1,38 @@
+Render Distance (15.625 mm ^ 3 cubed voxels made of 1 Chunk Approximation ~16 m x 16 m x 384 m):
+
+0.5 Chunks = ~2-4 GB RAM
+1.0 Chunks = ~4-6 GB RAM
+2 Chunks = ~6-8 GB RAM
+3 Chunks = ~10-12 GB RAM
+4 Chunks = ~14-16 GB RAM
+5 Chunks = ~18-20 GB RAM
+6 Chunks = ~22-24 GB RAM
+7 Chunks = ~26-28 GB RAM
+8 Chunks = ~30-32 GB RAM
+9 Chunks = ~34-36 GB RAM
+10 Chunks = ~38-40 GB RAM
+11 Chunks = ~42-44 GB RAM
+12 Chunks = ~46-48 GB RAM
+13 Chunks = ~50-52 GB RAM
+14 Chunks = ~54-56 GB RAM
+15 Chunks = ~58-60 GB RAM
+16 Chunks = ~62-64 GB RAM
+17 Chunks = ~66-68 GB RAM
+18 Chunks = ~70-72 GB RAM
+19 Chunks = ~74-76 GB RAM
+20 Chunks = ~78-80 GB RAM
+21 Chunks = ~82-84 GB RAM
+22 Chunks = ~86-88 GB RAM
+23 Chunks = ~90-92 GB RAM
+24 Chunks = ~94-96 GB RAM
+25 Chunks = ~98-100 GB RAM
+26 Chunks = ~102-104 GB RAM
+27 Chunks = ~106-108 GB RAM
+28 Chunks = ~110-112 GB RAM
+29 Chunks = ~114-116 GB RAM
+30 Chunks = ~118-120 GB RAM
+31 Chunks = ~122-124 GB RAM
+32 Chunks = ~126-128 GB RAM
+33 Chunks+ = ~X-X GB RAM
+
+-Matthew Gordon Roulston Ambitionfire 10:08 PM 01st / 01 (January) / 2026
