@@ -1,0 +1,9 @@
+AGABAL M.M.O.A.R.P.G. W.o.A. V.0.001 Project 'Veldryn 1986' Pixel Scale
+----------------
+1,000 mm / 8 ^ 3 Scale Hybrid Voxels
+1,000 mm / 8 = 125 mm
+1 x Cubic Voxel = 125 mm ^ 3 or 1 Eighthmeter Scale
+----------------
+1 Pixel = 15.625 mm / 1.5625 cm
+----------------
+-Matthew Gordon Roulston Ambitionfire 7:16 Pm 05th / 02 (February) / 2026
