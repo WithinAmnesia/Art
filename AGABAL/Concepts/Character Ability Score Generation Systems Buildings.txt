@@ -1,0 +1,27 @@
+Character Ability Score Generation Systems Buildings
+
+Tavern / Inn / Restaurant / Dinner / Store / Settlement Commercial / Common Buildings / Housing.
+(Roll XDX In Order, Possibly Assigning In Preferred Order; Roll X Amount of Characters, Pick X 'Best' Characters.)[Method 0, 1, 2, 3]
+
+Archetype (Wanderer, Warrior, Warden, Wizard, Worlder) Guilds Private Individual Ownership Buildings.
+(Roll XDX drop the lowest XD, keep the highest remaining XD, Assign In Any Preferred Order.)[Method 6,7]
+
+Garrison / Castle / Keep / Tower / Fort / Armed Forces / Military Buildings Infrastructure.
+(Roll XDX X Times, Keep Highest, Assign In Any Preferred Order)[Method 5]
+
+Academy / University / College / School / Training Grounds / Militia / Public Facility Buildings Infrastructure.
+(Roll XDX X Time(s) Keeping Highest Per Attribute In Order) [Method 4,8]
+
+-Matthew Gordon Roulston Ambitionfire 7:45 PM 08th / 02 (February) / 2026
+:sparkling_heart:
+Click to react
+:sparkles:
+Click to react
+:people_hugging:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+
+Message @SkyLizardGirl
