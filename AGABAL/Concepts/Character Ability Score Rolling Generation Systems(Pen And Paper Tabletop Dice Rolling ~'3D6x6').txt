@@ -1,0 +1,38 @@
+Character Ability Score Rolling Generation Systems(Pen And Paper Tabletop Dice Rolling ~'3D6x6'):
+
+Roll Prime Ability Score Attributes Systems:
+0.) Roll 3D6 six time in Order (Strength, Intelligence, Wisdom, Dexterity, Constitution, Charisma)
+1.) Roll 3D6 six times in Order (Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma) [The Default Main Ability Score Ordering]
+2.) Roll 3D6 six times in Order then make 12 characters and pick the 'best' 1 character.
+3.) Roll 3D6 six times then choose to place the resulting ability scores where is 'best'.
+4.) Roll 3d6 twice for each ability (rolling 12 times total), picking the higher total for each. Record in order.
+5.) Roll 3d6 twelve times, then select the best six results and assign them to abilities in any order.
+6.) Roll 4d6, drop the lowest die, and total the remaining three die. Do this six times and choose to assign the resulting ability scores in any order. (This is the most common "heroic" standard.)
+7.) Roll 5d6, drop the two lowest dies, and total the remaining three die. Do this six times and choose to assign the resulting ability scores in any order. (This is a High-Powered Method.)
+8.) Roll 3D6 six times for each ability in order. Repeat this for each ability and keep the highest score for each.
+9.) Choose Gender / Race / Class / Alignment then roll Roll 4d6, drop the lowest die, and total the remaining three die. Do this six times and choose to assign the resulting ability scores in any order. If custom use point by a point system either 1 to 1 value or more diminishing returns for point buying ability scores. If wanted reroll if below 75 total roll.
+10.) Choose Gender / Race / Class / Alignment then roll Roll 5d6, drop the lowest two dies, and total the remaining three die. Do this six times and choose to assign the resulting ability scores in any order. If custom use point by a point system either 1 to 1 value or more diminishing returns for point buying ability scores. If wanted reroll if below 75 total roll.
+
+Point Buy Systems: 
+1.) The Standard Array (Default)
+Used for quick, balanced character generation. 
+
+    Numbers: 15, 14, 13, 12, 10, 8.
+    Assignment: Assign these six numbers to your ability scores in any order.
+2.) The Elite Method (Point Buy)
+Used for creating balanced characters without the variance of dice rolls. This is highly popular in 3.5 to prevent one player from having much higher stats than others. 
+
+    Total Points: The standard elite array is 25 points or 32 points (depending on the desired campaign power level).
+    Costs: All stats start at 8. Players buy higher scores using a point cost:
+        8 to 14: 1 point per 1 point increase (e.g., 14 costs 6 points).
+        15 to 16: 2 points per 1 point increase.
+        17 to 18: 3 points per 1 point increase.
+    Maximum: Ability scores cannot exceed 18 before racial adjustment
+3.) All six abilities start with a base score of 8. The player has 7d6 to divide among those scores. All points from a single die must be applied to one ability. Scores cannot exceed 18, and to reach 18, the dice must total exactly to it. (or 'waste' the die values to get to 18 or add in any way if custom.)
+4.) This method was created specifically to make characters that meet the high requirements of Unearthed Arcana classes (like Paladins or Cavaliers).
+
+    It requires the player to choose a class first (subject to DM approval).
+    Dice are rolled for each ability, but the number of dice depends on the class priority.
+    Example: A fighter might roll 9d6 for Strength and keep the highest 3, while rolling 4d6 for Charisma.
+
+-Matthew Gordon Roulston Ambitionfire 4:44 PM 08th / 02 (February) / 2026
