@@ -1,0 +1,2 @@
+Matthew's Spiral. X + (Previous X / 2) = < 100% no matter how many reapplication cycles of addition.
+-Matthew Gordon Roulston Ambitionfire 9:34 PM 15th / 02 (February) / 2026
