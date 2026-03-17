@@ -1,0 +1,113 @@
+Diablo I, II, III, IV Franchises 32+ Person Raids With Tank, DPS, Healer, Support Character Roles
+
+what does diablo II have for classes and spells that can be used for 32 player groups with the tank role dps role healer role and support role as a mmorpg?
+In its base form,
+Diablo II
+does not support 32-player groups, as the game engine is hard-coded for a maximum of 8 players per game. However, if you are conceptualizing a 32-player MMORPG-style scenario using Diablo II's existing classes and spells, you can distribute roles across the seven classes as follows: 
+Tank Role
+These classes use high health, defensive skills, and summons to soak up damage. 
+
+    Barbarian: The ultimate meat-shield with Battle Orders for massive HP buffs and War Cry to stun surrounding enemies.
+    Paladin: Uses Holy Shield for high block rates and Defiance aura to boost the entire group's defense.
+    Druid (Werebear): A high-HP transformation that can use Shockwave to stun large groups of mobs indefinitely.
+    Necromancer (Summoner): Acts as a "meat wall" tank by using an army of Skeletons and a Clay Golem to distract enemies. 
+
+DPS Role (Damage Dealer) 
+These classes focus on clearing screens of enemies through physical or elemental damage. 
+
+    Sorceress: High-speed elemental damage using Blizzard, Lightning, or Frozen Orb.
+    Amazon: Ranged physical and elemental DPS with Lightning Fury (AOE) or Multiple Shot.
+    Assassin: Burst damage via Traps (Lightning/Death Sentry) or martial arts finishers.
+    Paladin (Hammerdin): High magic damage using Blessed Hammer, which ignores most monster resistances. 
+
+Healer Role
+Diablo II lacks a dedicated "Priest" class, but specific skills can provide direct or indirect healing. 
+
+    Paladin (Holy Bolt/Prayer): The most direct healer. Holy Bolt heals allies it passes through, and the Prayer aura provides constant passive health regeneration to the whole party.
+    Druid (Oak Sage/Carrion Vine): Oak Sage doesn't heal but massively increases maximum health, preventing deaths. Carrion Vine consumes corpses to restore health to the Druid, which can indirectly help sustain the frontline. 
+
+Support Role
+Support in Diablo II is exceptionally strong due to auras and debuffs that scale with party size. 
+
+    Paladin (Aura Bot): Can run Conviction (lowers enemy resists), Fanaticism (boosts physical speed/damage), or Meditation (massive mana regen).
+    Necromancer (Curser): Uses Lower Resist to boost elemental DPS or Amplify Damage to double physical DPS. Decrepify is essential for slowing bosses and reducing their damage.
+    Barbarian (Shouter): Provides Battle Command (+1 to all skills for everyone) and Shout (huge defense boost). 
+
+Would you like to know how item-based auras (like Insight or Infinity) allow any class to fill these support roles?
+
+    Exploring Different Roles in Diablo IV : r/diablo4 - Reddit
+    Mar 4, 2023 — That said, quite a few abilities are available for a party support role, and several classes like barbarians and druids can be bui...
+    Reddit
+
+Tank - Diablo Wiki
+There is no particular "tank" class in Diablo III, like in many other RPGs. The closest thing would be the Barbarian, who gets ben...
+DiabloWiki.net
+We want tank dps heal rules - Page 2 - Diablo IV Forums
+Apr 12, 2023 — In the original Diablo game you had the Rogue, Sorcerer, and Warrior. There wasn't a healer type class. You farmed for skill books...
+Blizzard Forums
+
+Show all
+do this but for all class and spell options for diablo I II III IV with all possible expansions too
+In a theoretical 32-player MMORPG setting, the classes across the
+Diablo
+franchise can be categorized into traditional roles based on their core abilities and skill trees from all expansions (including Hellfire, Lord of Destruction, Reaper of Souls, and Vessel of Hatred).
+Diablo I
+& Hellfire
+Classes in the original game have fewer restrictions. Any class can learn most spells from books, but stats influence roles.
+
+    Tank: Warrior (high health/blocking) and Barbarian (Hellfire exclusive, highest HP and physical resistance).
+    DPS: Sorcerer (max magic for high-level spells like Fireball and Chain Lightning), Rogue (fastest bow attack speed), and Bard (Hellfire exclusive, dual-wielding melee).
+    Healer/Support: Monk (Hellfire exclusive, uses Healing and Holy Bolt efficiently) and any character utilizing the Healing and Resurrect spells. 
+
+Diablo II: Resurrected
+Roles are defined by skill trees and party-wide buffs. 
+
+    Tank: Barbarian (Shout/Battle Orders), Paladin (Holy Shield/Defiance), Druid (Werebear/Shockwave), and Necromancer (Skeletal army/Clay Golem).
+    DPS: Sorceress (Elemental AOE), Amazon (Lightning Fury/Multi-shot), Assassin (Traps/Death Sentry), and Paladin (Blessed Hammer).
+    Healer: Paladin (Holy Bolt for targeted healing; Prayer/Cleansing/Meditation for passive regen).
+    Support: Paladin (Offensive Auras like Conviction/Fanaticism), Necromancer (Curses like Lower Resist/Amplify Damage), and Barbarian (Battle Command for +1 skills). 
+
+Diablo III: Reaper of Souls
+ 
+This entry introduced the "zDPS" (zero-damage support) meta, where classes focus on grouping and buffing.
+
+    Tank: Barbarian (Ground Stun/Ignore Pain) and Crusader (Iron Skin/Consecration).
+    DPS: Demon Hunter (Multishot), Wizard (Meteor/Archon), Necromancer (Skeletal Mage), and Witch Doctor (Firebats/Gargantuan).
+    Healer: Monk (Breath of Heaven/Inner Sanctuary/Epiphany) is the premier healer in the franchise.
+    Support: Barbarian (Wrenching Smash to group enemies), Witch Doctor (Big Bad Voodoo), and Necromancer (Frailty curse).
+
+Diablo IV: Vessel of Hatred
+D4 uses "Shouts," "Vulnerable" debuffs, and "Crowd Control" to define roles.
+
+    Tank: Barbarian (Challenging Shout/Thorns builds), Druid (Werebear/Bulwark), and Spiritborn (Gorilla Guardian style).
+    DPS: Sorcerer (Ball Lightning/Ice Shards), Rogue (Twisting Blades/Penetrating Shot), and Spiritborn (Eagle/Jaguar high-speed strikes).
+    Healer: Druid (Blood Howl with aspects to heal allies) and Spiritborn (certain Centipede/Life Steal sharing mechanics).
+    Support: Necromancer (Decrepify/Blight for grouping), Barbarian (War Cry for damage buffs), and Druid (Cyclone Armor for protection). 
+
+Role Distribution Summary
+Role 
+	Primary Classes	Key Spells/Mechanics
+Tank	Barbarian, Crusader, Warrior	Taunts, Shouts, Damage Reduction, High Block
+DPS	Sorcerer, Amazon, Demon Hunter	AOE Elements, Ranged Projectiles, High Criticals
+Healer	Monk, Paladin, Druid	Breath of Heaven, Holy Bolt, Blood Howl, Prayer
+Support	Necromancer, Paladin, Spiritborn	Curses, Auras, Ailment Imbuements, Vulnerability
+
+    Diablo 4 Best Class, in Role Best DPS, TANK, SUPPORT ...
+    Jun 21, 2024 — you need to actually play in a group in order for this to even exist. so that's where this video comes into play and if you want m...
+    YouTube·Slaydra
+
+9m
+All Classes in Diablo 4 (IV) | Explained (Unique Mechanics)
+Mar 15, 2023 — hopefully this video will help you decide a little early what class you think is right for you but hey if you play the beta. that'
+YouTube·WolfheartFPS
+3m
+Classes (Diablo II) - Diablo Wiki
+Table_title: Class Characteristics Table_content: header: | Official Classes | | row: | Official Classes: Diablo III | : Barbarian...
+Diablo Wiki·Contributors to Diablo Wiki
+
+    2:41
+
+Show all
+
+
+-Matthew Gordon Roulston Ambitionfire 4:29 AM 17th / 03 (March) / 2026
