@@ -1,0 +1,610 @@
+Treasure Chests Rarity and Generation of Expectations of Reality
+
+Chest Rarity = Item Rarity
+
+Chest Spawn Rate = Chest Rarity / Time x Distribution of Availability
+
+"Item Quality / Rarity Table+++++ (Colours, Item Level) [Range: -50 to +100]
+
+Annihilated (Defective) -50 Item Levels [Black]
+Destroyed (Faulty) -40 Item Levels [Soot]
+Broken (Flawed) -30 Item Levels [Iron]
+Decrepit (Poor) -20 Item Levels [Ash]
+Crude (Inferior) -10 Item Levels [White]
+Common (Weak) +/-0 Item Levels [Amber]
+Fine (Minor) +10 Item Levels [Chartreuse]
+Exquisite (Lesser) +20 Item Levels [Green]
+Masterwork (Substantial) +30 Item Levels [Aqua]
+Elite (Greater) +40 Item Levels [Blue]
+Heroic (Major) +50 Item Levels [Purple]
+Epic (Mighty) +60 Item Levels [Pink]
+Wonderous (Superior) +70 Item Levels [Red]
+Legendary (Supreme) +80 Item Levels [Orange]
+Supernatural (Transcendent) +90 Item Levels [Yellow]
+Mythical (Absolute) +100 Item Levels [Grey]
+
+-Matthew Gordon Roulston 1:53 PM 11th / 10 (October) / 2023"
+
+
+
+Item Quality / Rarity Table+++++ (Colours, Item Level) [Range: -50 to +100]
+
+000.) - Annihilated (Defective) -50 Item Levels [Black]
+001.) - Destroyed (Faulty) -40 Item Levels [Soot]
+002.) - Broken (Flawed) -30 Item Levels [Iron]
+003.) - Decrepit (Poor) -20 Item Levels [Ash]
+004.) - Crude (Inferior) -10 Item Levels [White]
+005.) - Common (Weak) +/-0 Item Levels [Amber]
+006.) - Fine (Minor) +10 Item Levels [Chartreuse]
+007.) - Exquisite (Lesser) +20 Item Levels [Green]
+008.) - Masterwork (Substantial) +30 Item Levels [Aqua]
+009.) - Elite (Greater) +40 Item Levels [Blue]
+010.) - Heroic (Major) +50 Item Levels [Purple]
+011.) - Epic (Mighty) +60 Item Levels [Pink]
+012.) - Wonderous (Superior) +70 Item Levels [Red]
+013.) - Legendary (Supreme) +80 Item Levels [Orange]
+014.) - Supernatural (Transcendent) +90 Item Levels [Yellow]
+015.) - Mythical (Absolute) +100 Item Levels [Grey]
+
+-Matthew Gordon Roulston 1:53 PM 11th / 10 (October) / 2023
+
+
+
+Item Quality / Rarity Table+++++ (Colours, Item Level) [Range: -50 to +100]
+
+001.) - Annihilated (Defective) -50 Item Levels [Black]
+002.) - Destroyed (Faulty) -40 Item Levels [Soot]
+003.) - Broken (Flawed) -30 Item Levels [Iron]
+004.) - Decrepit (Poor) -20 Item Levels [Ash]
+005.) - Crude (Inferior) -10 Item Levels [White]
+006.) - Common (Weak) +/-0 Item Levels [Amber]
+007.) - Fine (Minor) +10 Item Levels [Chartreuse]
+008.) - Exquisite (Lesser) +20 Item Levels [Green]
+009.) - Masterwork (Substantial) +30 Item Levels [Aqua]
+010.) - Elite (Greater) +40 Item Levels [Blue]
+011.) - Heroic (Major) +50 Item Levels [Purple]
+012.) - Epic (Mighty) +60 Item Levels [Pink]
+013.) - Wonderous (Superior) +70 Item Levels [Red]
+014.) - Legendary (Supreme) +80 Item Levels [Orange]
+015.) - Supernatural (Transcendent) +90 Item Levels [Yellow]
+016.) - Mythical (Absolute) +100 Item Levels [Grey]
+
+-Matthew Gordon Roulston 1:53 PM 11th / 10 (October) / 2023
+
+
+
+"Distribution Of Metals Based On Availability
+
+Prototype Availability Distribution:
+
+Primary Mineral: 300 / 2
+Secondary Mineral: 200 / 2
+Alloy: N/A
+Uncommon Mineral: 100 / 2
+Rare Mineral: 50 / 2
+Epic Mineral: 10 / 2
+
+8 Tiers:
+Each tier down divide the previous tier result by / 2 to get result for current tier; first tier does not follow this logic and is listed above for its starting value(s).
+
+Example:
+Epic Minerals:
+Tier 1 (Gold): 10 / 2 = 5%
+Tier 1 (Platinum): 5 / 2 = 2.5%
+Tier 1 (Shadow Steel): 2.5 / 2 = 1.25%
+Tier 1 (Aridium): 1.25 / 2 = 0.625%
+Tier 1 (Truegold): 0.625 / 2 = 0.3125%
+Tier 1 (Crimsonite): 0.3125 / 2 = 0.15625%
+Tier 1 (Arcanite): 0.15625 / 2 = 0.078125%
+Tier 1 (Orichalcum): 0.078125 / 2 = 0.0390625%
+
+-Matthew Gordon Roulston 10:26 AM 09th / 08 (August) / 2021"
+
+
+
+Example (Chests All Random Spawn Locations):
+
+001.) - Annihilated (Defective) Treasure Chest - Annihilated (Defective) -50 Item Levels [Black]
+002.) - Destroyed (Faulty) Treasure Chest - Destroyed (Faulty) -40 Item Levels [Soot]
+003.) - Broken (Flawed) Treasure Chest - Broken (Flawed) -30 Item Levels [Iron]
+004.) - Decrepit (Poor) Treasure Chest - Decrepit (Poor) -20 Item Levels [Ash]
+005.) - Crude (Inferior) Treasure Chest - Crude (Inferior) -10 Item Levels [White]
+006.) - Common (Weak) Treasure Chest - Common (Weak) +/-0 Item Levels [Amber]
+007.) - Fine (Minor) Treasure Chest - Fine (Minor) +10 Item Levels [Chartreuse]
+008.) - Exquisite (Lesser) Treasure Chest - Exquisite (Lesser) +20 Item Levels [Green]
+009.) - Masterwork (Substantial) Treasure Chest - Masterwork (Substantial) +30 Item Levels [Aqua]
+010.) - Elite (Greater) Treasure Chest - Elite (Greater) +40 Item Levels [Blue]
+011.) - Heroic (Major) Treasure Chest - Heroic (Major) +50 Item Levels [Purple]
+012.) - Epic (Mighty) Treasure Chest - Epic (Mighty) +60 Item Levels [Pink]
+013.) - Wonderous (Superior) Treasure Chest - Wonderous (Superior) +70 Item Levels [Red]
+014.) - Legendary (Supreme) Treasure Chest - Legendary (Supreme) +80 Item Levels [Orange]
+015.) - Supernatural (Transcendent) Treasure Chest - Supernatural (Transcendent) +90 Item Levels [Yellow]
+016.) - Mythical (Absolute) Treasure Chest - Mythical (Absolute) +100 Item Levels [Grey]
+
+
+
+Example (Chests All Random Spawn Locations):
+
+
+Respawn Timer +/- ~1.0 (Example: 1 x +/- 1.0 = ~0.0 to 2.0, 2.0 x +/- 1.0 = ~1.0 to 3.0, 4.0 x +/- 1.0 = ~3.0 to 5.0)
+
+001.) - 0.6 Seconds Respawn Timer - Annihilated (Defective) Treasure Chest - Annihilated (Defective) -50 Item Levels [Black]
+002.) - 1 Second Respawn Timer - Destroyed (Faulty) Treasure Chest - Destroyed (Faulty) -40 Item Levels [Soot]
+003.) - 6 Seconds Respawn Timer - Broken (Flawed) Treasure Chest - Broken (Flawed) -30 Item Levels [Iron]
+004.) - 1 Minute Respawn Timer - Decrepit (Poor) Treasure Chest - Decrepit (Poor) -20 Item Levels [Ash]
+005.) - 6 Minutes - Crude (Inferior) Treasure Chest - Crude (Inferior) -10 Item Levels [White]
+006.) - 1 Hour - Common (Weak) Treasure Chest - Common (Weak) +/-0 Item Levels [Amber]
+007.) - 6 Hours - Fine (Minor) Treasure Chest - Fine (Minor) +10 Item Levels [Chartreuse]
+008.) - 1 Day - Exquisite (Lesser) Treasure Chest - Exquisite (Lesser) +20 Item Levels [Green]
+009.) - 1 Week - Masterwork (Substantial) Treasure Chest - Masterwork (Substantial) +30 Item Levels [Aqua]
+010.) - 2 Weeks - Elite (Greater) Treasure Chest - Elite (Greater) +40 Item Levels [Blue]
+011.) - 1 Month - Heroic (Major) Treasure Chest - Heroic (Major) +50 Item Levels [Purple]
+012.) - 2 Months - Epic (Mighty) Treasure Chest - Epic (Mighty) +60 Item Levels [Pink]
+013.) - 3 Months - Wonderous (Superior) Treasure Chest - Wonderous (Superior) +70 Item Levels [Red]
+014.) - 4 Months - Legendary (Supreme) Treasure Chest - Legendary (Supreme) +80 Item Levels [Orange]
+015.) - 5 Months - Supernatural (Transcendent) Treasure Chest - Supernatural (Transcendent) +90 Item Levels [Yellow]
+016.) - 6 Months - Mythical (Absolute) Treasure Chest - Mythical (Absolute) +100 Item Levels [Grey]
+
+
+
+"8 Hour Day and Night Cycles (~x3.21 Speed) [Scales of Time]
+
+365 + leap year Gregorian Calendar
+
+~3.21 times speed
+
+24 hours / 3 = 8
+
+Day Night Cycles
+
+2 hours for day / night time stages
+
+
+12:00 AM - Midnight Ending
+01:00 AM - Morning Starting
+02:00 AM - Morning Ending
+03:00 AM - Noon Starting
+04:00 AM - Noon Ending
+05:00 AM - Dusk Starting
+06:00 AM - Dusk Ending
+07:00 AM - Midnight Starting
+08:00 AM - Midnight Ending
+09:00 AM - Morning Starting
+10:00 AM - Morning Ending
+11:00 AM - Noon Starting
+12:00 PM - Noon Ending
+01:00 PM - Dusk Starting
+02:00 PM - Dusk Ending
+03:00 PM - Midnight Starting
+04:00 PM - Midnight Ending
+05:00 PM - Morning Starting
+06:00 PM - Morning Ending
+07:00 PM - Noon Starting
+08:00 PM - Noon Ending
+09:00 PM - Dusk Starting
+10:00 PM - Dusk Ending
+11:00 PM - Midnight Starting
+
+
+
+Regeneration of Adventure (~Encounter Respawns / Raid Lockout Timers)
+
+~Infinite / 0.001 Seconds
+
+~Infinite / 0.01 Seconds
+
+~Infinite / 0.1 Seconds
+
+1 Second
+
+2 Seconds
+
+3 Seconds
+
+4 Seconds
+
+5 Seconds
+
+6 Seconds
+
+7 Seconds
+
+8 Seconds
+
+9 Seconds
+
+10 Seconds
+
+11 Seconds
+
+12 Seconds
+
+13 Seconds
+
+14 Seconds
+
+15 Seconds
+
+16  Seconds
+
+18  Seconds
+
+20  Seconds
+
+22  Seconds
+
+25  Seconds
+
+30 Seconds
+
+35 Seconds
+
+40 Seconds
+
+45 Seconds
+
+50 Seconds
+
+55 Seconds
+
+60 Seconds
+
+1 Minute
+
+1 Minute 5 Seconds
+
+1 Minute 10 Seconds
+
+1 Minute 15 Seconds
+
+1 Minute 20 Seconds
+
+1 Minute 25 Seconds
+
+1 Minute 30 Seconds
+
+1 Minute 35 Seconds
+
+1 Minute 40 Seconds
+
+1 Minute 45 Seconds
+
+1 Minute 50 Seconds
+
+1 Minute 55 Seconds
+
+2 Minutes
+
+2 Minutes 5 Seconds
+
+2 Minutes 10 Seconds
+
+2 Minutes 15 Seconds
+
+2 Minutes 30 Seconds
+
+2 Minutes 45 Seconds 
+
+3 Minutes
+
+3 Minutes 15 Seconds
+
+3 Minutes 30 Seconds
+
+3 Minutes 45 Seconds
+
+4 Minutes 
+
+4 Minutes 30 Seconds
+
+5 Minutes
+
+6 Minutes
+
+7 Minutes
+
+8 Minutes
+
+9 Minutes
+
+10 Minutes
+
+11 Minutes
+
+12 Minutes
+
+13 Minutes
+
+14 Minutes
+
+15 Minutes
+
+16 Minutes
+
+18 Minutes
+
+20 Minutes
+
+22 Minutes
+
+25 Minutes
+
+30 Minutes
+
+35 Minutes
+
+40 Minutes
+
+45 Minutes
+
+50 Minutes
+
+55 Minutes
+
+1 Hour
+
+1 Hour 15 Minutes
+
+1 Hour 30 Minutes
+
+1 Hour 45 Minutes
+
+2 Hours
+
+2 Hours 30 Minutes
+
+3 Hours
+
+4 Hours
+
+5 Hours
+
+6 Hours
+
+7 Hours
+
+8 Hours
+
+9 Hours
+
+10 Hours
+
+11 Hours
+
+12 Hours
+
+13 Hours
+
+14 Hours
+
+15 Hours
+
+16 Hours
+
+17 Hours
+
+18 Hours
+
+19 Hours
+
+20 Hours
+
+21 Hours
+
+22 Hours
+
+23 Hours
+
+24 Hours / 1 Day
+
+2 Days
+
+3 Days
+
+4 Days
+
+5 Days
+
+6 Days
+
+7 Days / 1 Week
+
+2 Weeks
+
+3 Weeks
+
+4 Weeks
+
+~30 (28-31 ) Days / 1 Month
+
+2 Months
+
+3 Months (~1 Season)
+
+4 Months (~1 '~x3.21 Year')
+
+5 Months
+
+6 Months
+
+7 Months
+
+8 Months
+
+9 Months
+
+10 Months
+
+11 Months
+
+12 Months / 1 Year
+
+2 Years
+
+3 Years
+
+4 Years
+
+5 Years / 1 Pentade
+
+6 Years
+
+7 Years
+
+8 Years
+
+9 Years
+
+10 Years / 1 Decade
+
+2 Decades / (~12-25 Years) 1 Generation
+
+3 Decades
+
+4 Decades
+
+5 Decades
+
+6 Decades
+
+7 Decades
+
+8 Decades
+
+9 Decades
+
+10 Decades / 1 Century
+
+2 Centuries
+
+3 Centuries
+
+4 Centuries
+
+5 Centuries / (~2-8 Centuries) 1 Era  (~500 Years)
+
+6 Centuries
+
+7 Centuries
+
+8 Centuries
+
+9 Centuries
+
+10 Centuries / 1 Millennium (~1,000 Years)
+
+2 Millenniums / 1 Age (~2,000 Years)
+
+3 Millenniums  (~3,000 Years)
+
+4 Millenniums / 2 Ages (~4,000 Years)
+
+5 Millenniums (~5,000 Years)
+
+6 Millenniums / 3 Ages (~6,000 Years)
+
+7 Millenniums (~7,000 Years)
+
+8 Millenniums / 4 Ages (~8,000 Years)
+
+9 Millenniums (~9,000 Years)
+
+10 Millenniums / 5 Ages / 1 Eon (~10,000 Years)
+
+2 Eons (~20,000 Years)
+
+
+
+-Matthew Gordon Roulston 6:39 PM 16th / 01 (January) / 2024
+
+
+
+M.M.O.A.R.P.G. Time 1 In Real World Earth Hour = 3 In Game World AGABAL Hours.
+
+R.T.S. Time 1 In Real World Earth Minute = 3 In Game World AGABAL Hours.
+
+
+
+-Matthew Gordon Roulston 8:21 PM 13th / 11 (November) / 2024"
+
+
+
+Chest Spawn Quanity or Distribution of Availability = Last Chest Amount = 1 x Inverse Matthew's Spiral. X + (Previous X x 2) = > 100% no matter how many reapplication cycles of addition.
+
+
+"Matthew's Spiral. X + (Previous X / 2) = < 100% no matter how many reapplication cycles of addition.
+-Matthew Gordon Roulston Ambitionfire 9:34 PM 15th / 02 (February) / 2026"
+
+
+Example (Chests All Random Spawn Locations):
+
+
+Respawn Timer +/- ~1.0 (Example: 1 x +/- 1.0 = ~0.0 to 2.0, 2.0 x +/- 1.0 = ~1.0 to 3.0, 4.0 x +/- 1.0 = ~3.0 to 5.0)
+
+001.) - 0.6 Seconds Respawn Timer - Annihilated (Defective) Treasure Chest - Annihilated (Defective) -50 Item Levels [Black]
+002.) - 1 Second Respawn Timer - Destroyed (Faulty) Treasure Chest - Destroyed (Faulty) -40 Item Levels [Soot]
+003.) - 6 Seconds Respawn Timer - Broken (Flawed) Treasure Chest - Broken (Flawed) -30 Item Levels [Iron]
+004.) - 1 Minute Respawn Timer - Decrepit (Poor) Treasure Chest - Decrepit (Poor) -20 Item Levels [Ash]
+005.) - 6 Minutes - Crude (Inferior) Treasure Chest - Crude (Inferior) -10 Item Levels [White]
+006.) - 1 Hour - Common (Weak) Treasure Chest - Common (Weak) +/-0 Item Levels [Amber]
+007.) - 6 Hours - Fine (Minor) Treasure Chest - Fine (Minor) +10 Item Levels [Chartreuse]
+008.) - 1 Day - Exquisite (Lesser) Treasure Chest - Exquisite (Lesser) +20 Item Levels [Green]
+009.) - 1 Week - Masterwork (Substantial) Treasure Chest - Masterwork (Substantial) +30 Item Levels [Aqua]
+010.) - 2 Weeks - Elite (Greater) Treasure Chest - Elite (Greater) +40 Item Levels [Blue]
+011.) - 1 Month - Heroic (Major) Treasure Chest - Heroic (Major) +50 Item Levels [Purple]
+012.) - 2 Months - Epic (Mighty) Treasure Chest - Epic (Mighty) +60 Item Levels [Pink]
+013.) - 3 Months - Wonderous (Superior) Treasure Chest - Wonderous (Superior) +70 Item Levels [Red]
+014.) - 4 Months - Legendary (Supreme) Treasure Chest - Legendary (Supreme) +80 Item Levels [Orange]
+015.) - 5 Months - Supernatural (Transcendent) Treasure Chest - Supernatural (Transcendent) +90 Item Levels [Yellow]
+016.) - 6 Months - Mythical (Absolute) Treasure Chest - Mythical (Absolute) +100 Item Levels [Grey]
+
+
+
+Chest Spawn Quanity or Distribution of Availability = Last Chest Amount = 1 x Inverse Matthew's Spiral. X + (Previous X x 2) = > 100% no matter how many reapplication cycles of addition.
+
+
+
+Chest Spawn Quanity or Distribution of Availability
+
+001.) - 32,768 x Chest Spawn Quanity or Distribution of Availability - 0.6 Seconds Respawn Timer - Annihilated (Defective) Treasure Chest - Annihilated (Defective) -50 Item Levels [Black]
+002.) - 16,384 x Chest Spawn Quanity or Distribution of Availability - 1 Second Respawn Timer - Destroyed (Faulty) Treasure Chest - Destroyed (Faulty) -40 Item Levels [Soot]
+003.) - 8,192 x Chest Spawn Quanity or Distribution of Availability - 6 Seconds Respawn Timer - Broken (Flawed) Treasure Chest - Broken (Flawed) -30 Item Levels [Iron]
+004.) - 4,096 x Chest Spawn Quanity or Distribution of Availability - 1 Minute Respawn Timer - Decrepit (Poor) Treasure Chest - Decrepit (Poor) -20 Item Levels [Ash]
+005.) - 2,048 x Chest Spawn Quanity or Distribution of Availability - 6 Minutes Respawn Timer - Crude (Inferior) Treasure Chest - Crude (Inferior) -10 Item Levels [White]
+006.) - 1,024 x Chest Spawn Quanity or Distribution of Availability - 1 Hour Respawn Timer - Common (Weak) Treasure Chest - Common (Weak) +/-0 Item Levels [Amber]
+007.) - 512 x Chest Spawn Quanity or Distribution of Availability - 6 Hours Respawn Timer - Fine (Minor) Treasure Chest - Fine (Minor) +10 Item Levels [Chartreuse]
+008.) - 256 x Chest Spawn Quanity or Distribution of Availability - 1 Day Respawn Timer - Exquisite (Lesser) Treasure Chest - Exquisite (Lesser) +20 Item Levels [Green]
+009.) - 128 x Chest Spawn Quanity or Distribution of Availability - 1 Week Respawn Timer - Masterwork (Substantial) Treasure Chest - Masterwork (Substantial) +30 Item Levels [Aqua]
+010.) - 64 x Chest Spawn Quanity or Distribution of Availability - 2 Weeks Respawn Timer - Elite (Greater) Treasure Chest - Elite (Greater) +40 Item Levels [Blue]
+011.) - 32 x Chest Spawn Quanity or Distribution of Availability - 1 Month Respawn Timer - Heroic (Major) Treasure Chest - Heroic (Major) +50 Item Levels [Purple]
+012.) - 16 x Chest Spawn Quanity or Distribution of Availability - 2 Months Respawn Timer - Epic (Mighty) Treasure Chest - Epic (Mighty) +60 Item Levels [Pink]
+013.) - 8 x Chest Spawn Quanity or Distribution of Availability - 3 Months Respawn Timer - Wonderous (Superior) Treasure Chest - Wonderous (Superior) +70 Item Levels [Red]
+014.) - 4 x Chest Spawn Quanity or Distribution of Availability - 4 Months Respawn Timer - Legendary (Supreme) Treasure Chest - Legendary (Supreme) +80 Item Levels [Orange]
+015.) - 2 x Chest Spawn Quanity or Distribution of Availability - 5 Months Respawn Timer - Supernatural (Transcendent) Treasure Chest - Supernatural (Transcendent) +90 Item Levels [Yellow]
+016.) - 1 x Chest Spawn Quanity or Distribution of Availability - 6 Months Respawn Timer - Mythical (Absolute) Treasure Chest - Mythical (Absolute) +100 Item Levels [Grey]
+
+
+
+Item Loot Amount = Approximately Encounter Scale Size + Systems of Reasonable Variance / Randomization of Systems and Generation of Expectations of Reality.
+
+
+
+-Matthew Gordon Roulston Ambitionfire 11:05 PM 13th / 05 (May) / 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
