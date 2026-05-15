@@ -1,0 +1,15 @@
+Matthew's Godot Predictions:
+Godot 4.7 Stable ~June, ~July 2026?
+Godot 4.8 Stable ~November, ~December 2026?
+Godot 4.9 Stable ~March, ~April, ~May 2027?
+Godot 4.10 Stable ~July, ~August, ~September, October 2027?
+Godot 4.11 Stable ~December 2027, ~January 2028, February, March 2028, April 2028?
+Godot 4.12 Stable ~June, July, August, September 2028?
+Godot 4.13 Stable ~November 2028, ~December 2028, ~January 2029, ~February 2029?
+Godot 4.14 Stable ~April, ~May, ~June, ~July 2029?
+Godot 4.15 Stable ~September 2029, ~October 2029, ~November 2029, ~December 2029?
+Godot 4.16 Stable ~February, ~March, ~April, ~May 2030?
+Godot 4.17 Stable ~July, ~August, ~September, ~November 2030?
+Godot 5.0 Stable ~2nd Half of 2029, ~1st Half 2030.
+-Matthew Gordon Roulston Ambitionfire 6:54 AM 15th / 05 (May) / 2026
+
