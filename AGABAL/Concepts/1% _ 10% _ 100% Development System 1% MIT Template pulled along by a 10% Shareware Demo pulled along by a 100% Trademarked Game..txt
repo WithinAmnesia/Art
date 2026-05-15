@@ -1,0 +1,5 @@
+1% / 10% / 100% Development System: 1% MIT Template pulled along by a 10% Shareware Demo pulled along by a 100% Trademarked Game.
+"I've been for quite some time now (years) working on MIT 3D Cubic, Smooth and Hybrid Voxel M.M.O.A.R.P.G. Vertical Slice Demo Template and its getting worked on as sort of 1% of a 10% shareware demo and 100% Trademarked IP version that I can give the 1% version as a full dev kit with MIT and C.C.0 assets and things people can make proper games with. 1% MIT Template pulled along by a 10% Shareware Demo pulled along by a 100% Trademarked Game. I say 1% but my game work is 3D Voxels is a 1,280 x 1,280 Kilometer square open world map. So ~10% is like ~128 x 128 kilometers full slice and 1% is ~1.28 x 1.28 kilometers square vertical slice. Friday, 15 May 2026 16:39
+I started working on this before Godot so its coming along bit by bit.
+I am building it out now mostly on the back end finally mostly in C# where it makes sense."
+-Matthew Gordon Roulston Ambitionfire 4:39 PM / 15th (Friday) / 05 (May) / 2026
