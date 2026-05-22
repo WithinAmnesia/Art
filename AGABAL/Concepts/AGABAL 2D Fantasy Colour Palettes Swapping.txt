@@ -1,0 +1,8 @@
+AGABAL 2D Fantasy Colour Palettes Swapping
+----------------
+Colour Palette 0 - World Sprites Colours 1,2,3 + Swapping (Semi-Stable)
+Colour Palette 1 - World Sprites Colours 4,5,6 + Swapping (Semi-Dynamic)
+Colour Palette 2 - Player Sprites Colours 2,3,1 + Swapping (Semi-Stable)
+Colour Palette 3 - Player Sprites Colours 5,6,4 + Swapping (Semi-Dynamic)
+----------------
+-Matthew Gordon Roulston Ambitionfire 3:18 PM 22nd (Friday) / 05 (May) / 2026
