@@ -1,0 +1,120 @@
+===============================================================================
+AGABAL SYSTEM ARCHITECTURAL SPECIFICATIONS COMPRESSED METRIC SPRITE GRID 128 X 128 PIXELS
+DOCUMENT ID: AGABAL-SYS-METRIC-SCALE-1979-ARCHIVE
+AUTHOR: Matthew Gordon Roulston Ambitionfire (Assisted With Gemini)
+TIMESTAMP: 8:49 PM 27th (Wednesday) / 05 (May) / 2026
+SYSTEM TARGET: ABSOLUTE CEILING ASSET BALANCING FOR 320x240 FRAMEBUFFER CANVAS
+===============================================================================
+
+[PART 1: THE CRITICAL METRIC SCALING FORMULA]
+
+01-1.) MATRIC SCALE CONVERSION INTERPOLATION
+    To balance multi-meter playable giants and monumental raid entities within 
+    the strict limits of a 240-scanline vertical TV display, the engine rejects 
+    uncompressed baseline scales that cause clipping. The architecture locks down 
+    a 4X sub-pixel geometric compression loop:
+
+    - Baseline Resolution Unit : 1 Pixel = 15.625 mm
+    - Aggregation Multiplier   : 4x Sub-Pixel Filtering Scale
+    - Compressed Engine Scale  : 1 Pixel = 62.5 mm (0.0625 Meters)
+
+01-2.) SCREEN CANVAS REAL-WORLD FOOTPRINT
+    When mapping the raw 320 x 240 pixel matrix down to this 62.5 mm grid, 
+    the active television screen acts as a wide tactical battlefield window:
+    - Total Display Width  : 320 Pixels x 62.5 mm = 20,000 mm = 20.0 Meters
+    - Total Display Height : 240 Pixels x 62.5 mm = 15,000 mm = 15.0 Meters
+
+
+===============================================================================
+
+[PART 2: CHARACTER LAYER RESOLUTION HIERARCHY]
+
+02-1.) THE GIGANT ENTITY DESIGN METRIC (PLAYABLE RACIAL MODEL)
+    - Target Physical Height : 4.0 Meters (4,000 mm)
+    - Pixel Conversion Math  : 4,000 mm / 62.5 mm per pixel = 64 Pixels Tall.
+    - Screen Real Estate     : Takes up exactly 26.6% of the vertical viewport,
+                               leaving optimal overhead space for environment assets.
+
+02-2.) THE MONUMENTAL TITAN CEILING (ABSOLUTE HARDWARE SPRITE LIMIT)
+    - Maximum Sprite Grid    : 128 x 128 Pixels (Square Frame Boundary).
+    - Target Physical Height : 128 Pixels x 62.5 mm = 8,000 mm = 8.0 Meters.
+    - Screen Real Estate     : Takes up 40% Width and 53.3% Vertical Height.
+    - Safety Clearance       : Guaranteed 112 lines of vertical clearing to completely
+                               eliminate graphic pop-in, clipping, or memory wrap faults.
+
+
+===============================================================================
+
+[PART 3: MEMORY BUFFER AND HARDWARE ROUTING STRATEGY]
+
+03-1.) COMPACT PACKED SPRITE MEMORY STRAIN
+    - A single 128 x 128 pixel sprite at an 8-bit color depth equals exactly 
+      16,384 Bytes (16KB) of raw asset data.
+    - The Client Cartridge allocates 32KB for local active asset RAM caching.
+    - The local register can simultaneously hold exactly 2 frames of an absolute-limit 
+      monster sprite (16KB x 2 = 32KB) for fluid frame manipulation.
+
+03-2.) REAL-TIME SIO ASSET INTERRUPT STREAMING
+    - To prevent animation buffer locks, the 128KB client cartridge uses its 
+      background SIO channels to talk to the mass storage ROM banks.
+    - As the 64-player server coordinates actions, animation arrays are dynamically 
+      streamed and hot-swapped mid-frame inside the cartridge, allowing multi-frame 
+      boss combat animations to transition without dropping below a rock-solid 60Hz.
+
+
+===============================================================================
+
+[PART 4: MODERN EMULATION SPECIFICATION (GODOT / REDOT 4)]
+
+04-1.) RENDERING CONSTRAINTS
+    - Default Window Viewport Width   : 320 Pixels
+    - Default Window Viewport Height  : 240 Pixels
+    - Global Texture Filter Preset    : Nearest-Neighbor / Point Filtering
+    - Depth Matrix Sorting Rule       : Y-Sort enabled on all Actor Node Layers
+
+04-2.) ABSOLUTE GRID COMPATIBILITY ENFORCER PIPELINE
+-------------------------------------------------------------------------------
+extends CharacterBody2D
+
+# 1 Pixel = 0.0625 Meters (62.5 mm)
+const METERS_PER_PIXEL: float = 0.0625
+const ABSOLUTE_GRID_LIMIT: int = 128
+
+@export var asset_texture: Texture2D
+@onready var render_component := Sprite2D.new()
+
+func _ready() -> void:
+    if not asset_texture:
+        return
+        
+    var sprite_w: int = asset_texture.get_width()
+    var sprite_h: int = asset_texture.get_height()
+    
+    # Assert structural safety rules before injecting data into the VRAM stack
+    if sprite_w > ABSOLUTE_GRID_LIMIT or sprite_h > ABSOLUTE_GRID_LIMIT:
+        push_error("CRITICAL HARDWARE FAULT: Sprite asset exceeds the 128x128 limit!")
+        return
+        
+    # Build out pixel-perfect render settings
+    add_child(render_component)
+    render_component.texture = asset_texture
+    render_component.texture_filter = CANVAS_ITEM_FILTER_NEAREST
+    
+    # Align the origin point to the bottom-center of the boundary box for Y-Sorting
+    render_component.centered = true
+    render_component.offset = Vector2(0, -sprite_h / 2.0)
+    
+    # Output metrics directly to the system log
+    var real_height_m: float = sprite_h * METERS_PER_PIXEL
+    print("AGABAL Node Initialized: %d px / Metric: %f Meters" % [sprite_h, real_height_m])
+
+func _physics_process(_delta: float) -> void:
+    # Ensure entity positioning locks tightly to whole pixel numbers 
+    # to perfectly match alternative timeline video chip calculations
+    global_position = global_position.round()
+-------------------------------------------------------------------------------
+
+===============================================================================
+END ARCHIVE SPECIFICATION - MATTHEW GORDON ROULSTON AMBITIONFIRE (2026)
+===============================================================================
+-Matthew Gordon Roulston Ambitionfire (Assisted With Gemini) 8:49 PM 27th (Wednesday) / 05 (May) / 2026
