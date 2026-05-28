@@ -1,0 +1,156 @@
+===============================================================================
+AGABAL SYSTEM ARCHITECTURAL SPECIFICATION: OMNIDIRECTIONAL RE-MAPPED STREAMING
+DOCUMENT ID: AGABAL-SYS-OMNI-2D-1979-ARCHIVE
+AUTHOR: Matthew Gordon Roulston Ambitionfire
+SYSTEM TARGET: NATIVE GRAPHICAL ART PIPELINE FOR MULTI-AXIS SURFACE SCROLLING
+===============================================================================
+
+[PART 1: GEOMETRIC CANVAS SCREEN PROFILE]
+
+01-1.) FRAMEBUFFER GEOMETRY
+    - Active Pixel Matrix : 320 Columns x 240 Scanlines (Standard NTSC CRT Layout).
+    - Pixel Aspect Ratio  : 1.0 (True Square Pixels when locked inside a 4:3 DAR).
+    - Color Depth Mode    : 8-Bits Per Pixel Indexed Packed-Pixel array mapping.
+    - Global Palette Link : Hardcoded 256 Atari System Color Spectrum.
+    - Active Memory Foot  : 76,800 Bytes linear memory buffer block.
+
+01-2.) RETRO ISOMETRIC GRID PROPORTIONS (DIABLO-STYLE LAYOUT)
+    - Projection Mode     : Diamond Isometric Geometry running a 2:1 structural ratio.
+    - Base Tile Width     : 64 Pixels (Horizontal Screen Axis Alignment).
+    - Base Tile Height    : 32 Pixels (Vertical Screen Axis Alignment).
+    - Active Tile Count   : 5.0 Horizontal Columns x 7.5 Vertical Rows per view.
+
+
+===============================================================================
+
+[PART 2: OMNIDIRECTIONAL GRID-STREAMING ARCHITECTURE]
+
+02-1.) THE 9-GRID STRUCTURAL RAM MATRIX
+    - To prevent Out-Of-Memory (OOM) crashes inside the Client Machine's 128KB 
+      Super Cartridge, the local engine maintains a sliding 3x3 Chunk Array:
+
+               +------------------+------------------+------------------+
+
+               |                  |                  |                  |
+               |  [ CHUNK NW ]    |   [ CHUNK N ]    |  [ CHUNK NE ]    |
+               |                  |                  |                  |
+               +------------------+------------------+------------------+
+
+               |                  |  +------------+  |                  |
+               |  [ CHUNK W ]     |  | 320x240 VIEW |  |  [ CHUNK E ]     |
+               |                  |  +------------+  |                  |
+               +------------------+------------------+------------------+
+
+               |                  |                  |                  |
+               |  [ CHUNK SW ]    |   [ CHUNK S ]    |  [ CHUNK SE ]    |
+               |                  |                  |                  |
+               +------------------+------------------+------------------+
+
+02-2.) CHUNK MEMORY BOUNDARIES
+    - Individual Chunk Map : 4x4 Grid Blocks made of 64x32 Pixel Tiles.
+    - Total Chunk Dimension : 256 Pixels Wide x 128 Pixels High.
+    - Active Buffer Foot   : 9 Chunks tracked simultaneously inside the 32KB asset pool.
+
+02-3.) MEMORY CACHE-PURGING TRIGGER RULES (THE SWAP FRAME)
+    - The engine monitors sub-pixel camera vectors. If players push the camera 
+      diagonally past the threshold index of the current active Center Chunk:
+        1. The engine instantly unloads the 3 opposite furthest chunks from VRAM.
+        2. It triggers a background SIO Data Packet Request down the serial loop.
+        3. The 512KB Mega OS Hub streams the 3 incoming ahead terrain arrays.
+        4. The new assets flash into cache before scrolling shifts them into sight.
+
+
+===============================================================================
+
+[PART 3: HARDWARE BUS PACKET SPEED CALCULATION]
+
+03-1.) THE DATA TRANSMISSION MATH
+    - Tile ID Compression  : 1 Byte per map cell index location.
+    - Total Data per Chunk : 4 Columns x 4 Rows = 16 Bytes of raw asset layout data.
+    - A 3-Chunk Refresh Loop requires exactly 48 Bytes of transmission data.
+    - At 52,200 bps SIO cable transmission speeds, a 48-Byte packet requires roughly 
+      0.007 seconds to complete its background swap, safely updating beneath the 
+      active 60Hz vertical blanking window without screen tear or frame stalling.
+
+
+===============================================================================
+
+[PART 4: CONTENT STREAMING & RESOLUTION MANAGEMENT]
+
+04-1.) INTEGRATION SCALING PRESETS FOR MODERN WEBSITES (TWITCH / YOUTUBE)
+    - Direct unscaled transmission produces blurry pixels or severe aspect distortion.
+    - The client canvas utilizes whole-integer multipliers to retain edge clarity:
+
+    - 720p Widescreen Target Output : 3x Scale Factor  -> 960 x 720 Active Game Window
+    - 1080p Widescreen Target Output: 4x Scale Factor  -> 1280 x 960 Active Game Window
+    - 1440p Widescreen Target Output: 6x Scale Factor  -> 1920 x 1440 Active Game Window
+
+04-2.) TWO-COLUMN STREAMING SIDEBAR COMPONENT (16:9 VIEWPORTS)
+    - The space left by matching a 4:3 layout inside a widescreen container is mapped 
+      to render background game engine analytics data over standard OBS layers:
+    - [LEFT OVERLAY PANEL]  : Streaming Live Text Chat Feeds & Subscriber Alert Boxes.
+    - [RIGHT OVERLAY PANEL] : Real-time telemetry connection links to the 512KB Mega OS 
+                             server (Active global player counts, local party health arrays).
+
+
+===============================================================================
+
+[PART 5: REAL-TIME GAME ENGINE PROTOCOLS (GODOT / REDOT 4)]
+
+05-1.) ISOMETRIC COMPATIBILITY CONFIGURATIONS
+    - Texture Scale Mode     : Nearest-Neighbor / Point Filtering (Stops blending blur)
+    - Native Project Width   : 320 Pixels
+    - Native Project Height  : 240 Pixels
+    - Project Aspect Rule    : 4:3 Window Keep Constraint (Enforces pillarbox formatting)
+
+05-2.) DETAILED CORE ENGINE STREAMING SYSTEM COMPONENT
+-------------------------------------------------------------------------------
+extends Node2D
+
+const CELL_WIDTH = 64
+const CELL_HEIGHT = 32
+const CHUNK_TILES_AXIS = 4
+
+var active_loaded_chunks := {}
+@export var player_target_node : Node2D
+
+func _physics_process(_delta: float) -> void:
+    if not player_target_node:
+        return
+        
+    # Calculate the precise isometric matrix center index point
+    var player_iso_x = (player_target_node.global_position.x / CELL_WIDTH) + (player_target_node.global_position.y / CELL_HEIGHT)
+    var player_iso_y = (player_target_node.global_position.y / CELL_HEIGHT) - (player_target_node.global_position.x / CELL_WIDTH)
+    
+    var center_chunk_x = floor(player_iso_x / CHUNK_TILES_AXIS)
+    var center_chunk_y = floor(player_iso_y / CHUNK_TILES_AXIS)
+    
+    var targeted_surrounding_grid := []
+    
+    # Process the active 3x3 omnidirectional grid loop array
+    for x_offset in range(-1, 2):
+        for y_offset in range(-1, 2):
+            var chunk_coordinate = Vector2(center_chunk_x + x_offset, center_chunk_y + y_offset)
+            targeted_surrounding_grid.append(chunk_coordinate)
+            
+            if not active_loaded_chunks.has(chunk_coordinate):
+                execute_sio_chunk_memory_fetch(chunk_coordinate)
+                
+    # Automatically clear distant segments to avoid memory boundary overflows
+    for old_chunk in active_loaded_chunks.keys():
+        if not old_chunk in targeted_surrounding_grid:
+            purge_chunk_from_hardware_cache(old_chunk)
+
+func execute_sio_chunk_memory_fetch(target_coords: Vector2) -> void:
+    active_loaded_chunks[target_coords] = true
+    # Hardware interface hook: Instantiate background textures from 512KB server maps
+
+func purge_chunk_from_hardware_cache(target_coords: Vector2) -> void:
+    active_loaded_chunks.erase(target_coords)
+    # Hardware interface hook: Free memory slots to prevent cartridge RAM faults
+-------------------------------------------------------------------------------
+
+===============================================================================
+END ARCHIVE SPECIFICATION - MATTHEW GORDON ROULSTON AMBITIONFIRE (2026)
+===============================================================================
+-Matthew Gordon Roulston Ambitionfire (Assisted With Gemini) 8:22 PM 27th (Wednesday) / 05 (May) / 2026
