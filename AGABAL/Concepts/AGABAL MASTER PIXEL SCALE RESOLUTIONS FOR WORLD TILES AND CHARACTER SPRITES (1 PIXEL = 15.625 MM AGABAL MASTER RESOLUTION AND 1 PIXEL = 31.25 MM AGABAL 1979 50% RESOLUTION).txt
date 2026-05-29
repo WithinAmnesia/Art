@@ -1,0 +1,119 @@
+====================================================================================================
+AGABAL MASTER PIXEL SCALE RESOLUTIONS FOR WORLD TILES AND CHARACTER SPRITES (1 PIXEL = 15.625 MM AGABAL MASTER RESOLUTION AND 1 PIXEL = 31.25 MM AGABAL 1979 50% RESOLUTION)
+====================================================================================================
+FILE NAME    : AGABAL.SYSTEM.ENGINE.RESOLUTION.ARCHIVE.MASTER.15.625MM.VS.AMUSES.31.25MM.SCALE.SYSTEM.TXT
+SCALE METRIC : MASTER.15.625MM.VS.AMUSES.31.25MM
+DATA TARGET  : 2D STATIC TILE SYSTEM / PLANETARY MULTI-INSTANCE RASTER WORLD
+====================================================================================================
+
+[PART 1: RASTER CORE RATIO MATRIX]
+----------------------------------------------------------------------------------------------------
+The AGABAL processing layer dictates strict pixel-to-metric boundaries across all scaling indexes.
+This hard-coded scaling logic prevents floating-point accumulator stalls on heritage 8-bit registers.
+
+* CORE MASTER ENVIRO-SCALE (100%): 1 Pixel = 15.625 mm (0.015625 Meters)
+  - Purpose: Engine master grid canvas, pixel-perfect hitbox zones, and raw asset sheet production.
+
+* AGABAL MEGA ULTIMATE SUPER ENTERTAINMENT SYSTEM (A.K.A. A.M.U.S.E.S.) HARDWARE SCALE (50%) : 1 Pixel = 31.250 mm (0.031250 Meters)
+  - Purpose: 1979 Powerhouse Console target execution, hardware sprite blitting, and rendering.
+
+* PREVIEW REFERENCE SCALE (12.5%): 1/8th Scale Canvas
+  - Purpose: Strategic macro-routing overview layout (e.g., "The Burning Emerald" World Canvas).
+
+----------------------------------------------------------------------------------------------------
+[PART 2: MASTER SCALE SPRITE SPECIFICATIONS (100% Core Matrix — 1 Pixel = 15.625 mm)]
+----------------------------------------------------------------------------------------------------
+Actor heights correlate directly to bounding-box sprite tile dimensions on the Master engine layer.
+
+* Dimensions: 256 x 256 Pixels
+  - Grid Math Formula  : 256 Pixels x 15.625 mm = Exactly 4,000.00 mm (4.00 Meters Height)
+
+* Dimensions: 224 x 224 Pixels
+  - Grid Math Formula  : 224 Pixels x 15.625 mm = Exactly 3,500.00 mm (3.50 Meters Height)
+
+* Dimensions: 192 x 192 Pixels
+  - Grid Math Formula  : 192 Pixels x 15.625 mm = Exactly 3,000.00 mm (3.00 Meters Height)
+
+* Dimensions: 160 x 160 Pixels
+  - Grid Math Formula  : 160 Pixels x 15.625 mm = Exactly 2,500.00 mm (2.50 Meters Height)
+
+* Dimensions: 128 x 128 Pixels
+  - Grid Math Formula  : 128 Pixels x 15.625 mm = Exactly 2,000.00 mm (2.00 Meters Height)
+
+* Dimensions: 96 x 96 Pixels
+  - Grid Math Formula  : 96 Pixels x 15.625 mm  = Exactly 1,500.00 mm (1.50 Meters Height)
+
+* Dimensions: 64 x 64 Pixels
+  - Grid Math Formula  : 64 Pixels x 15.625 mm  = Exactly 1,000.00 mm (1.00 Meter Height)
+
+* Dimensions: 32 x 32 Pixels
+  - Grid Math Formula  : 32 Pixels x 15.625 mm  = Exactly 500.00 mm (0.50 Meters Height)
+
+* Dimensions: 16 x 16 Pixels
+  - Grid Math Formula  : 16 Pixels x 15.625 mm  = Exactly 250.00 mm (0.25 Meters Height)
+
+----------------------------------------------------------------------------------------------------
+[PART 3: AGABAL MEGA ULTIMATE SUPER ENTERTAINMENT SYSTEM (A.K.A. A.M.U.S.E.S.) TARGET SCALE SPRITE SPECIFICATIONS (50% Downsample Layer — 1 Pixel = 31.25 mm)]
+----------------------------------------------------------------------------------------------------
+The 1979 hardware shifts raster maps down to a half-resolution index for performance parity.
+
+* Dimensions: 128 x 128 Pixels
+  - Grid Math Formula  : 128 Pixels x 31.250 mm = Exactly 4,000.00 mm (4.00 Meters Height)
+
+* Dimensions: 112 x 112 Pixels
+  - Grid Math Formula  : 112 Pixels x 31.250 mm = Exactly 3,500.00 mm (3.50 Meters Height)
+
+* Dimensions: 96 x 96 Pixels
+  - Grid Math Formula  : 96 Pixels x 31.250 mm  = Exactly 3,000.00 mm (3.00 Meters Height)
+
+* Dimensions: 80 x 80 Pixels
+  - Grid Math Formula  : 80 Pixels x 31.250 mm  = Exactly 2,500.00 mm (2.50 Meters Height)
+
+* Dimensions: 64 x 64 Pixels
+  - Grid Math Formula  : 64 Pixels x 31.250 mm  = Exactly 2,000.00 mm (2.00 Meters Height)
+
+* Dimensions: 48 x 48 Pixels
+  - Grid Math Formula  : 48 Pixels x 31.250 mm  = Exactly 1,500.00 mm (1.50 Meters Height)
+
+* Dimensions: 32 x 32 Pixels
+  - Grid Math Formula  : 32 Pixels x 31.250 mm  = Exactly 1,000.00 mm (1.00 Meter Height)
+
+* Dimensions: 16 x 16 Pixels
+  - Grid Math Formula  : 16 Pixels x 31.250 mm  = Exactly 500.00 mm (0.50 Meters Height)
+
+* Dimensions: 8 x 8 Pixels
+  - Grid Math Formula  : 8 Pixels x 31.250 mm    = Exactly 250.00 mm (0.25 Meters Height)
+
+----------------------------------------------------------------------------------------------------
+[PART 4: WORLD OVERVIEW MAP METRICS]
+----------------------------------------------------------------------------------------------------
+- TOTAL WORLD SPACE     : "The Burning Emerald" Equatorial Environment Grid
+- FILE BUFFER INDEX     : (321 x 256^2) Strategic Macro-Matrix Blocks (Centered)
+- PLANETARY BOUNDARY    : 128,640.00 Kilometers Circumference (~3.21x Scale of Earth Baseline)
+
+GLOBAL AT-RUNTIME TILE DIMENSIONS ACROSS PLANETARY HUBS:
+- 100% Master Scale Pixel Length  = 8,232,960,000.00 Total Horizontal Grid Cells
+- 50% A.M.U.S.E.S. Scale Pixel Length  = 4,116,480,000.00 Total Horizontal Grid Cells
+- 12.5% Preview Asset Pixel Length = 1,029,120,000.00 Total Horizontal Grid Cells
+
+----------------------------------------------------------------------------------------------------
+[PART 5: CROSS-SCALE RASTER REFERENCE LOOKUP TABLE]
+----------------------------------------------------------------------------------------------------
+METRIC UNIT DEPTH  | 100% MASTER PIXELS        | 50% A.M.U.S.E.S. PIXELS  | 12.5% PREVIEW PIXELS
+-------------------|---------------------------|--------------------------|-------------------------
+15.625 mm          | 1 Pixel                   | 0.5 Pixels               | 0.125 Pixels
+31.250 mm          | 2 Pixels                  | 1 Pixel                  | 0.250 Pixels
+125.000 mm         | 8 Pixels                  | 4 Pixels                 | 1 Pixel
+250.000 mm         | 16 Pixels                 | 8 Pixels                 | 2 Pixels
+500.000 mm         | 32 Pixels                 | 16 Pixels                | 4 Pixels
+1.000 Meter        | 64 Pixels                 | 32 Pixels                | 8 Pixels
+1.500 Meters       | 96 Pixels                 | 48 Pixels                | 12 Pixels
+2.000 Meters       | 128 Pixels                | 64 Pixels                | 16 Pixels
+2.500 Meters       | 160 Pixels                | 80 Pixels                | 20 Pixels
+3.000 Meters       | 192 Pixels                | 96 Pixels                | 24 Pixels
+3.500 Meters       | 224 Pixels                | 112 Pixels               | 28 Pixels
+4.000 Meters       | 256 Pixels                | 128 Pixels               | 32 Pixels
+1.000 Kilometre    | 64,000 Pixels             | 32,000 Pixels            | 8,000 Pixels
+128,640.000 km     | 8,232,960,000 Pixels      | 4,116,480,000 Pixels     | 1,029,120,000 Pixels
+====================================================================================================
+-Matthew Gordon Roulston Ambitionfire (Assisted With Gemini) 2:19 AM 29th (Friday) / 05 (May) / 2026
