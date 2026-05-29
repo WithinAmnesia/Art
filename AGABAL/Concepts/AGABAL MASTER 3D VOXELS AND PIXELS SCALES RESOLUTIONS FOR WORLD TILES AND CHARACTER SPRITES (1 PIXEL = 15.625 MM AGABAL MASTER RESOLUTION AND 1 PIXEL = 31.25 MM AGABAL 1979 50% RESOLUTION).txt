@@ -1,0 +1,111 @@
+====================================================================================================
+AGABAL MASTER 3D VOXELS AND PIXELS SCALES RESOLUTIONS FOR WORLD TILES AND CHARACTER SPRITES (1 PIXEL = 15.625 MM AGABAL MASTER RESOLUTION AND 1 PIXEL = 31.25 MM AGABAL 1979 50% RESOLUTION)
+====================================================================================================
+FILE NAME    : AGABAL.SYSTEM.ENGINE.MASTER.RESOLUTION.THREE.DIMENSIONAL.VOXEL.PACKING.SPECIFICATION.ARCHIVE.MATRIX.TXT
+SCALE METRIC : MASTER.CUBIC.VOXEL.RASTER.ENGINE.PROFILES
+DATA TARGET  : 3D VOXEL CUBIC ENGINE / MACRO-PLANETARY ENVIRONMENT MATRIX
+====================================================================================================
+
+[PART 1: THREE DIMENSIONAL CUBIC VOXEL METRIC SYSTEMS]
+----------------------------------------------------------------------------------------------------
+The AGABAL processing layer dictates strict geometric cubic boundaries for 3D Voxel layouts.
+By binding textures directly to a uniform 3D spatial cell grid, calculation costs vanish.
+
+* CORE MASTER ENVIRO-SCALE (100%): 1 Pixel = 15.625 mm (0.015625 Meters)
+  - Purpose: Engine master grid canvas, pixel-perfect hitbox zones, and raw asset sheet production.
+
+* MASTER CUBIC VOXEL UNIT DISPLACEMENT (125.000 mm^3)
+  - Volume Dimension Formula: 125.000 mm x 125.000 mm x 125.000 mm = Exactly 1,953,125.000 mm^3
+  - Metric Coordinate Bounds: Exactly 1/8th of a linear meter per axis.
+
+* RASTER TEXTURING DENSITY FACE ALIGNMENT (8 x 8 Pixels Per Face)
+  - Horizontal Axis Density : 8 Pixels x 15.625 mm = Exactly 125.000 mm (12.500 Centimetres)
+  - Vertical Axis Density   : 8 Pixels x 15.625 mm = Exactly 125.000 mm (12.500 Centimetres)
+  - Surface Pixel Area Base : Exactly 64.000 Pixels per individual cubic voxel face.
+
+----------------------------------------------------------------------------------------------------
+[PART 2: MASTER SCALE METRIC TO CUBIC VOXEL TRANSLATION LOG]
+----------------------------------------------------------------------------------------------------
+Cubic voxels pack perfectly into metric increments on the 100% Master Environment Layer.
+
+* 1.000 Meter Line Bounds
+  - Pixel Allocation Index  : Exactly 64.000 Pixels
+  - Voxel Allocation Index  : Exactly 8.000 Cubic Voxels (8 Voxels x 125.000 mm = 1,000.000 mm)
+  - Linear Pixel Calculation: 8.000 Voxels x 8.000 Pixels Per Face = Exactly 64.000 Pixels
+
+* 1.000 Kilometre Line Bounds
+  - Pixel Allocation Index  : Exactly 64,000.000 Pixels
+  - Voxel Allocation Index  : Exactly 8,000.000 Cubic Voxels (8,000 Voxels x 125.000 mm = 1,000.000 m)
+  - Linear Pixel Calculation: 8,000.000 Voxels x 8.000 Pixels Per Face = Exactly 64,000.000 Pixels
+
+----------------------------------------------------------------------------------------------------
+[PART 3: AGABAL MEGA ULTIMATE SUPER ENTERTAINMENT SYSTEM (A.K.A. A.M.U.S.E.S.) 50% SCALED VERSION]
+----------------------------------------------------------------------------------------------------
+The 1979 hardware projects the 3D Voxel universe down to a half-resolution raster index.
+
+* AGABAL 1979 ENGINE SCALE (50%) : 1 Pixel = 31.250 mm (0.031250 Meters)
+  - Purpose: 1979 Powerhouse Console target execution, hardware sprite blitting, and rendering.
+
+* A.M.U.S.E.S. RASTER TEXTURING DENSITY FACE ALIGNMENT (4 x 4 Pixels Per Face)
+  - Horizontal Axis Density : 4 Pixels x 31.250 mm = Exactly 125.000 mm (12.500 Centimetres)
+  - Vertical Axis Density   : 4 Pixels x 31.250 mm = Exactly 125.000 mm (12.500 Centimetres)
+  - Surface Pixel Area Base : Exactly 16.000 Pixels per individual cubic voxel face.
+
+* A.M.U.S.E.S. 1.000 Meter Line Bounds
+  - Pixel Allocation Index  : Exactly 32.000 Pixels
+  - Voxel Allocation Index  : Exactly 8.000 Cubic Voxels (8 Voxels x 125.000 mm = 1,000.000 mm)
+  - Linear Pixel Calculation: 8.000 Voxels x 4.000 Pixels Per Face = Exactly 32.000 Pixels
+
+----------------------------------------------------------------------------------------------------
+[PART 4: SPRITE RESOLUTION TO THREE DIMENSIONAL VOXEL VOLUMETRIC METRICS]
+----------------------------------------------------------------------------------------------------
+Actor metrics chart spatial heights to vertical voxel stacking boundaries on the Master layer.
+
+* Dimensions: 256 x 256 Pixels (4.00 Meters Height)
+  - Voxel Stack Height Formula: 4,000.000 mm / 125.000 mm = Exactly 32.000 Vertical Voxels
+
+* Dimensions: 224 x 224 Pixels (3.50 Meters Height)
+  - Voxel Stack Height Formula: 3,500.000 mm / 125.000 mm = Exactly 28.000 Vertical Voxels
+
+* Dimensions: 192 x 192 Pixels (3.00 Meters Height)
+  - Voxel Stack Height Formula: 3,000.000 mm / 125.000 mm = Exactly 24.000 Vertical Voxels
+
+* Dimensions: 160 x 160 Pixels (2.50 Meters Height)
+  - Voxel Stack Height Formula: 2,500.000 mm / 125.000 mm = Exactly 20.000 Vertical Voxels
+
+* Dimensions: 128 x 128 Pixels (2.00 Meters Height)
+  - Voxel Stack Height Formula: 2,000.000 mm / 125.000 mm = Exactly 16.000 Vertical Voxels
+
+* Dimensions: 96 x 96 Pixels (1.50 Meters Height)
+  - Voxel Stack Height Formula: 1,500.000 mm / 125.000 mm = Exactly 12.000 Vertical Voxels
+
+* Dimensions: 64 x 64 Pixels (1.00 Meter Height)
+  - Voxel Stack Height Formula: 1,000.000 mm / 125.000 mm = Exactly 8.000 Vertical Voxels
+
+* Dimensions: 32 x 32 Pixels (0.50 Meters Height)
+  - Voxel Stack Height Formula: 500.000 mm / 125.000 mm   = Exactly 4.000 Vertical Voxels
+
+* Dimensions: 16 x 16 Pixels (0.25 Meters Height)
+  - Voxel Stack Height Formula: 250.000 mm / 125.000 mm   = Exactly 2.000 Vertical Voxels
+
+----------------------------------------------------------------------------------------------------
+[PART 5: CROSS-SCALE RASTER REFERENCE LOOKUP TABLE WITH VOXEL VOLUMES]
+----------------------------------------------------------------------------------------------------
+METRIC DISPLACEMENT | 100% MASTER PIXELS | 50% A.M.U.S.E.S. PIXELS | LINEAR VOXEL BOUNDS (125mm)
+-------------------|--------------------|-------------------------|---------------------------
+15.625 mm          | 1 Pixel            | 0.5 Pixels              | 0.125 Voxels
+31.250 mm          | 2 Pixels           | 1 Pixel                 | 0.250 Voxels
+125.000 mm         | 8 Pixels           | 4 Pixels                | 1.000 Voxel (1 Voxel Face)
+250.000 mm         | 16 Pixels          | 8 Pixels                | 2.000 Voxels (Height: 0.25m)
+500.000 mm         | 32 Pixels          | 16 Pixels               | 4.000 Voxels (Height: 0.50m)
+1.000 Meter        | 64 Pixels          | 32 Pixels               | 8.000 Voxels (Height: 1.00m)
+1.500 Meters       | 96 Pixels          | 48 Pixels               | 12.000 Voxels (Height: 1.50m)
+2.000 Meters       | 128 Pixels         | 64 Pixels               | 16.000 Voxels (Height: 2.00m)
+2.500 Meters       | 160 Pixels         | 80 Pixels               | 20.000 Voxels (Height: 2.50m)
+3.000 Meters       | 192 Pixels         | 96 Pixels               | 24.000 Voxels (Height: 3.00m)
+3.500 Meters       | 224 Pixels         | 112 Pixels              | 28.000 Voxels (Height: 3.50m)
+4.000 Meters       | 256 Pixels         | 128 Pixels              | 32.000 Voxels (Height: 4.00m)
+1.000 Kilometre    | 64,000 Pixels      | 32,000 Pixels           | 8,000.000 Voxels
+128,640.000 km     | 8,232,960,000      | 4,116,480,000           | 1,029,120,000.000 Voxels
+====================================================================================================
+-Matthew Gordon Roulston Ambitionfire (Assisted With Gemini) 2:34 AM 29th (Friday) / 05 (May) / 2026
