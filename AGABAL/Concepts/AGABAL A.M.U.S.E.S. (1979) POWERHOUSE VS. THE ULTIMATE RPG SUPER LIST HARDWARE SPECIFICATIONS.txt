@@ -1,0 +1,88 @@
+====================================================================================================================
+                        AGABAL A.M.U.S.E.S. (1979) POWERHOUSE VS. THE ULTIMATE RPG SUPER LIST HARDWARE SPECIFICATIONS
+====================================================================================================================
+
+ [SYSTEM POOL RAM]                                              [CARTRIDGE / STORAGE SPACE]
+ ------------------------------------------------------------   ------------------------------------------------------------
+ 1974 dnd / PLATO Mainframe  | Unified System Terminal          1974 dnd / PLATO Mainframe  | Shared Mainframe Disk Array
+ 1975 Dungeon (PDP-10)       | 36-bit Word Core Buffer          1975 Dungeon (PDP-10)       | Shared Magnetic Storage Tape
+ 1979 Adventure (Atari 2600) | 128 Bytes !!!                    1979 Adventure (Atari 2600) | 4 KB !!!
+ 1979 Akalabeth              | 48 KB                            1979 Akalabeth              | 140 KB (5.25" Floppy Disk)
+ 1981 Wizardry 1             | 128 KB                           1981 Wizardry 1             | 160 KB (5.25" Floppy Disk)
+ 1982 Ultima II              | 64 KB                            1982 Ultima II              | 400 KB (Dual Drive Layout)
+ 1983 Ultima III: Exodus     | 64 KB                            1983 Ultima III: Exodus     | 280 KB (Dual Drive Layout)
+ 1984 Alternate Reality: City| 48 KB (Atari 8-bit line)         1984 Alternate Reality: City| 360 KB (Multi-Disk Stream)
+ 1985 Ultima IV              | 256 KB                           1985 Ultima IV              | 360 KB (5.25" Floppy Disk)
+ 1985 Bard's Tale            | 128 KB                           1985 Bard's Tale            | 360 KB (5.25" Floppy Disk)
+ 1986 Zelda 1 (NES)          | 2 KB                             1986 Zelda 1 (NES)          | 128 KB ROM + 8 KB SRAM
+ 1986 Castlevania 1          | 2 KB                             1986 Castlevania 1          | 128 KB ROM (PRG Storage)
+ 1987 Final Fantasy 1        | 2 KB                             1987 Final Fantasy 1        | 256 KB ROM + 8 KB SRAM
+ 1987 Phantasy Star 1        | 4 KB (Sega Master System)        1987 Phantasy Star 1        | 512 KB ROM Super Cartridge
+ 1988 Pool of Radiance       | 384 KB (Gold Box Engine)         1988 Pool of Radiance       | 720 KB (Dual Floppy Layout)
+ 1988 Wasteland              | 640 KB                           1988 Wasteland              | 720 KB (Dual Floppy Layout)
+ 1989 Dungeon Master         | 512 KB (Atari ST Platform)       1989 Dungeon Master         | 720 KB (3.5" Disk Space)
+ 1990 Dragon Quest IV (NES)  | 2 KB                             1990 Dragon Quest IV (NES)  | 1 MB ROM Super Cartridge
+ 1991 Link to the Past (SNES)| 128 KB                           1991 Link to the Past (SNES)| 1 MB ROM Cartridge + 8 KB SRAM
+ 1992 Ultima Underworld      | 2 MB                             1992 Ultima Underworld      | 9 MB HDD Install Space
+ 1993 Secret of Mana         | 128 KB                           1993 Secret of Mana         | 2 MB ROM Cartridge Array
+ 1994 Final Fantasy VI       | 128 KB                           1994 Final Fantasy VI       | 3 MB ROM Cartridge Board
+ 1995 Chrono Trigger         | 128 KB                           1995 Chrono Trigger         | 4 MB ROM (32-Megabit Chip)
+ ------------------------------------------------------------   ------------------------------------------------------------
+ AGABAL A.M.U.S.E.S. (1979)  | 512 KB !!!                       AGABAL A.M.U.S.E.S. (1979)  | 256 MB !!!
+ ------------------------------------------------------------   ------------------------------------------------------------
+ 1996 Diablo 1               | 8 MB                             1996 Diablo 1               | 25 MB HDD Installation
+ 1996 Pokémon Red/Blue (GB)  | 8 KB System + 8 KB Video RAM     1996 Pokémon Red/Blue (GB)  | 1 MB ROM GameBoy Cartridge
+ 1997 Fallout 1              | 16 MB                            1997 Fallout 1              | 65 MB HDD Base Sector
+ 1997 Final Fantasy VII (PS1)| 2 MB Main System RAM             1997 Final Fantasy VII (PS1)| 1.8 GB (Triple CD-ROM Array)
+ 1998 Ocarina of Time (N64)  | 4 MB Unified RAM Memory Pool     1998 Ocarina of Time (N64)  | 32 MB ROM High Density Cart
+ 1998 Baldur's Gate 1        | 16 MB                            1998 Baldur's Gate 1        | 300 MB HDD Sector Array
+ 1998 Xenogears (PS1)        | 2 MB Main System RAM             1998 Xenogears (PS1)        | 1.2 GB (Dual CD-ROM Media)
+ 1999 EverQuest 1            | 32 MB                            1999 EverQuest 1            | 450 MB HDD Base Client
+ 1999 Planescape: Torment    | 32 MB                            1999 Planescape: Torment    | 650 MB HDD Base Footprint
+ 1999 Chrono Cross (PS1)     | 2 MB Main System RAM             1999 Chrono Cross (PS1)     | 1.2 GB (Dual CD-ROM Media)
+ 2000 Icewind Dale           | 32 MB (Infinity Engine)          2000 Icewind Dale           | 600 MB HDD Direct Install
+ 2000 Diablo II              | 32 MB                            2000 Diablo II              | 650 MB HDD Client Buffer
+ 2000 Deus Ex                | 32 MB                            2000 Deus Ex                | 150 MB HDD File Space
+ 2000 Baldur's Gate II       | 64 MB                            2000 Baldur's Gate II       | 800 MB HDD Data Directory
+ 2001 Final Fantasy X (PS2)  | 32 MB Main System RAM            2001 Final Fantasy X (PS2)  | 4.3 GB Single Layer DVD-ROM
+ 2002 Morrowind              | 128 MB                           2002 Morrowind              | 1.0 GB HDD Installation
+ 2002 Kingdom Hearts (PS2)   | 32 MB Main System RAM            2002 Kingdom Hearts (PS2)   | 3.2 GB DVD-ROM Drive Media
+ 2003 Star Wars: KOTOR 1     | 256 MB                           2003 Star Wars: KOTOR 1     | 4.0 GB HDD Platform Footprint
+ 2004 World of Warcraft      | 256 MB                           2004 World of Warcraft      | 4.0 GB HDD Expansion Base
+ 2004 Fable 1 (Original Xbox)| 64 MB Unified Memory Pool        2004 Fable 1 (Original Xbox)| 2.1 GB HDD Media System Layout
+ 2004 Vampire: Bloodlines    | 512 MB                           2004 Vampire: Bloodlines    | 3.3 GB HDD Target Partition
+ 2005 Guild Wars             | 256 MB                           2005 Guild Wars             | 2.0 GB HDD File Array
+ 2006 The Elder Scrolls IV   | 512 MB                           2006 The Elder Scrolls IV   | 4.6 GB HDD System Space
+ 2007 Mass Effect 1          | 1.0 GB                           2007 Mass Effect 1          | 12.0 GB HDD Installation
+ 2007 Persona 3 (PS2)        | 32 MB Main System RAM            2007 Persona 3 (PS2)        | 4.2 GB DVD-ROM Data System
+ 2008 Mount & Blade          | 512 MB                           2008 Mount & Blade          | 700 MB HDD Asset Array
+ 2008 Fallout 3              | 1.0 GB                           2008 Fallout 3              | 7.0 GB HDD Workspace
+ 2009 Dragon Age: Origins    | 1.0 GB                           2009 Dragon Age: Origins    | 20.0 GB HDD System Array
+ 2009 Demon's Souls (PS3)    | 256 MB Main System RAM           2009 Demon's Souls (PS3)    | 8.0 GB Blu-ray Media System
+ 2009 Minecraft (Alpha Run)  | 1.0 GB                           2009 Minecraft (Alpha Run)  | 40 MB Base Engine Folder
+ 2010 Fallout: New Vegas     | 2.0 GB                           2010 Fallout: New Vegas     | 10.0 GB HDD Client Partition
+ 2011 Dark Souls 1 (PC Box)  | 1.0 GB                           2011 Dark Souls 1 (PC Box)  | 4.0 GB HDD Installation Array
+ 2011 Skyrim                 | 2.0 GB                           2011 Skyrim                 | 6.0 GB HDD Base Directory
+ 2015 Witcher 3              | 6.0 GB                           2015 Witcher 3              | 35.0 GB HDD Footprint Space
+ 2017 Breath of the Wild     | 4.0 GB Unified Memory SOC        2017 Breath of the Wild     | 13.4 GB Flash Hardware Media
+ 2023 Baldur's Gate 3        | 8.0 GB                           2023 Baldur's Gate 3        | 150.0 GB SSD Master Layer
+
+
+ [DEDICATED VIDEO RAM (VRAM)]                                   [THE 1979 ANCHOR ARCHITECTURE]
+ ------------------------------------------------------------   ------------------------------------------------------------
+ 1974-1985 EARLY ERA TITLES  | 0 KB (Shared Core Framework)     * HOST PROCESSOR CPU: Atari 400/800 MOS Technology 6502 Core
+ 1986 Zelda 1 (NES Platform) | 8 KB (Dedicated Character Bus)   * CENTRAL FILE UNIT: Custom "Mega OS" Hardware MMU Layer
+ 1987 Phantasy Star 1        | 16 KB (VDP Video Memory Array)   * COMPONENT SAVES:   64 KB Non-Volatile Battery-Backed
+ 1991 Link to the Past (SNES)| 64 KB (Custom Video PPU Layer)                        SRAM Local Database System Matrix
+ 1995 Chrono Trigger         | 64 KB (Custom Video PPU Layer)   * NETWORK TELEMETRY: Serial I/O Interface Array Link
+ ------------------------------------------------------------                        (Client/Server Cell Communication)
+ AGABAL A.M.U.S.E.S. (1979)  | 128 KB !!!                       ============================================================
+ ------------------------------------------------------------   AGABAL A.M.U.S.E.S. ARCHITECTURAL TRIUMPH NOTES:
+ 1996 Diablo 1               | ~512 KB (Shared Frame Buffer)    
+ 1997 Fallout 1              | 1 MB Video Storage Chip VESA     * INFINITY ENGINE COLD FACT: Adding Icewind Dale (2000) 
+ 1997 Final Fantasy VII (PS1)| 1 MB Dedicated Video VRAM          highlights Black Isle’s combat-heavy isometric formula. 
+ 1998 Ocarina of Time (N64)  | Unified System Memory Layout       While it needed 600 MB of space to unpack its winter wastes, 
+ 1998 Baldur's Gate 1        | 2 MB Dedicated VRAM Module         our custom 256 MB Super Cartridge fits nearly half that 
+ 1999 EverQuest 1            | 4 MB (3D Accelerator Required)     entire PC installation using tight, highly compressed 2D 
+ 1999 Planescape: Torment    | 4 MB SVGA (16-bit True Depth)      tiles and data arrays directly in a 1979 slot.
+-Matthew Gordon Roulston Ambitionfire (Assisted With Gemini) 9:39 PM 28th (Thursday) / 05 (May) / 2026
