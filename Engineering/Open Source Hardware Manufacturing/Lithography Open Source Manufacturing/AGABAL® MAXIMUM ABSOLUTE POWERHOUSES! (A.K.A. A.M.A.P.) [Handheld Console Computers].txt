@@ -1,0 +1,133 @@
+AGABAL® MAXIMUM ABSOLUTE POWERHOUSES! (A.K.A. A.M.A.P.) [Handheld Console Computers]
+
+================================================================================
+AGABAL® DIGITAL SYSTEM ARCHIVE // SYSTEM SPECIFICATION MANIFEST
+DOCUMENT ID: AG-AMUSE-1979-2026-X86V-REV11
+PROJECT: AGABAL® MULTI-PLEX ENTERTAINMENT SYSTEM TOTAL OPERATIONS POWERFUL 
+         ERGONOMIC CONSOLE COMPUTER PORTABLE (A.M.U.S.E.S.T.O.P.E.C.C.P.)
+CLASSIFICATION: IMMORTAL HARDWARE REPOSITORY // SPECIFICATION REVISION 11
+TIER DIRECTORY: CORE ($321) │ TITANIUM ULTRA ($3,210) │ EMPEROR SOVEREIGN ($32,100)
+================================================================================
+
+I. INDUSTRIAL DESIGN & CHASSIS ARMOUR
+--------------------------------------------------------------------------------
+The A.M.U.S.E.S.T.O.P.E.C.C.P. architecture is divided into three physical tiers. 
+Each tier rejects planned obsolescence to forge an unyielding structural matrix.
+
+* Core Tier Chassis [$321.00 CAD]: Precision-milled 6061-T6 structural aircraft 
+  aluminum unibody shell. Bead-blasted, hard-anodized tactical space-grey.
+* Titanium Ultra Tier Chassis [$3,210.00 CAD]: CNC-forged Grade 5 Titanium (Ti-6Al-4V) 
+  monolithic exoskeleton frame. Deep molecular Polished Gold PVD coating.
+* Emperor Sovereign Tier Chassis [$32,100.00 CAD]: Monolithic, high-pressure forged 
+  Titanium-Matrix Composite (TMC) matrix body. Interwoven with continuous single-crystal 
+  sapphire structural ribs and solid 24K Gold internal bus bar framing elements. 
+  Indestructible structural shielding engineered to resist deep physical distortion.
+* Fastening Array: 12 x Perimeter-mounted Torx T5 high-tensile stainless steel 
+  machine screws threaded into integrated steel chassis inserts.
+* Ergonomics: Dignified, integrated palm contours. Balanced geometric lines 
+  merge with the metal frame. Mass center sits exactly on the X-Y midpoint.
+
+II. MONITOR-GRADE DISPLAY SUBSYSTEM
+--------------------------------------------------------------------------------
+* Panel Typology: Custom Master-Class Active-Matrix Super-Emitter OLED.
+* Aspect Ratio: Native 16:9 Cinema Widescreen Standard (Zero letterboxing).
+* Dimensions: 8.4-inch optimal layout for high-density information tracking.
+* Core Tier Resolution Options [$321.00 CAD]: 
+  - Option Alpha: 1920 x 1080p True Native Full HD (Battery Efficiency Profile).
+  - Option Ultra: 3840 x 2160p Native 4K Ultra-HD (Absolute Graphic Density).
+* Titanium Ultra Tier Resolution [$3,210.00 CAD]:
+  - Option Sovereign: 7680 x 4320p Native 8K Cinematic OLED Panel. 
+* Emperor Sovereign Tier Resolution [$32,100.00 CAD]:
+  - Option Absolute: 15360 x 8640p Native 16K Extreme Micro-OLED / Quantum Dot Hybrid. 
+    Subpixel pitch drops below nanoscale limits. Renders absolute visual reality with 
+    zero grid artifacting. Driven via a dedicated, hardware-parallel video bus.
+* Color Metrics: Infinite contrast ratio (0.0000 nits true black). 100% DCI-P3 
+  wide color gamut. Factory-calibrated hardware-level Delta E < 1 accuracy.
+* Protection: Chemically strengthened Sapphire Glass lens, flush-mounted, with 
+  oleophobic fingerprint-resistant and anti-reflective physical coatings.
+
+III. SILICON ARCHITECTURE: RISC-V COMPUTATIONAL CORES
+--------------------------------------------------------------------------------
+Open-source silicon eliminates third-party licensing royalties. In the lower tiers, 
+this offsets the cost of premium materials. In the Emperor Sovereign Tier, it enables 
+a hyper-dense, unthrottled supercomputing cluster condensed inside a portable block.
+
+* Central Core Engine: AGABAL-R64 "Vanguard" 64-bit Application RISC Processor.
+* ISA Base Extensions: RV64GCV (Integer, Multiply, Atomic, Float, Double, 
+  Compressed, and Vector Extension 1.0) for zero-latency pipelines.
+* Compute Topology (Core Tier): Symmetrical Octa-Core Compute Matrix:
+  - 4 x "Titan" Cores (2.4 GHz) │ 4 x "Nexus" Cores (1.4 GHz).
+* Compute Topology (Titanium Ultra Tier): Supercharged Hexadecane-Core (16-Core) Matrix:
+  - 8 x "Apex Titan" Cores (3.8 GHz) │ 8 x "Nexus" Cores (2.0 GHz).
+* Compute Topology (Emperor Sovereign Tier): Absolute Powerhouse 64-Core Array:
+  - 32 x "Nova Titan" Cores: Multi-threaded Out-of-Order execution, liquid-nitrogen 
+    vapor phase coupled, clocked up to 4.6 GHz for infinite on-device emulation frames.
+  - 32 x "Nexus Ultra" Cores: Symmetrical parallel crunching arrays clocked at 2.8 GHz.
+* Vector Processing: 512-bit wide dedicated vector register lanes. Direct 
+  hardware acceleration for retro-console emulation pipelines and real-time scaling.
+* Graphics Engine: Open-Architecture RISC-V Compute GPU. Full hardware-level 
+  conformance with Vulkan 1.3, OpenGL ES 3.2, and OpenCL 3.0 API specifications.
+* Unified Memory Subsystem:
+  - Core Tier [8 GB Base / 16 GB High]: Low-Power LPDDR5X Dual-Channel Matrix.
+  - Titanium Ultra Tier [32 GB Absolute]: Hyper-clocked LPDDR5X Quad-Channel Array. 
+  - Emperor Sovereign Tier [512 GB Absolute]: Custom High-Bandwidth 3D-Stacked 
+    LPDDR6 / HBM3e Unified Memory Ring Matrix. Massive multi-terabyte-per-second 
+    throughput ceiling capable of running real-time neural network matrices.
+
+IV. NON-VOLATILE ARCHIVAL STORAGE STORAGE
+--------------------------------------------------------------------------------
+* Architecture: Dual independent high-speed spring-loaded metal MicroSD trays.
+* Interface: Full UHS-II Bus speed capability (Up to 312 MB/s read/write).
+* Core Tier Configurations: 256 GB Industrial-Grade or 2 TB Archival MicroSD.
+* Titanium Ultra Tier Configuration: Dual matching 2 TB Enterprise-Grade Ultra-
+  Endurance MicroSD cards pre-installed, pre-configured as a 4 TB RAID array.
+* Emperor Sovereign Tier Storage Configuration [$32,100.00 CAD]:
+  - Primary Array: Dual matching 2 TB Enterprise MicroSD cards (4 TB physical cache).
+  - Secondary Archival Pool: Integrated Solid-State Nanocrystal Molecular Flash Arrays 
+    delivering 2+ PB (Petabytes) of cold-storage non-volatile capacity. Complete, 
+    on-device offline preservation of global software history and multi-layered databanks.
+* File Matrix: Native multi-journaling support (Ext4, Btrfs, and legacy AMFS).
+
+V. CELLULAR MODERNITY & WIRELESS CONNECTIVITY
+--------------------------------------------------------------------------------
+The powerhouse is fully provisioned as a current-day flagship mobile station.
+* Cellular Transceiver: Globally unlocked 5G Sub-6GHz and 4G LTE Baseband.
+* Carrier Interface: 1 x Physical Nano-SIM slot + Multi-Profile Programmable eSIM.
+* Smartphone Capabilities: Dual beam-forming noise-cancelling microphone arrays, 
+  high-SPL earpiece speaker grill, and optical proximity sensor arrays for standard 
+  telephonic ear-to-cheek voice operations.
+* Wireless Array: Wi-Fi 6E Tri-Band (2.4GHz, 5GHz, 6GHz) + Bluetooth 5.3 Low Energy.
+
+VI. MECHANICAL CONTROLS & PHYSICAL INTERFACING
+--------------------------------------------------------------------------------
+* Joystick Assemblies: Full-sized, heavy-gauge steel shafts riding on frictionless 
+  magnetic Hall-Effect sensor arrays. Total immunity to physical potentiometer drift.
+* Tactile Action Matrix: Omron mechanical micro-switches under solid injection-molded 
+  caps. Rated for 50-million keystroke actuations with crisp tactile reset curves.
+* D-Pad Configuration: Heavy metallic floating cross-axis with underlying independent 
+  tactile switches and a centered physical pivot node for perfect cardinal accuracy.
+* Audio Output: Dual front-firing acoustic sound chambers tuned for stereophonic depth.
+
+VII. EXPANSION PORT IO MATRIX
+--------------------------------------------------------------------------------
+* Modern Bus: 4 x USB-C 3.2 Gen 2 Universal Ports (Dual Top, Dual Bottom for clean 
+  perpendicular docking configurations. Supports DisplayPort 1.4 Alt-Mode).
+* Flash Interface: 1 x Dedicated high-speed Multi-Card Reader (SD / SDHC / SDXC).
+* Analog Sound: 1 x 3.5mm Headphone/Microphone Combo Jack with an ultra-clean DAC.
+* AGABAL Heritage Legacy Port: 1 x Concealed, industrial-grade DE-9 connector. 
+  Features the authentic 1979 optocoupler and open-drain hardware isolation circuitry, 
+  allowing the host system to multiplex 24 inputs across 4 discrete state matrices.
+
+VIII. THERMAL, POWER & LIFETIME SUSTAINABILITY
+--------------------------------------------------------------------------------
+* Cooling Matrix: Silent, oversized pure copper vapor chamber bonded directly to the 
+  outer metal unibody chassis. The outer shell acts as an expansive passive heatsink.
+* Battery Array: 7500mAh High-Density Safe Lithium-Polymer cell.
+* Wired Charging: Fast-charging implementation up to 45W via USB Power Delivery (PD).
+* Wireless Charging: 15W Qi-Standard magnetic wireless induction loop array mounted 
+  beneath an RF-transparent composite structural window on the rear metal chassis.
+
+================================================================================
+EOF // HARDWARE ARCHIVE REPOSITORY RECORD TERMINATED // AGABAL POWERHOUSE IMMORTAL
+================================================================================
+-Matthew Gordon Roulston Ambitionfire (Assisted With Gemini) 2:46 PM 30th (Saturday) / 05 (May) / 2026
