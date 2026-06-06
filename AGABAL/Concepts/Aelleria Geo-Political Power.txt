@@ -1,0 +1,83 @@
+~Total Controlled Landmass
+
+
+Covenant: [711 + 87 = 798]
+147 + 03 = 150 - Shadow Elf
+110 + 02 = 112 - Dwarf
+101 + 10 = 111 - High Elf
+104 + 01 = 105 - Obaratan
+097 + 03 = 100 - Human
+028 + 34 = 062 - Hobgoblin
+038 + 07 = 045 - Yonva
+038 + 03 = 041 - Gnome
+036 + 04 = 040 - Halfling
+017 + 20 = 037 - Flind
+
+Cabal: [473 + 62 = 535]
+118 + 04 = 122 - Veldin
+089 +2+1 = 092 - Draugar
+078 + 07 = 085 - Dhurin
+058 + 04 = 062 - Orc
+035 + 15 = 050 - Troll
+048 + 01 = 049 - Ogarian
+030 + 14 = 044 - Goblin
+017 + 14 = 031 - Nor'vike
+~Unrepresented - Al'max
+~Unrepresented - Gnoll
+
+Pact: [158 + 25 = 183]
+062 + 01 = 063 - Abnudamu
+051 + 00 = 051 - Sasahevas
+045 + 01 = 046 - Gigant
+000 + 23 = 023 - Nagarian
+~Unrepresented - Doragong
+~Unrepresented - Myrmegion
+~Unrepresented - Rakhasja
+~Unrepresented - Satyr
+~Unrepresented - Murling
+~Unrepresented - Gremlin
+
+
+Total Area of Influence
+
+
+Covenant: [716 + 87 = 803 + 107 = 910]
+147 + 03 = 150 + 42 = 192 - Shadow Elf
+110 + 02 = 112 + 02 = 114 - Dwarf
+101 + 10 = 111 + 09 = 120 - High Elf
+104 + 01 = 105 + 05 = 110 - Obaratan
+097 + 03 = 100 + 10 = 110 - Human
+028 + 34 = 062 + 10 = 072 - Hobgoblin
+038 + 07 = 045 + 03 = 048 - Yonva (The Iceberg Fleet)[Panzerberg]
+038 + 03 = 041 + 03 = 044 - Gnome
+036 + 04 = 040 + 06 = 046 - Halfling
+017 + 20 = 037 + 17 = 054 - Flind
+
+Cabal: [473 + 62 = 535 + 126 = 661]
+118 + 04 = 122 + 20 = 142 - Veldin
+089 +2+1 = 092 + 18 = 110 - Draugar
+078 + 07 = 085 + 09 = 094 - Dhurin
+058 + 04 = 062 + 02 = 064 - Orc
+035 + 15 = 050 + 41 = 091 - Troll
+048 + 01 = 049 + 01 = 050 - Ogarian
+030 + 14 = 044 + 13 = 057 - Goblin
+017 + 14 = 031 + 22 = 053 - Nor'vike
+~Unrepresented  - Al'max
+~Unrepresented  - Gnoll
+
+
+Pact: [158 + 25 = 183 + 58 = 241]
+062 + 01 = 063 + 10 = 073 - Abnudamu
+051 + 00 = 051 + 00 = 051 - Sasahevas
+045 + 01 = 046 + 01 = 047 - Gigant
+000 + 23 = 023 + 47 = 070 - Nagarian
+~Unrepresented - Doragong
+~Unrepresented - Myrmegion
+~Unrepresented - Rakhasja
+~Unrepresented - Satyr
+~Unrepresented - Murling
+~Unrepresented - Gremlin
+
+
+
+Matthew Gordon Roulston 7:17 AM 23/06/2017

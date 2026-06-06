@@ -1,0 +1,33 @@
+I figuring of like who the top 4 and top 8 races in each of the 4 factions lol. I'm roughly using this and geopolitics and like race popularity in wow to figure out whos who in AGABAL. https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population + https://www.statista.com/statistics/276315/distribution-of-world-of-warcraft-characters-by-race/ + https://www.statista.com/statistics/276315/distribution-of-world-of-warcraft-characters-by-race/ + https://www.wowclassicpop.com/characters?maxLevel=60 + https://www.icy-veins.com/forums/topic/49862-wow-demographics-for-class-race-and-faction-infographic/ + https://www.reddit.com/r/classicwow/comments/b4wz4u/distribution_of_race_and_class_according_to/
+[12:04]
+it seems that human elves orcs undead seem to rise to the top. but in earth like some countries with lots of power have more land but less people like usa and russia but places like india and china have more people but less land
+
+Matthew — Today at 12:26
+I think figured it out for Aelleria for the Covenant
+Top 1-4 have ~40% / ~2/5 faction total population
+1.) Humans
+2.) Shadow Elves
+3.) High Elves
+4.) Dwarves
+
+Top 5-8 have ~30% / ~3/10 faction total population
+5.) Obaratans (~Werewolves Humans)
+6.) Halflings
+7.) Flinds (~Lion People)
+8.) Hobgoblins
+
+Top 9-12 have ~20% / ~1/4 faction total population
+9.) Yonva(s) (~Polar Bear people)
+10.) Gnomes
+11.) TBD
+12.) TBD
+
+Top 13-16 have ~10% / ~1/10 faction total population
+13-16.) TBD
+
+40%+30%+20%+10%=100% of ~2^30 x ~1/3 for Covenant population Aelleria demographics scale.
+[12:27]
+I'll write this down and archive it so I can remember it. its important for world building with a procedural generation / getting the details right with scale. (edited)
+[12:27]
+
+-Matthew Gordon Roulston with Ashley Corbin 12:29 PM 13th / 02 (February) / 2024

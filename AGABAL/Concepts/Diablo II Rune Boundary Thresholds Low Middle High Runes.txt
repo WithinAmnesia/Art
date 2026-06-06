@@ -1,0 +1,11 @@
+Diablo II Rune Boundary Thresholds Low Middle High Runes
+
+El is Low Rune start, the lowest Rune.
+
+Thul / Amn Runes are Low Rune to Middle Rune boundary threshold.
+
+Pul / Um Runes are Middle Rune to High Rune boundary threshold.
+
+Zod is High Rune end, the highest Rune.
+
+-Matthew Gordon Roulston Ambitionfire 10:25 PM 03rd / 03 (March) / 2026

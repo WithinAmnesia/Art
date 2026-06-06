@@ -1,0 +1,32 @@
+Diablo II (Item Quality, Item Level)
+
+Item Base level:
+- Normal           (0/1-39 [39] Required Level)
+- Exceptional      (18-52 [35] Required Level)
+- Elite                (39-67 [29] Required Level)
+
+Item Loot Maximum Required Level:
+- Crafted           (~99[~114/94 Modifier/Bugged?])
+- Set                  (81)
+- Unique             (87)
+- Runeword        (69)
+
+Item Quality Colour:
+- Poor               (White)
+- Common          (White)
+- Superior          (Grey)
+- Socketed          (Grey)
+- Ethereal          (Grey)
+- Magic              (Blue)
+- Rare               (Yellow)
+- Crafted           (Orange)
+- Set                  (Green)
+- Unique             (Tan)
+- Runeword        (Tan)
+
+Difficulty Area Levels:
+- Normal           (1-43 [43] {50})
+- Nightmare       (36-66 [31] {68,75})
+- Hell                 (67-85 [19] {87})
+
+-Matthew Gordon Roulston 9:54 PM 23rd / 05 (May) / 2022

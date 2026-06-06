@@ -1,0 +1,89 @@
+Vorpal Shadowfang [Epic]
+
+Binds when picked up
+Main Hand	                    Sword
+116 - 221 Damage 	       Speed 3.30
++ 13 - 25 Shadow Damage
+(56.8 damage per second)
+Durability 100 / 100
+Requires Level 19
+1G00S05C
+(^ XVanillaX [Burning Crusade] WoW Item level Budgeting Created on wow-v.com)
+Chance on hit: Sends a shadowy bolt at the enemy 
+causing 118 to 150 Shadow damage. [6.0% Proc Rate]
+Chance on Hit: Often [6.0%] Use the Dark Vorpal 
+Magic of the Demonblade to pass the blade through 
+enemy defences delivering a crippling hit which 
+Immobilizes the target for 3 seconds then slows 
+Attack Speed, casting Time and Movement by 30% 
+for 7 Seconds also Steals 45 Health and Drains 45 
+Mana From the Enemy.
+Equip: When Struck in Combat has 3% of raising an 
+Anti-magic Shield around the wielder, giving it 
+magic immunity for 10 seconds.
+Use: Unleash the Foul Power of The Demonblade 
+Shadowfang upon an enemy, Corrupting the target 
+with hellfire inflicting 394 to 506 Fire Damage 
+and Deals additional Fire damage to all enemies 
+within 15 yards causing them to burn absolutely 
+for 78 additional Fire damage every 3 sec for 9 
+sec.
+(1 Minute Cooldown.) [40 yards (Long)]
+Item Level: 33
+
+Inspired from
+
+Shadowfang Orginal Statistical ratios and relativities to each other e.g. Procs. 
+It is the Absolute Best One Handed Weapon using an item level budget excpection.
+Shadowy Theme of the Weapon
+The Power Numbers 3,6,9 also 19 in some dps cases.
+Epic/Superior Level 1-70 Item level Wow Gear with Chance on Hits/Procs.
+Various Shadowfang Keep Vanilla NPC Abilities
+Diablo Shadowfang cut quest quest texts
+"I have had a most disturbing experience that I must share with you my friend. 
+Earlier today I was called upon to help one of men who escaped from the 
+labyrinth. He was deranged, violent and kept lashing out at all of those who 
+were trying to calm him. I suspected that he had been possessed by some sort of 
+demonic entity and so began to drive the evil from within him. After many hours, 
+I was able to exercise a demon, who called himself Fleshdoom, but the hellion 
+escaped into the Labyrinth. You may think that I am mad, but after speaking 
+with the man and battling Fleshdoom, I believe that the Labyrinth has somehow 
+become a gateway to the underworld. As you descent deeper you may find yourself 
+on the doorsteps of hell itself. Finally the man who was possessed, retained 
+memories of an ancient Demonblade called ShadowFang. If you find the demon 
+Fleshdoom beware this foul sword. While I believe the dangers below grow even 
+greater, you must find the demon Fleshdoom and slay him. Bring the sword to me 
+and I can destroy it. Do not wield it, for its power can corrupt absolutely." 
+Hellfire spell=87480
+Hellfire spell=40718
+Hellfire Arrow spell=126581
+http://www.gamesurge.com/features/editorials/diablo_revealed/shadowfang.shtml
+"Once Shadowfang is found this quests takes a very, very interesting turn. When 
+the demon sword is given to Tremayne, the sword consumes the priest with 
+hellfire. Tremayne's final instructions as he burns, are to take the blade back 
+to the Hellforge, from which it came. To do this, you must venture into the very 
+depths of hell itself."
+http://diablo.wikia.com/wiki/Shadowfang
+"LoreEdit
+
+The demonblade Shadowfang was likely not fully completed, thanks to Izual's 
+assault on the Hellforge (while wielding the sword Azurewrath). Compared to the 
+other unique sword Azurewrath, Shadowfang is incredibly weak. Shadowfang not 
+being completed due to Izual's assault would account for the blade's weakness, 
+but it is fascinating to ponder Shadowfang's strength if it were." (Vorpal Time!)
+"In diablo 1, a quest named "Fleshdoom, Wielder of Shadowfang" never made it in 
+the game."
+http://www.wowwiki.com/Item_level
+http://wowpedia.org/Stat_budget
+http://elitistjerks.com/f15/t44718-item_level_mechanics/
+http://rogerkarlsson.com/blogs/wow/lifestealing/
+http://rogerkarlsson.com/blogs/wow/crusader/
+http://www.mmo-champion.com/threads/627491-Proc-rates-for-Weapon-enchants
+http://www.youtube.com/user/stoneharryNotBan/
+And Many...
+Many more.
+
+5:13AM 13/09/2013 since around 9:00PM 12/09/2013
+Matthew Gordon Roulston
+With the Best of Intentions
+5:16AM 13/09/2013

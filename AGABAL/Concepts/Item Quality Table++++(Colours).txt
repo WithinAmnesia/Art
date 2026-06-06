@@ -1,0 +1,21 @@
+Item Quality Table++++ (Colours, Item Level)
+
+Destroyed (Faulty) -40 Item Levels [Black]
+Broken (Flawed) -30 Item Levels [Soot]
+Decrepit (Poor) -20 Item Levels [Ash]
+Crude (Inferior) -10 Item Levels [White]
+Common (Weak) +/-0 Item Levels [Amber]
+Fine (Minor) +10 Item Levels [Chartreuse]
+Exquisite (Lesser) +20 Item Levels [Green]
+Masterwork (Substantial) +30 Item Levels [Aqua]
+Elite (Greater) +40 Item Levels [Blue]
+Heroic (Major) +50 Item Levels [Purple]
+Epic (Mighty) +60 Item Levels [Pink]
+Wonderous (Superior) +70 Item Levels [Red]
+Legendary (Supreme) +80 Item Levels [Orange]
+Supernatural (Transcendent) +90 Item Levels [Yellow]
+Mythical (Absolute) +100 Item Levels [Grey]
+
+-Matthew Gordon Roulston 6:54 PM 09th/07(July)/2017
++ Matthew Gordon Roulston 11:49 PM 21st+2:31 PM 22nd
++ 10:33 PM 23rd/05(May)/2022 + 9:53 PM 01st/06(June)/2022

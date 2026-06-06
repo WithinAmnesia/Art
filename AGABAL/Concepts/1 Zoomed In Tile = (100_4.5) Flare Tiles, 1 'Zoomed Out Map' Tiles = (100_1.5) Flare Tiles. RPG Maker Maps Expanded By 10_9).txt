@@ -1,0 +1,16 @@
+1 Zoomed In Tile = (100 / 4.5 = 22.222 Repeating) Flare Tiles, 1 'Zoomed Out Map' Tiles = (100 / 1.5 = 66.666 Repeating) Flare Tiles. RPG Maker Maps expanded by 10/9 (1.11 Repeating). Standard Flare Map ~1,000 by ~1,000 Tiles Via Tiled.
+
+Example: 
+- Paradise Falls (RPG Maker MV AGABAL RPG 'Starting Map') [Zoomed In Map Uses x (100 / 4.5 = 22.222 Repeating) Multiplier*; (100 / 1.5 = 66.666 Repeating) x 3 = (100 / 4.5 = 22.222 Repeating)] 63x57 Tiles (~60x60) x 10/9 (1.11 repeating)) =
+X an Y = 66.666 (repeating) Tiles (~exanded / 'extra zoomed in'), 66.666 (Repeating) RPG Maker MV Tiles x (100 / 4.5 = 22.222 Repeating)* = 1,481.481 (One Thousand Four Hundred Eighty One Point Four Eight One Repeating) Flare Tiles.
+---------------
+- Mage'afar Province (RPG Maker MV AGABAL RPG 'World Map') [Zoomed Out Map Uses x (100 / 1.5 = 66.666 Repeating) Multiplier*; (100 / 4.5 = 22.222 Repeating) / 3 = (100 / 1.5 = 66.666 Repeating)] 147 x 84 Tiles x 10/9 (1.11 repeating)) =
+ X = 163.333 (Repeating) Tiles (~exanded / 'extra zoomed in'), 163.333 (Repeating) RPG Maker MV Tiles x (100 / 1.5 = 66.666 Repeating)* = 10,888.888 (Repeating) Flare Tiles.
+ Y = 93.333 (Repeating) Tiles (~exanded / 'extra zoomed in'), 93.333 (Repeating) RPG Maker MV Tiles x (100 / 1.5 = 66.666 Repeating)* = 6,222.222 (Repeating) Flare Tiles.
+Roughly ~11 x 6 = 66 or 10 x 7 = 70 (Pick the highest number = 70) So a 147 x 84 'Zoomed Out' / 'World Map' = ~70 1,000 x 1,000 Flare Tiled Maps (More World Map Provinces, More Level, More Stories, More Caves, More Interiors = More Mighty Maps!).
+
+
+-Matthew Gordon Roulston 3:17 - 4:00 PM - 6:06 PM (Stanley Cup Finals Game 1 Montreal vs. Tampa Bay at Tampa Bay) 28th / 06 (June) / 2021
+
+
+147 x (10/9 = 11.111 (Repeating)) = 163.333 (Repeating) x 66.666
