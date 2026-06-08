@@ -1,0 +1,17 @@
+AGABAL® 2D Entities, Points Of Interests, Wildernesses Scaling (A.K.A. A.2.D.E.P.O.I.W.S.)
+
+AGABAL® 2D Entities (Persons, Creatures, Houses) = 1 To 1 Scale (32 Pixels = 1 Meter), Points Of Interests (Settlements, Features, Infrastructures) = 1 To 32 Scale (1,024 Pixels = 32 Meters), Wildernesses (Lands, Seas, Planes) = 1 To 1 To 1,000 Scale De Facto [1 To 1,024 Scale De Jure] (32,000 Pixels = 1,000 Meters [1 Kilometer] Scale De Facto) [32,768 Pixels = 1,024 Meters [1.024 Kilometers] Scale De Jure] Scaling!
+
+(A.K.A. A.2.D.E.P.O.I.W.S.)
+AGABAL® 2D:
+Entities (Persons, Creatures, Houses) = 1 To 1 Scale (32 Pixels = 1 Meter)
+Points Of Interests (Settlements, Features, Infrastructures) = 1 To 32 Scale (1,024 Pixels = 32 Meters)|
+Wildernesses (Lands, Seas, Planes) = 1 To 1 To 1,000 Scale De Facto [1 To 1,024 Scale De Jure] (32,000 Pixels = 1,000 Meters [1 Kilometer] Scale De Facto) [32,768 Pixels = 1,024 Meters [1.024 Kilometers] Scale De Jure]
+Scaling!
+(A.K.A. A.2.D.E.P.O.I.W.S.)
+
+-Matthew Gordon Roulston Ambitionfire (Unassisted Individual Effort) 1:11 PM 08th (Monday) / 06 (June) / 2026
+
+
+
+
