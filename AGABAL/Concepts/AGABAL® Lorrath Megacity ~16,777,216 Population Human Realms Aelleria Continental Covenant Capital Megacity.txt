@@ -1,0 +1,61 @@
+AGABAL® Lorrath Megacity ~16,777,216 Population Human Realms Aelleria Continental Covenant Capital Megacity
+
+
+
+321^2 Kilometers For Greater Lorrath Megacity Area
+
+
+
+Lorrath is ~10% of total Human population on Planet AGABAL, use greater Lorrath Area.
+
+
+
+As can be within expectations of total world history and civilization and mythology ~10% of a Nation can be in one capital city at a time, use power of two, make it at least a Megacity of ~10,000,000+ population, use a power of 2... 2^24 = 16,777,216, that is at least a Megacity.
+
+
+
+39,370,533.546 Humans x 4 = ~157,482,134.184 Planet  AGABAL Total Humans Population.
+
+
+
+Notes And Inspiration:
+Covenant Aelleria Population 40%/30%/20%/10% Civilization Distribution:
+
+AGABAL Total Population:
+~2^32 = 4,294,967,296
+
+Aelleria Total Population:
+~2^32/4 = 1,073,741,824
+
+Covenant Aelleria Population:
+~2^32/4x(1/3)= 357,913,941.333
+
+40% Top 1-4:
+11.0% - (~2^32/4x(1/3)x0.11) = ~39,370,533.546 Humans 
+10.5% - (~2^32/4x(1/3)x0.105) = ~37,580,963.84 Shadow Elves
+9.5% - (~2^32/4x(1/3)x0.095) = ~34,001,824.426 High Elves
+9.0% - (~2^32/4x(1/3)x0.09) = ~32,212,254.72 Dwarves
+
+30% Top 5-8:
+11%/4=2.75x3=8.25% - (~2^32/4x(1/3)x0.0825) = ~29,527,900.16 Obaratans
+10.5%/4=2.625x3=7.875% - (~2^32/4x(1/3)x0.07875) = ~28,185,722.88 Halflings
+9.5%/4=2.375x3=7.125% - (~2^32/4x(1/3)x0.07125) = ~25,501,368.32 Flinds
+9.0%/4=2.25x3=6.75% - (~2^32/4x(1/3)x0.0675) = ~24,159,191.04 Hobgoblins
+
+20% Top 9-12:
+11%/4=2.75x2=5.5% - (~2^32/4x(1/3)x0.055) = ~19,685,266.773 Yonva
+10.5%/4=2.625x2=5.25% - (~2^32/4x(1/3)x0.0525) = ~18,790,481.92 Gnomes
+9.5%/4=2.375x2=4.75% - (~2^32/4x(1/3)x0.0475) = ~17,000,912.213 TBD11
+9.0%/4=2.25x2=4.5% - (~2^32/4x(1/3)x0.045) = ~16,106,127.36 TBD12
+
+10% Top 13-16:
+11%/4=2.75x1=2.75% - (~2^32/4x(1/3)x0.0275) = ~9,842,633.386 TBD13
+10.5%/4=2.625x1=2.625% - (~2^32/4x(1/3)x0.02625) = ~9,395,240.96 TBD14
+9.5%/4=2.375x1=2.375% - (~2^32/4x(1/3)x0.02375) = ~8,500,456.106 TBD15
+9.0%/4=2.25x1=2.25% - (~2^32/4x(1/3)x0.0225) = ~8,053,063.68 TBD16
+
+-Matthew Gordon Roulston with Ashley Corbin 1:14 PM 13th / 02 (February) / 2024
+
+
+
+-Matthew Gordon Roulston Ambitionfire (Unassisted Individual Effort) 4:32 PM 09th (Tuesday) / 06 (June) / 2026
