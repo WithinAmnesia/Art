@@ -1,0 +1,77 @@
+AGABAL® Attributes Systems Conversions To A.D.&D. 1E. 2E. 3E. 4E. 5E. Infinity Engine And Character Sheets!
+
+
+
+AGABAL ~= Advanced Dungeons & Dragons Attributes 1st Edition, 2nd Edition, 3rd Edition, 4th Edition, 5th Edition:
+
+Strength ~= Strength
+
+Agility ~= Dexterity
+
+Constitution ~= Constitution
+
+Perception ~= Wisdom
+
+Intelligence ~= Intelligence
+
+Charisma ~= Charisma
+
+Name ~= Name
+
+Vigour (Rush and Endurance) ~= Stamina / Actions Per Turn / Attacks Per Turn / Initiative / Turn Order Systems
+
+Sustenance (Thirst and Hunger) ~= Hunger And Thirst / First Aid Systems
+
+Climate (Temperature and Resistance) ~= Resistances / Saving Throwes / Elemental Systems
+
+Mobility ~= Movement
+
+Race ~= Race
+
+Gender ~= Sex
+
+Weight (Kilograms) ~= Weight (Pounds)
+
+Height (Millimetres) ~= Height (~Inches) 
+
+Age (Years) ~= Age (Years)
+
+Alignment ~= Faction
+
+Reputation ~= Reputation / Reaction / Social Rank / Store Perchasing Prices Powers / Reknown / Status / Social Standing Systems
+
+Offence ~= Weapon Combat / Combat Systems
+
+Defence ~= Armour Class / Armour Systems
+
+Health = ~= Hit Points
+
+Spirit ~= Divine Spellcasting
+
+Mana ~= Magic Spellcasting
+
+Divine Energy / Powers / Abilities Specialization Tree ~= Class and or Religion
+
+Abilities ~= Spells / Special Abilities / Abilities
+
+Skills ~= Proficiencies / Skills / Languages
+
+Equipment ~= Equipment
+
+Inventory ~= Inventory
+
+
+
+AGABAL Attribute Points Approximate Conversion To ~= Advanced Dungeons & Dragons 1st Edition, 2nd Edition, 3rd Edition, 4th Edition, 5th Edition:
+
+1 Attribute Points From AGABAL ~= 5 Attribute Points To Advanced Dungeons & Dragons 1st Edition, 2nd Edition, 3rd Edition, 4th Edition, 5th Edition.
+
+
+
+AGABAL Character Levels Approximate Conversion To ~= Advanced Dungeons & Dragons 1st Edition, 2nd Edition, 3rd Edition, 4th Edition, 5th Edition:
+
+1 Character Levels From AGABAL = 0.2 Character Levels To Advanced Dungeons & Dragons 1st Edition, 2nd Edition, 3rd Edition, 4th Edition, 5th Edition.
+
+
+
+-Matthew Gordon Roulston Ambitionfire (Unassisted Individual Effort) 3:21 PM 10th (Wednesday) / 06 (June) / 2026
