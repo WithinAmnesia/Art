@@ -1,0 +1,23 @@
+AGABAL® 16 Directional Omnimovement 2D Animated Sprites Orientations, 4 Animated Sprite Directions, 16 Entity Movement Directions!
+
+
+4 Animated Sprite Directions, 16 Entity Movement Directions:
+
+North North West = North
+North = North
+North North East = North
+North East = East
+East North East = East
+East = East
+East South East = East
+South East = East
+South South East = South
+South = South
+South South West = South
+South West = West
+West South West = West
+West = West
+West North West = West
+North West = West
+
+-Matthew Gordon Roulston Ambitionfire (Unassisted Individual Effort) 4:05 PM 13th (Saturday) / 06 (June) / 2026
