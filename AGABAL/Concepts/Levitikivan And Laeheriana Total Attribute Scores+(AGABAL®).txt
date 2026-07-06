@@ -101,7 +101,7 @@ Race: Halfling (Vs. Elf)
 Gender: Female (Vs. Female)
 Alignment: Chaotic Good (Vs. Chaotic Good)
 Class: Fighter / Wild Mage / Cleric (Vs. Fighter / Mage / Cleric [Or Enchanter, Diviner, Wild Mage])
-Attributes: [AGABAl Statistics]
+Attributes: [AGABAL Statistics]
 12 Strength (Vs. 9 Strength And 9 Strength [+3, +3])
 17 Dexterity (Vs. 12 Dexterity And 15 Dexterity [+5, +2])
 16 Constitution (Vs. 9 Constitution And 14 Constitution [+7, +2])
