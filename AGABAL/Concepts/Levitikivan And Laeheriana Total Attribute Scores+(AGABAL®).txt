@@ -1,0 +1,132 @@
+Levitikivan And Laeheriana Total Attribute Scores
+
+Name: Laeheriana [Wife of Levitikivan]
+Race: Halfling
+Gender: Female
+Alignment: Chaotic Good
+Class: Fighter / Wild Mage / Cleric
+Attributes:
+12 Strength
+17 Dexterity
+16 Constitution
+12 Intelligence
+9 Wisdom
+13 Charisma
+Total Attribute Score: 79
+
+Name: Levitikivan [Husband of Laeheriana]
+Race: Halfling
+Gender: Male
+Alignment: Chaotic Good
+Class: Ranger / Sorcerer
+Attributes:
+17 Strength
+15 Dexterity
+18 Constitution
+16 Intelligence
+10 Wisdom
+12 Charisma
+Total Attribute Score: 88
+
+[12:57]Monday, 6 July 2026 12:57
+
+
+
+[Baldur's Gate Statistics]
+Name: Kivan [Husband Of Deheriana]
+Race: Elf
+Gender: Male
+Alignment: Chaotic Good
+Class: Ranger
+Attributes:
+18/12 Strength
+17 Dexterity
+14 Constitution
+10 Intelligence
+14 Wisdom
+8 Charisma
+Total Attribute Score: 81/12
+
+[Module Character Statistics]
+Name: Kivan [Husband Of Deheriana]
+Race: Human
+Gender: Male
+Alignment: Chaotic Good
+Class: Archer
+Attributes:
+18/12 Strength
+17 Dexterity
+14 Constitution
+10 Intelligence
+16 Wisdom
+8 Charisma
+Total Attribute Score: 83/12
+
+
+
+[Module Character Statistics]
+Name: Deheriana [Wife Of Kivan]
+Race: Elf
+Gender: Female
+Alignment: Chaotic Good
+Class: Fighter / Mage / Cleric [Or Enchanter, Diviner, Wild Mage]
+Attributes: [Initial Statistics]
+9 Strength
+12 Dexterity
+9 Constitution
+15 Intelligence
+17 Wisdom
+14 Charisma
+Total Attribute Score: 76
+
+[Module Character Statistics]
+Name: Deheriana [Wife Of Kivan]
+Race: Elf
+Gender: Female
+Alignment: Chaotic Good
+Class: Fighter / Mage / Cleric [Or Enchanter, Diviner, Wild Mage]
+Attributes: [Restored Statistics]
+9 Strength
+15 Dexterity
+14 Constitution
+17 Intelligence
+17 Wisdom
+14 Charisma
+Total Attribute Score: 86
+
+
+
+Name: Laeheriana [Wife of Levitikivan](Vs. Deheriana [Wife Of Kivan])
+Race: Halfling (Vs. Elf)
+Gender: Female (Vs. Female)
+Alignment: Chaotic Good (Vs. Chaotic Good)
+Class: Fighter / Wild Mage / Cleric (Vs. Fighter / Mage / Cleric [Or Enchanter, Diviner, Wild Mage])
+Attributes: [AGABAl Statistics]
+12 Strength (Vs. 9 Strength And 9 Strength [+3, +3])
+17 Dexterity (Vs. 12 Dexterity And 15 Dexterity [+5, +2])
+16 Constitution (Vs. 9 Constitution And 14 Constitution [+7, +2])
+12 Intelligence (Vs. 15 Intelligence And 17 Intelligence [-3, -5])
+9 Wisdom (Vs. 17 Wisdom And 17 Wisdom [-8, -8])
+13 Charisma (Vs. 14 Charisma, 14 Charisma [-1, -1])
+Total Attribute Score: 79 (76 Total Attribute Score And 86 Total Attribute Score [+3, -7])
+
+
+
+Name: Levitikivan [Husband of Laeheriana](Vs. Kivan [Husband Of Deheriana])
+Race: Halfling (Vs. Elf, Human)
+Gender: Male (Vs. Male)
+Alignment: Chaotic Good (Vs. Chaotic Good)
+Class: Ranger / Sorcerer (Ranger, Archer)
+Attributes: [AGABAL Statistics]
+17 Strength (Vs. 18/12 Strength And 18/12 Strength [-1, -1])
+15 Dexterity (Vs. 17 Dexterity And 17 Dexterity [-2, -2])
+18 Constitution (Vs. 14 Constitution And 14 Constitution [-4, -4])
+16 Intelligence (Vs. 10 Intelligence And 10 Intelligence [+6, +6])
+10 Wisdom (Vs. 14 Wisdom And 16 Wisdom [-4, -6])
+12 Charisma (Vs. 8 Charisma, 8 Charisma [+4, +4])
+Total Attribute Score: 88 (Vs. 81/12 Total Attribute Score And 83/12 Total Attribute Score [+7, +5])
+
+
+
+----------------
+-Matthew Gordon Roulston Ambitionfire 2:22 PM 06th (Monday) / 07 (July) / 2026
