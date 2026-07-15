@@ -11,7 +11,7 @@ East Canada = South East of Saint Lawrence River + South of the 45th Parallel.
 Superior Province = West Canada North Western Ontario regions, Provincial Capital of Thunder Bay.
 Hudson Province = West Canada North Western Quebec regions, Provincial Capital of Hudson on South West of Nottaway River and Rupert Bay, (Nottaway Canal to link navigable waterway to the Saint Lawrence River) [Built From Scratch].
 
-Ontario Province = South of the 45th Parallel regions of old Ontario (and inclining the peninsula lands north of Lion's Head and near islands of what is fair and a 10 kilometer semi circle around Cornwall to connect upper and lower East Canada); Provincial Capital of Neo Toronto [Built From Scratch].
+Ontario Province = South of the 45th Parallel regions of old Ontario (and including the peninsula lands north of Lion's Head and near islands of what is fair and a 10 kilometer semi circle around Cornwall to connect upper and lower East Canada); Provincial Capital of Neo Toronto [Built From Scratch].
 Quebec Province = South East of Saint Lawrence River regions of old Quebec; Provincial Capital of Neu. Quebec [Built From Scratch].
 
 
