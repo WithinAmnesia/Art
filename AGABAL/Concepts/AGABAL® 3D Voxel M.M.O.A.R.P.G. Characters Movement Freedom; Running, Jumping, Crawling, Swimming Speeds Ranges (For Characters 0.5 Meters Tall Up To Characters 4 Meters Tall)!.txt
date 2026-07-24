@@ -1,0 +1,40 @@
+AGABAL® 3D Voxel M.M.O.A.R.P.G. Characters Movement Freedom; Running, Jumping, Crawling, Swimming Speeds Ranges (For Characters 0.5 Meters Tall Up To Characters 4 Meters Tall)!
+
+
+
+----------------
+
+
+
+Distance Moving And Jumping Freedom (For Characters 0.5 Meters Tall Up To Characters 4 Meters Tall):
+Move Over 2 Meters Height Voxels.
+Jump Over 4 Meters Height Voxels.
+Jump Across 4 Meters Depth Voxels.
+
+
+
+Movement Land Speed Ranges Freedom (For Characters 0.5 Meters Tall Up To Characters 4 Meters Tall):
+Strolling At 1 Meters Per Second.
+Walking At 2 Meters Per Second.
+Running At 4 Meters Per Second.
+Sprinting At 8 Meters Per Second.
+
+
+
+Movement Crawling Speed Ranges Freedom (For Characters 0.5 Meters Tall Up To Characters 4 Meters Tall):
+Prone Crawling At 0.25 Meters Per Second.
+Default Crawling At 0.5 Meters Per Second.
+Power Crawling At 1 Meters Per Second.
+Super Crawling At 2 Meters Per Second.
+
+
+
+Movement Swimming Speed Ranges Freedom (For Characters 0.5 Meters Tall Up To Characters 4 Meters Tall):
+Slow Swimming At 0.5 Meters Per Second.
+Default Swimming At 1 Meters Per Second.
+Power Swimming At 2 Meters Per Second.
+Super Swimming At 4 Meters Per Second.
+
+
+
+-Matthew Gordon Roulston Ambitionfire 2:34 PM 24th (Friday) / 07 (July) / 2026
