@@ -1,0 +1,172 @@
+AGABAL® Entity Weight Scale Classifications Ranges
+
+
+
+0.0+ Kilograms (Microscopic)
+
+0.1+ Kilograms (Miniscule)
+
+1.0+ Kilograms (Light)
+
+10+ Kilograms (Medium)
+
+100+ Kilograms (Heavy)
+
+1,000+ Kilograms (Giant)
+
+10,000+ Kilograms (Juggernaut)
+
+100,000+ Kilograms (Colossal)
+
+1,000,000+ Kilograms (Titan)
+
+
+
+Notes:
+
+
+
+0.0+ Kilograms (Microscopic)
+
+0.1+ Kilograms (Minuscule)
+
+1.0+ Kilograms (Miniature)
+
+10+ Kilograms (Light)
+
+100+ Kilograms (Medium)
+
+1,000+ Kilograms (Heavy)
+
+10,000+ Kilograms (Giant)
+
+100,000+ Kilograms (Titan)
+
+1,000,000+ Kilograms (Colossal)
+
+
+
+0.0+ kg: Microscopic (Spores, viruses)
+
+0.1+ kg: Minuscule (Insects, fairy-sprites)
+
+1.0+ kg: Small / Miniature (Rats, goblins)
+
+10+ kg: Medium (Wolves, standard humanoids)
+
+100+ kg: Large / Heavy (Orcs, bears, horses)
+
+1,000+ kg: Giant (Elephants, giants, drakes)
+
+10,000+ kg: Behemoth (Gargantuan monsters, t-rex)
+
+100,000+ kg: Titan (Kraken, dragons)
+
+1,000,000+ kg: Colossal (Island-sized monsters)
+
+
+
+0.0+ Kilograms (Microscopic)
+
+0.1+ Kilograms (Minuscule)
+
+1.0+ Kilograms (Small) [Miniature]
+
+10+ Kilograms (Medium) [Light]
+
+100+ Kilograms (Heavy) [Medium]
+
+1,000+ Kilograms (Giant) (Large) [Heavy]
+
+10,000+ Kilograms (Titan) [Giant]
+
+100,000+ Kilograms (Juggernaut) [Titan]
+
+1,000,000+ Kilograms (Colossal)
+
+
+
+0.0+ Kilograms (Microscopic)
+
+0.1+ Kilograms (Miniscule)
+
+1.0+ Kilograms (Light) (Small) [Miniature]
+
+10+ Kilograms (Medium) [Light]
+
+100+ Kilograms (Heavy) [Medium]
+
+1,000+ Kilograms (Giant) (Large) [Heavy]
+
+10,000+ Kilograms (Titan) [Giant]
+
+100,000+ Kilograms (Juggernaut) [Titan]
+
+1,000,000+ Kilograms (Colossal)
+
+
+
+
+0.0+ Kilograms (Microscopic)
+
+0.1+ Kilograms (Miniscule)
+
+1.0+ Kilograms (Light) (Small) [Miniature]
+
+10+ Kilograms (Medium) [Light]
+
+100+ Kilograms (Heavy) [Medium]
+
+1,000+ Kilograms (Giant) (Large) [Heavy]
+
+10,000+ Kilograms (Colossal) [Titan] [Giant]
+
+100,000+ Kilograms (Juggernaut) [Titan]
+
+1,000,000+ Kilograms (Titan) [Colossal]
+
+
+
+0.0+ Kilograms (Microscopic)
+
+0.1+ Kilograms (Miniscule)
+
+1.0+ Kilograms (Light) (Small) [Miniature]
+
+10+ Kilograms (Medium) [Light]
+
+100+ Kilograms (Heavy) [Medium]
+
+1,000+ Kilograms (Giant) (Large) [Heavy]
+
+10,000+ Kilograms (Juggernaut) (Colossal) [Titan] [Giant]
+
+100,000+ Kilograms (Colossal) (Juggernaut) [Titan]
+
+1,000,000+ Kilograms (Titan) [Colossal]
+
+
+
+
+
+0.0+ Kilograms (Microscopic)
+
+0.1+ Kilograms (Miniscule)
+
+1.0+ Kilograms (Light)
+
+10+ Kilograms (Medium)
+
+100+ Kilograms (Heavy)
+
+1,000+ Kilograms (Giant)
+
+10,000+ Kilograms (Juggernaut)
+
+100,000+ Kilograms (Colossal)
+
+1,000,000+ Kilograms (Titan)
+
+
+
+-Matthew Gordon Roulston Ambitionfire 11:26 PM (Saturday) / 07 (July) / 2026
