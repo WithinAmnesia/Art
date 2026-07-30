@@ -1,0 +1,53 @@
+AGABAL® Crewed Fighting Vehicles Weight Classes
+
+
+
+0.0+ Tonnes (Dingy Canoe)
+0.1+ Tonnes (Long Cutter)
+1.0+ Tonnes (Cog Galley)
+10+ Tonnes (Hulk Sloop)
+100+ Tonnes (Destroyer Corvette)
+1,000+ Tonnes (Monitor Frigate)
+10,000+ Tonnes (Battle Cruiser)
+100,000+ Tonnes (Arsenal Carrier)
+1,000,000+ Tonnes (Capital Craft)
+
+
+
+----------------
+
+
+
+Notes:
+
+
+
+AGABAL® Entity Weight Scale Classifications Ranges
+
+
+
+0.0+ Kilograms (Microscopic)
+
+0.1+ Kilograms (Miniscule)
+
+1.0+ Kilograms (Light)
+
+10+ Kilograms (Medium)
+
+100+ Kilograms (Heavy)
+
+1,000+ Kilograms (Giant)
+
+10,000+ Kilograms (Juggernaut)
+
+100,000+ Kilograms (Colossal)
+
+1,000,000+ Kilograms (Titan)
+
+
+
+----------------
+
+
+
+-Matthew Gordon Roulston Ambitionfire 12:00 AM 30th (Thursday) / 07 (July) / 2026
