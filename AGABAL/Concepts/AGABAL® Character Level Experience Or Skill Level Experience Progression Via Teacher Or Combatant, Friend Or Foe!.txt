@@ -1,0 +1,432 @@
+AGABAL® Character Level Experience Or Skill Level Experience Progression Via Teacher Or Combatant, Friend Or Foe!
+
+
+
+----------------
+
+
+
+Combatant Defeat:
+
+1.000% Health Remaining Or 1 Health Points Or What Ever Comes First.
+
+
+
+Combatant Kill:
+
+0.000% Health Remaining Or 0 Health Points Or What Ever Comes First.
+
+
+
+
+
+
+Weak Friend Combatant Defeat Experience:
+
+0.010% Experience Points (Or 1 Experience Point Or What Ever Comes First).
+
+
+
+Weak Friend Combatant Kill Experience:
+
+0.100% Experience Points (Or 1 Experience Point Or What Ever Comes First).
+
+
+
+Worthy Friend Combatant Defeat Experience:
+
+1.000% Experience Points (Or 1 Experience Point Or What Ever Comes First).
+
+
+
+Worthy Friend Combatant Kill Experience:
+
+10.000% Experience Points (Or 1 Experience Point Or What Ever Comes First).
+
+
+
+
+
+
+
+
+Weak Foe Combatant Defeat Experience:
+
+1.000% Experience Points (Or 1 Experience Point Or What Ever Comes First).
+
+
+
+Weak Foe Combatant Kill Experience:
+
+10.000% Experience Points (Or 1 Experience Point Or What Ever Comes First).
+
+
+
+Worthy Foe Combatant Defeat Experience:
+
+10.000% Experience Points (Or 1 Experience Point Or What Ever Comes First).
+
+
+
+Worthy Foe Combatant Kill Experience:
+
+100.000% Experience Points (Or 1 Experience Point Or What Ever Comes First).
+
+
+
+
+
+Worthy Combatant:
+
+10.000% Less Than Or Equal To Level Of Current Character Level Deviation (Rounded Up To Whole Numbers For Levels)
+
+Examples:
+
+Character Level 300 X 0.9 = Character Level 270, Character Level 300+ = 100% = Worthy Combatant.
+
+Character Level 253 X 0.9 = 227.7 = Character Level 228, Character Level 253+ = 100% Worthy Combatant.
+
+
+
+If it is .44444444444445 = .5 = Round Up.
+
+
+
+The Goal Is To Avoid Level 60 Naxxramas Best In Slot Character 'Honourable Kill' A Level 48 Fresh Ding Character In World Combat And The Game Rewarding De Facto Griefing / Coward / Stupid Level Banding. 
+
+The Goal Is To Also Not Spam Player Respawns To Farm Experience.
+
+~10 Minutes Experience Resets After Defeat Or Kill [Or Something Reasonable] (Akin To Resurrection Sickness) So Mowing Dow A Safari Of Mobs / Enemies / Foes = More Worth While Than Degeneracy / Farming Castle Experience Like A Loser Weakling Vs Adventuring In The World As An Absolute Legend.
+
+Conquering Os ~10.0 Times As Rewarding As Nurturing But Also Very Destructive So Good For Short Blasts And Harder To Maintain.
+
+Nurturing Is ~10.0 Times As Slow For Rewarding Than Conquering But Very Creative So Good For Long Times And Easier To Maintain.
+
+
+
+Grab The Adventuring Characters Stick Them In The Castle And Get Them To Train Up The Recruits, Adventure, Advance. Progression!
+
+
+
+Skills Needs Practice / Training / Teaching / Creating / Nurturing = Understand / Master Friends And Or Foes.
+
+Experience Needs Victory / Winning / Overcoming / Destroying / Conquering = Defeat / Kill Foes And Or Friends.
+
+
+
+Characters Can Train / Teach Others What They Know As In Skills.
+
+Example If A Character Has 100 Blacksmithing They Can Teach 100 Blacksmithing Or Say They Have 300 Skill In A Melee Combat And Or Weapon Skill Etc. They Can Teach Up To That Skill Level 300.
+
+
+Character Level Experience And Skill Level Experience Are Similiar In Time Investment Skills Requires 10 Times Less Time Than Character Level
+
+
+
+Example:
+
+Character Level 300 = ~12.5 Years
+
+Skill Level Level 300 = ~1.25 Years
+
+
+
+Character Level Is Gained Via Defeating Or Killing Foes And Or Friends.
+
+Skill Level Is Gained Via Comprehending Or Training From Friends Or Foes.
+
+
+
+If A Character With 50 Blacksmithing Wants To Advance The Skill Level Of Blacksmithing Past Level 50 they Need To Either Do / Live Via Crafting Or Listen / Read From A Character / Person Who Has Above 50 Blacksmiting.
+
+
+
+Doing / Living Is ~10.0% Greater Experience Than Listening / Reading
+
+Example:
+
+
+
+Comprehending = Listening / Reading = Comprehending Skill Experience ~0.010% Through ~10.000% Via Listening / Reading Via Friend Or Foe Teacher.
+
+Training = Doing / Living = Training Skill Experience ~0.100% Through ~100.000% Via Doing / Living Via Friend Or Foe Teacher.
+
+
+
+
+
+
+Worthy Teacher:
+
+10.000% Less Than Or Equal To Level Of Current Skill Level Deviation (Rounded Up To Whole Numbers For Levels)
+
+Examples:
+
+Skill Level 300 X 0.9 = Skill Level 270, Skill Level 300+ = 100% = Worthy Teacher.
+
+Skill Level 253 X 0.9 = 227.7 = Skill Level 228, Skill Level 253+ = 100% Worthy Teacher.
+
+
+
+
+
+
+Weak Foe Teacher Comprehending Experience:
+
+0.010% Skill Experience Points (Or 1 Skill Experience Point Or What Ever Comes First).
+
+
+
+Weak Foe Teacher Training Experience:
+
+0.100% Skill Experience Points (Or 1 Skill Experience Point Or What Ever Comes First).
+
+
+
+Worthy Foe Comprehending Experience:
+
+1.000% Skill Experience Points (Or 1 Skill Experience Point Or What Ever Comes First).
+
+
+
+Worthy Foe Training Experience:
+
+10.000% Skill Experience Points (Or 1 Skill Experience Point Or What Ever Comes First).
+
+
+
+
+
+
+Weak Friend Teacher Comprehending Experience:
+
+1.000% Skill Experience Points (Or 1 Skill Experience Point Or What Ever Comes First).
+
+
+
+Weak Friend Teacher Training Experience:
+
+10.000% Skill Experience Points (Or 1 Skill Experience Point Or What Ever Comes First).
+
+
+
+Worthy Friend Teacher Comprehending Experience:
+
+10.000% Skill Experience Points (Or 1 Skill Experience Point Or What Ever Comes First).
+
+
+
+Worthy Friend Teacher Training Experience:
+
+100.000% Skill Experience Points (Or 1 Skill Experience Point Or What Ever Comes First).
+
+
+
+----------------
+
+
+
+-Matthew Gordon Roulston Ambitionfire 2:28 PM 17th (Monday) / 08 (August) / 2026
+
+
+
+----------------
+
+
+
+Notes:
+
+
+
+0.01% 0.1% 1.0% 10.0% 100.0% 1,000.0% 10,000.0% 100.000.0% 1,000,000.0% 10.000,000.0% Experience Gain Rates
+
+
+
+0.1% Understood Foe Or Friend:
+
+1.0% Understood Foe Or Friend:
+
+10.0% Understood Foe Or Friend: 
+
+100.0% Understood Foe Or Friend: 
+
+1,000.0% Understood Foe Or Friend: 
+
+10,000.0% Understood Foe Or Friend: 
+
+100.000.0% Understood Foe Or Friend: 
+
+1,000,000.0% Understood Foe Or Friend: 
+
+10.000,000.0% Understood Foe Or Friend: 
+
+
+
+0.1% Understood Foe Or Friend:
+
+1.0% Understood Foe Or Friend:
+
+10.0% Understood Foe Or Friend: 
+
+100.0% Understood Foe Or Friend: 
+
+1,000.0% Understood Foe Or Friend: 
+
+10,000.0% Understood Foe Or Friend: 
+
+100.000.0% Understood Foe Or Friend: 
+
+1,000,000.0% Understood Foe Or Friend: 
+
+10.000,000.0% Understood Foe Or Friend: 
+
+
+
+0.1% Defeat Foe Or Friend:
+
+1.0% Defeat Foe Or Friend:
+
+10.0% Defeat Foe Or Friend: 
+
+100.0% Defeat Foe Or Friend: 
+
+1,000.0% Defeat Foe Or Friend: 
+
+10,000.0% Defeat Foe Or Friend: 
+
+100.000.0% Defeat Foe Or Friend: 
+
+1,000,000.0% Defeat Foe Or Friend: 
+
+10.000,000.0% Defeat Foe Or Friend: 
+
+
+
+
+
+
+0.1% Defeat Foe:
+
+1.0% Defeat Foe:
+
+10.0% Defeat Foe: 
+
+100.0% Defeat Foe: 
+
+1,000.0% Defeat Foe: 
+
+10,000.0% Defeat Foe: 
+
+100.000.0% Defeat Foe: 
+
+1,000,000.0% Defeat Foe: 
+
+10.000,000.0% Defeat Foe: 
+
+
+
+
+
+
+
+
+
+0.1% Defeat Foe:
+
+1.0% Defeat Foe:
+
+10.0% Defeat Foe: 
+
+100.0% Defeat Foe: 
+
+1,000.0% Defeat Foe: 
+
+10,000.0% Defeat Foe: 
+
+100.000.0% Defeat Foe: 
+
+1,000,000.0% Defeat Foe: 
+
+10.000,000.0% Defeat Foe: 
+
+
+
+
+
+
+0.1%
+
+1.0%
+
+10.0%
+
+100.0%
+
+1,000.0%
+
+10,000.0%
+
+100.000.0%
+
+1,000,000.0%
+
+10.000,000.0%
+
+
+
+
+
+
+0.1% Defeat Foe: Weakest
+
+1.0% Defeat Foe: Weak
+
+10.0% Defeat Foe: 
+
+100.0% Defeat Foe: 
+
+1,000.0% Defeat Foe: 
+
+10,000.0% Defeat Foe: 
+
+100.000.0% Defeat Foe: 
+
+1,000,000.0% Defeat Foe: 
+
+10.000,000.0% Defeat Foe: 
+
+
+
+
+
+
+
+
+
+
+
+
+Notes:
+
+
+
+Item Quality / Rarity Table+++++ (Colours, Item Level) [Range: -50 to +100]
+
+Annihilated (Defective) -50 Item Levels [Black]
+Destroyed (Faulty) -40 Item Levels [Soot]
+Broken (Flawed) -30 Item Levels [Iron]
+Decrepit (Poor) -20 Item Levels [Ash]
+Crude (Inferior) -10 Item Levels [White]
+Common (Weak) +/-0 Item Levels [Amber]
+Fine (Minor) +10 Item Levels [Chartreuse]
+Exquisite (Lesser) +20 Item Levels [Green]
+Masterwork (Substantial) +30 Item Levels [Aqua]
+Elite (Greater) +40 Item Levels [Blue]
+Heroic (Major) +50 Item Levels [Purple]
+Epic (Mighty) +60 Item Levels [Pink]
+Wonderous (Superior) +70 Item Levels [Red]
+Legendary (Supreme) +80 Item Levels [Orange]
+Supernatural (Transcendent) +90 Item Levels [Yellow]
+Mythical (Absolute) +100 Item Levels [Grey]
+
+-Matthew Gordon Roulston 1:53 PM 11th / 10 (October) / 2023
