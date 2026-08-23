@@ -91,7 +91,11 @@ Vehicle Speed = Horsepower / Tonne for top speed and acceleration physics calcul
 
 
 
-Example:
+----------------
+
+
+
+Example Of Implementation:
 
 (10.0 KG Shot Weight Kilograms x (10 X Shot Weight Kilograms) [10.0 KG x (10.0 = 100.0 Shot Damage] + (Shot Weight Kilograms [10.0 KG] x T.N.T. Grams Equivalent [1,000.0 Grams . 1.0 KG] [10.0 KG X 1,000 = 10,000 Shot Damage]) [[10.0 KG x (10.0 = 100.0 Shot Damage] + [10.0 KG X 1,000 = 10,000 Shot Damage] = 100.0 Damage + 10,000.0 Damage = 10,100 Damage] x Effective Shot Armour Penetration Value % [E.G. 100 mm Hardened Steel X 1.10 Hardened Material Property Modifiers = 110 mm Effective Rolled Homogeneous Armour Thickness At 60 Degrees Cosign At Impact Angle = X 2 Effective Armour thickness = 110 mm (RHAE) X 2.00 = 220 mm (ERHAE)]  X (10 if 10.0%+ Shot Armour Penetration upon Critical Hit Component Area))
 
@@ -115,17 +119,15 @@ Also Only Use Whole Numbers Integers. If a 9.00 mm Machine Gun Is Firing At A 10
 
 Spaced Armour can be added as passive armour in simplified 3D Box armour. Visual 3D non-hit box shell ('visuals') vs simplified hitbox 3D model.
 
-3D cone and explode AoE and over pressure liquid plate dynamics can be optional. The goal is to find where the fun is for players and simulate to a degree of practically / fairness what is fun and not over complicate the game engines. More complex games can use more complex simulations.
+3D cone and explode Area Of Effect (A.O.E.) and over pressure liquid plate dynamics can be optional. The goal is to find where the fun is for players and simulate to a degree of practically / fairness what is fun and not over complicate the game engines. More complex games can use more complex simulations.
 
 ~10.0% Chance Of Critical Hit Baseline If Critical Hit Areas Are Too Complex To Model In Game. More complex games can use more complex simulations.
-
-The Aim is for ~9/10 Fun with ~1/2 the overly complicated math computations required for deep simulations. Players want fun not a math battle every second and 99.999% of players don't care about complex math in the heat of the moment in a highly complex alive combat environment, let the game be a game, math works for fun not fun works for math. Chances are if its janky and fun its better than realistic and not fun. The goal is maximize depth of gameplay without over burdening the systems that make fun possible. I love simulations but sometimes you just need to let the magic of video games be there to help players in ways it really counts. If a server calculates an infinite universes and no one notices did they really exist at all? Yes but no and from a game dev stand point holy hell there is a better way, in big systems made up of many many small systems all put together efficiency is life and death it is how gar a game can go before imploding so efficiency is king. Yet somethings fun says to hell with efficiency and that is where high scaling abundance is needed and its where great games design shines. So do the foundations well first to build a big pyramid ecosystem that scales from the bottom up to go as far as one can practically and far beyond!
 
 More variation on base systems modified by other qualities:
 
 Item Qualities Modifiers = Player Made And Driven Ecosystem.
 
-Trying to use this as much as possible to suppose mass complicity in a complex multiple layer math and calculations of server and general player chaos and fun to be made:
+Trying to use this as much as possible to support mass complicity in a complex multiple layer math and calculations of server and general player chaos and fun to be made:
 
 Notes:
 
@@ -162,4 +164,12 @@ Hybrid / Worlder = Increased Command / Does Anything Needed / Multiple Roles / J
 
 
 
--Matthew Gordon Roulston Ambitionfire 10:20 AM + 11:40 AM + 1:11 PM 23rd (Sunday) / 08 (August) / 2026
+The Aim is for ~9/10 Fun with ~1/2 the overly complicated math computations required for deep simulations. Players want fun not a math battle every second and 99.999% of players don't care about complex math in the heat of the moment in a highly complex alive combat environment, let the game be a game, math works for fun not fun works for math. Chances are if its janky and fun its better than realistic and not fun. The goal is maximize depth of gameplay without over burdening the systems that make fun possible. I love simulations but sometimes you just need to let the magic of video games be there to help players in ways it really counts. If a server calculates an infinite universes and no one notices did they really exist at all? Yes but no and from a game dev stand point holy hell there is a better way, in big systems made up of many many small systems all put together efficiency is life and death it is how far a game can go before imploding so efficiency is king. Yet with somethings fun says to hell with efficiency and that is where high scaling abundance is needed and its where great games design shines. So do the foundations well first to build a big pyramid ecosystem that scales from the bottom up to go as far as one can practically and far beyond!
+
+
+
+----------------
+
+
+
+-Matthew Gordon Roulston Ambitionfire 10:20 AM + 11:40 AM + 1:11 PM + 1:20 PM + 1:25 PM 23rd (Sunday) / 08 (August) / 2026
