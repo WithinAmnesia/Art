@@ -115,7 +115,7 @@ Also Only Use Whole Numbers Integers. If a 9.00 mm Machine Gun Is Firing At A 10
 
 Spaced Armour can be added as passive armour in simplified 3D Box armour. Visual 3D non-hit box shell ('visuals') vs simplified hitbox 3D model.
 
-3D cone and explode AoE and over pressure liquid plate dynamics can be optional. the goal is to find where the fun is for players and simulate to a degree of practically / fairness what is fun and not over complicate the game engines. More complex games can use more complex simulations.
+3D cone and explode AoE and over pressure liquid plate dynamics can be optional. The goal is to find where the fun is for players and simulate to a degree of practically / fairness what is fun and not over complicate the game engines. More complex games can use more complex simulations.
 
 
 
