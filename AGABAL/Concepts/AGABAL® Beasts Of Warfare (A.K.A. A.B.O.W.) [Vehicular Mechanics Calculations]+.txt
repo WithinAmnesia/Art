@@ -1,0 +1,140 @@
+AGABAL® Beasts Of Warfare (A.K.A. A.B.O.W.) [Vehicular Mechanics Calculations]+
+
+
+
+----------------
+
+
+
+Armour angles averaged at 0 degrees effective thickness and damage multiplied by the  flattened at 0 degrees averaged effective armour values thickness metric millimeters verses shot armour penetration value at range X in that if 10.0% through 100.0% penetration on ammunition storage or engine compartment / internal fuel / critical hit component area = 10.0 x damage of remaining damage after armour damage reduction.
+
+Rolled Homologous Armour Equivalent Thickness (mm): 
+
+Turret: Front (mm) / Sides (mm) / Rear (mm) / Top (mm) / Bottom (mm)
+Hull: Front (mm) / Sides (mm) / Rear (mm) / Top (mm) / Bottom (mm)
+
+
+
+If Shot Impact Angle IS X Then =:
+
+0.0+ Degrees = 1.00 (X Armour Thickness = Effective Armour Thickness)
+5.0+ Degrees = 1.01 (X Armour Thickness = Effective Armour Thickness)
+10.0+ Degrees = 1.025 (X Armour Thickness = Effective Armour Thickness)
+15.0+ Degrees = 1.050 (X Armour Thickness = Effective Armour Thickness)
+20.0+ Degrees = 1.075 (X Armour Thickness = Effective Armour Thickness)
+25.0+ Degrees = 1.100 (X Armour Thickness = Effective Armour Thickness)
+30.0+ Degrees = 1.150 (X Armour Thickness = Effective Armour Thickness)
+35.0+ Degrees = 1.200 (X Armour Thickness = Effective Armour Thickness)
+40.0+ Degrees = 1.300 (X Armour Thickness = Effective Armour Thickness)
+45.0+ Degrees = 1.400 (X Armour Thickness = Effective Armour Thickness)
+50.0+ Degrees = 1.500 (X Armour Thickness = Effective Armour Thickness)
+55.0+ Degrees = 1.750 (X Armour Thickness = Effective Armour Thickness)
+60.0+ Degrees = 2.000 (X Armour Thickness = Effective Armour Thickness)
+65.0+ Degrees = 2.500 (X Armour Thickness = Effective Armour Thickness)
+70.0+ Degrees = 3.000 (X Armour Thickness = Effective Armour Thickness)
+75.0+ Degrees = 4.000 (X Armour Thickness = Effective Armour Thickness)
+80.0+ Degrees = Bounce
+85.0+ Degrees = Bounce
+90.0 Degrees = Bounce
+
+
+
+Armour Material Property Modifiers:
+
+Hardened = 110.0%
+Homogeneous = 100.0%
+Cast Homogeneous = 90.0%
+
+
+
+Shot Armour Penetration %: (Shot Armour Penetration Value - Effective Armour Thickness At Shot Impact Angle = Effective Shot Armour Penetration Value %):
+
+100.00%
+95.00%
+90.00%
+85.00%
+80.00%
+75.00%
+70.00%
+65.00%
+60.00%
+55.00%
+50.00%
+45.00%
+40.00%
+35.00%
+30.00%
+25.00%
+20.00%
+15.00%
+10.00%
+5.00%
+1.00%
+0.50%
+0.10%
+0.05%
+0.01%
+
+
+
+Shot Damage:
+
+(Shot Weight Kilograms x (10 x Shot Weight Kilograms) + (Shot Weight Kilograms x T.N.T. Grams Equivalent)) x Effective Shot Armour Penetration Value % x (10 if 10.0%+ Shot Armour Penetration upon Critical Hit Component Area)).
+
+
+
+Vehicle Hit Points / Health = Weight Tonnes (kg) x 100 = Hit Points. Example 25.0 Tonnes X 100 = 2,500 Hit Points
+
+
+
+Vehicle Speed = Horsepower / Tonne for top speed and acceleration physics calculation.
+
+
+
+Example:
+
+(10.0 KG Shot Weight Kilograms x (10 X Shot Weight Kilograms) [10.0 KG x (10.0 = 100.0 Shot Damage] + (Shot Weight Kilograms [10.0 KG] x T.N.T. Grams Equivalent [1,000.0 Grams . 1.0 KG] [10.0 KG X 1,000 = 10,000 Shot Damage]) [[10.0 KG x (10.0 = 100.0 Shot Damage] + [10.0 KG X 1,000 = 10,000 Shot Damage] = 100.0 Damage + 10,000.0 Damage = 10,100 Damage] x Effective Shot Armour Penetration Value % [E.G. 100 mm Hardened Steel X 1.10 Hardened Material Property Modifiers = 110 mm Effective Rolled Homogeneous Armour Thickness At 60 Degrees Cosign At Impact Angle = X 2 Effective Armour thickness = 110 mm (RHAE) X 2.00 = 220 mm (ERHAE)]  X (10 if 10.0%+ Shot Armour Penetration upon Critical Hit Component Area))
+
+Lets Say the Shot Has 150 mm RHAE At 0.0 Cos At 1,000 Meters Armour Penetration and the shot was at 1,000 Meters also.
+
+150 mm RHAE Armour Penetration - 220 mm RHEA = -70.0 mm Armour Penetration = No Penetration.
+
+-70 mm / 220 mm = ~70 / 220 = 0.31818181818181818181818181818182% = 30.00%+ Shot Armour Penetration % = Do 30.0% Damage (Imagine Being Blasted By A Huge High Explosive Shot, Even Non-Penetration Hits = Damage)
+
+10,100 Damage x 30.0% Damage = 3,030 Damage
+
+Let Us Say That Was Verses A 100.0 Tonne Vehicle
+
+100.0 Tonnes x 100 = 10,000 Hit Points / Health
+
+10,000 Hit Points - 3,030 Damage = 6,970 Hit Points / Health Remaining.
+
+Also Only Use Whole Numbers Integers. If a 9.00 mm Machine Gun Is Firing At A 100.0 mm RHA Plate The Bullets probably either do 0 Damage or what ever 0.01% Armour Penetration value is rounded to either 0 or 1 Damage. If 0.445 Repeating that can round up to 1.0 Damage. So yes a small arms machine gun can 'mission kill' a heavy tank after a lot of fire - somehow like the Golden BB historical account. If effective 'healing' then this is moot to a degree; its all about circumstance and context / situation.
+
+3D Hit Boxes For Armour Plates. Critical Components Can Be Simplified into a chance of critical hit if its took complex to create behind layers of spaced armour etc.
+
+Spaced Armour can be added as passive armour in simplified 3D Box armour. Visual 3D non-hit box shell ('visuals') vs simplified hitbox 3D model.
+
+3D cone and explode AoE and over pressure liquid plate dynamics can be optional. the goal is to find where the fun is for players and simulate to a degree of practically / fairness what is fun and not over complicate the game engines. More complex games can use more complex simulations.
+
+
+
+----------------
+
+
+
+Optional Player Choice: Vehicle Roles Specializations / Focus Of Attributes / Modules / Modifications / Customizations / Builds:
+
+Tank / Warrior = Increased Damage Reduction / Staying Power / Proper Ability To Tank.
+Damage / Wanderer = Increased Damage Output / Damage Per Second / Damage Per Minute.
+Healer / Warden = Increased Vehicle Repair Area Of Effect / Likewise Ability / Towing / Battlefield Repair ~Simplifications For Arcade Style Gameplay.
+Support / Wizard = Increased Indirect Fire / Sniper / Back Line Combat Support / Buffs.
+Hybrid / Worlder = Increased Command / Does Anything Needed / Multiple Roles / Jack Of All Roles Optionally Master Of Some Roles With Some Pros And Cons.
+
+
+
+----------------
+
+
+
+-Matthew Gordon Roulston Ambitionfire 10:20 AM + 11:40 AM 23rd (Sunday) / 08 (August) / 2026
