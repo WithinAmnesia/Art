@@ -1,0 +1,75 @@
+AGABAL® Beasts Of Warfare (A.K.A. A.B.O.W.) [Vehicular Mechanics Calculations]
+
+
+
+----------------
+
+
+
+Armour angles averagwd at 0 degrees effective thickness and damage multipled by the  flattened at 0 degeess averaged effective armour values thickness metric millimeters verses shot armour penetration value at range X in that if 10.0% through 100.0% penetration on ammunition storage or engine compartment / internal fuel / critical hit component area = 10.0 x damage of remaining damage after armour damage reduction
+
+
+
+Armour Penetration %:
+
+100.00%
+95.00%
+90.00%
+85.00%
+80.00%
+75.00%
+70.00%
+65.00%
+60.00%
+55.00%
+50.00%
+45.00%
+40.00%
+35.00%
+30.00%
+25.00%
+20.00%
+15.00%
+10.00%
+5.00%
+1.00%
+0.50%
+0.10%
+0.05%
+0.01%
+
+
+
+Damage:
+
+(Shot Weight Kilograms x (10 x Shot Weight Kilograms) + (Shot Weight Kilograms x T.N.T. Grams Equvilant)) x Armour Penetration % x (10 if 10.0%+ Shot Armour Penetration upon Critical Hit Component Area)).
+
+
+
+Hit Points / Health = Weight Tonnes (kg) x 100 = Hit Points. Example 25.0 Tonnes X 100 = 2,500 Hit Points
+
+
+
+Speed = Horsepower / Tonne for top speed and acceleration physics calculation.
+
+
+
+----------------
+
+
+
+Optional Player Choise: Vehicle Roles Specializations / Focus Of Attributes / Modules / Modifications / Customizations / Builds:
+
+Tank / Warrior = Increased Damage Reduction / Staying Power / Proper Ability To Tank.
+Damage / Wanderer = Increased Damage Output / Damage Per Second / Damage Per Minute.
+Healer / Warden = Increased Vehicle Repair Area Of Effect / Likewize Ability / Towing / Battlefield Repair ~Simplifications For Arcade Style Gameplay.
+Support / Wizard = Increased Indirect Fire / Sniper / Back Line Combat Support / Buffs.
+Hybrid / Worlder = Increased Command / Does Anything Needed / Multiple Roles / Jack Of All Roles Optionally Master Of Some Roles With Some Pros And Cons.
+
+
+
+----------------
+
+
+
+-Matthew Gordon Roulston Ambitionfire 10:20 AM 23rd (Sunday) / 08 (August) / 2026
