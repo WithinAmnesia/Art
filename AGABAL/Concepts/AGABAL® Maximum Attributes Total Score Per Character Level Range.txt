@@ -1,0 +1,81 @@
+AGABAL® Maximum Attributes Total Score Per Character Level Range
+
+
+
+----------------
+
+
+
+Mortal (Character Level (0) 1 Through Character Level 99):
+
+100 Maximum Base Value Per Attribute.
+
++0 Through +100 Attribute Maximum Per Attribute From Items.
+
+100 Maximum Base Value Per Attribute + (+0 Through +100 Attribute Maximum From Items) = 100 + 100 = 200 Combined Maximum Per Attribute.
+
+100 X 6 = 600 Maximum Attributes Total Score.
+
+100 + 100 = 200 X 6 = 1,200 Maximum Attributes Total Score.
+
+
+
+----------------
+
+
+
+Immortal (Character Level 100 Through Character Level 199):
+
+200 Maximum Base Value Per Attribute.
+
++0 Through +100 Attribute Maximum Per Attribute From Items.
+
+200 Maximum Base Value Per Attribute + (+0 Through +100 Attribute Maximum From Items) = 200 + 100 = 300 Combined Maximum Per Attribute.
+
+200 X 6 = 1,200 Maximum Attributes Total Score.
+
+200 + 100 = 300 X 6 = 1,800 Maximum Attributes Total Score.
+
+
+
+----------------
+
+
+
+Demigod / Demigoddess (Character Level 200 Through Character Level 299):
+
+300 Maximum Base Value Per Attribute.
+
++0 Through +100 Attribute Maximum Per Attribute From Items.
+
+300 Maximum Base Value Per Attribute + (+0 Through +100 Attribute Maximum From Items) = 300 + 100 = 400 Combined Maximum Per Attribute.
+
+300 X 6 = 1,800 Maximum Attributes Total Score.
+
+300 + 100 = 400 X 6 = 2,400 Maximum Attributes Total Score.
+
+
+
+----------------
+
+
+
+Deity (Character Level 300):
+
+400 Maximum Base Value Per Attribute.
+
++0 Through +100 Attribute Maximum Per Attribute From Items.
+
+400 Maximum Base Value Per Attribute + (+0 Through +100 Attribute Maximum From Items) = 400 + 100 = 500 Combined Maximum Per Attribute.
+
+400 X 6 = 2,400 Maximum Attributes Total Score.
+
+400 + 100 = 500 X 6 = 3,000 Maximum Attributes Total Score.
+
+
+
+----------------
+
+
+
+-Matthew Gordon Roulston Ambitionfire 12:42 PM + 12:51 PM 26th (Wednesday) / 08 (August) / 2026
