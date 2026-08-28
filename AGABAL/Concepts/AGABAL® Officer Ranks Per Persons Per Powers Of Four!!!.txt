@@ -13,11 +13,11 @@ AGABAL® Officer Ranks Per Persons Per Powers Of Four!!!
 ----------------
 
 0.) 0.0625 ~0.1 Person [Cadet / Private]
-1.) 0.25 Person ~0.321 ~0.5 Person [Corperal]
+1.) 0.25 Person ~0.321 ~0.5 Person [Corporal]
 
 --------------------------------
 
-2.) 1.0 ~1 Person [Sergant]
+2.) 1.0 ~1 Person [Sergeant]
 3.) 4 Person [Lieutenant]
 4.) 16 Person [Captain]
 5.) 64 Person [Major]
@@ -107,11 +107,11 @@ Notes:
 5.) 64 Person [Major]
 4.) 16 Person [Captain]
 3.) 4 Person [Lieutenant]
-2.) 1.0 ~1 Person [Sergant]
+2.) 1.0 ~1 Person [Sergeant]
 
 ----------------
 
-1.) 0.25 Person ~0.321 ~0.5 Person [Corperal]
+1.) 0.25 Person ~0.321 ~0.5 Person [Corporal]
 0.) 0.0625 ~0.1 Person [Cadet / Private]
 
 ----------------
@@ -131,8 +131,8 @@ Notes:
 5.) 64 Person [Major]
 4.) 16 Person [Captain]
 3.) 4 Person [Lieutenant]
-2.) 1.0 ~1 Person [Sergant]
-1.) 0.25 Person ~0.321 ~0.5 Person [Corperal]
+2.) 1.0 ~1 Person [Sergeant]
+1.) 0.25 Person ~0.321 ~0.5 Person [Corporal]
 0.) 0.0625 ~0.1 Person [Cadet / Private]
 
 
@@ -164,8 +164,8 @@ Notes:
 5.) 64 Person [Major]
 4.) 16 Person [Captain]
 3.) 4 Person [Lieutenant]
-2.) 1.0 ~1 Person [Sergant]
-1.) 0.25 Person ~0.321 ~0.5 Person [Corperal]
+2.) 1.0 ~1 Person [Sergeant]
+1.) 0.25 Person ~0.321 ~0.5 Person [Corporal]
 0.) 0.0625 ~0.1 Person [Cadet / Private]
 
 
