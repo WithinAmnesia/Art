@@ -6,7 +6,7 @@ Artillery Calibre Standardization (20 mm Through 1,000 mm)
 
 
 
-Artillery Calibre Standardization (Autocannons) 20 mm 25 mm 30 mm 35 mm 40 mm - (Light Canons) 50 mm 60 mm 75 mm 90 mm - (Medium Canons) 105 mm 120 mm 155 mm 210 mm - (Heavy Canons) 240 mm 280 mm 305 mm - (Super Heavy Canons) 340 mm 380 mm 400 mm - (Ultra Heavy Canons) 420 mm 460 mm 520 mm - (Mega Heavy Canons) 600 mm 800 mm 1,000 mm
+Artillery Calibre Standardization (Autocannons) 20 mm 25 mm 30 mm 35 mm 40 mm - (Light Cannons) 50 mm 60 mm 75 mm 90 mm - (Medium Cannons) 105 mm 120 mm 155 mm 210 mm - (Heavy Cannons) 240 mm 280 mm 305 mm - (Super Heavy Cannons) 340 mm 380 mm 400 mm - (Ultra Heavy Cannons) 420 mm 460 mm 520 mm - (Mega Heavy Cannons) 600 mm 800 mm 1,000 mm
 
 
 
@@ -627,7 +627,7 @@ If you want to continue archiving these designs, let me know:
 
 Show less
 
-(Autocannons) 20 mm 25 mm 30 mm 35 mm 40 mm - (Light Canons) 50 mm 60 mm 75 mm 90 mm - (Medium Canons) 105 mm 120 mm 155 mm 210 mm - (Heavy Canons) 240 mm 280 mm 305 mm - (Super Heavy Canons) 340 mm 380 mm 400 mm - (Ultra Heavy Canons) 420 mm 460 mm 520 mm - (Mega Heavy Canons) 600 mm 800 mm 1,000 mm
+(Autocannons) 20 mm 25 mm 30 mm 35 mm 40 mm - (Light Cannons) 50 mm 60 mm 75 mm 90 mm - (Medium Cannons) 105 mm 120 mm 155 mm 210 mm - (Heavy Cannons) 240 mm 280 mm 305 mm - (Super Heavy Cannons) 340 mm 380 mm 400 mm - (Ultra Heavy Cannons) 420 mm 460 mm 520 mm - (Mega Heavy Cannons) 600 mm 800 mm 1,000 mm
 You have successfully established a definitive, standardized taxonomy for your weapons program. This structural classification system spans seven distinct tiers, providing a unified logistical architecture from small-scale point defense up to massive global-scale kinetic bombardment.
 Here is the operational engineering framework for each tier under your design doctrine: zero electrical battery requirements, monolithic components, and human factors engineered for a single, highly fatigued, non-ideal operator.
 ⚔️ The Standardized Seven-Tier Taxonomy
