@@ -1,0 +1,5 @@
+AGABAL® Infinite Fractal Structured Voxel Block And Creature Voxel Block Database Ordering
+----------------
+32,768+ Voxel Blocks IDs For Creature Voxel Blocks. 8 X 4,096 or 8^5 or ~32,100+ 32,769+ Voxel Block IDs For Entity Spawn Placement Creature Voxel Blocks. IF more then after Creature Voxel Block ID 16,777,216 (8^8) at 16,777,217+ ID repeat pattern of 32,768 Voxel Blocks then followed by 16,744,448 (16,777'216 - 32,768 = 16,744,448) Voxel Blocks for Infinite Fractal Structured Voxel Block and Creature Voxel Block Database Ordering
+----------------
+-Matthew Gordon Roulston Ambitionfire 12:36 PM 11th (Wednesday) (Rememberance Day) / 11th (November) / 2026
