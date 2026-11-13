@@ -1,0 +1,388 @@
+AGABAL® Characters, Compositions, Controls, Operations, Modes, Machines, Players (Also Known As A.C.C.C.O.M.M.P.)!
+
+
+
+----------------
+
+
+
+(100.000% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 1)
+
+1.) 2,048 Buttons / Keys / Inputs / Actions X 0.0625 Player Characters
+2.) 1,024 Buttons / Keys / Inputs / Actions X 0.125 Player Characters
+3.) 512 Buttons / Keys / Inputs / Actions X 0.25 Player Characters
+4.) 256 Buttons / Keys / Inputs / Actions X 0.5 Player Characters
+5.) 128 Buttons / Keys / Inputs / Actions X 1 Player Characters
+6.) 64 Buttons / Keys / Inputs / Actions X 2 Player Characters
+7.) 32 Buttons / Keys / Inputs / Actions X 4 Player Characters
+8.) 16 Buttons / Keys / Inputs / Actions X 8 Player Characters
+9.) 8 Buttons / Keys / Inputs / Actions X 16 Player Characters
+10.) 4 Buttons / Keys / Inputs / Actions X 32 Player Characters
+11.) 2 Buttons / Keys / Inputs / Actions X 64 Player Characters
+12.) 1 Buttons / Keys / Inputs / Actions X 128 Player Characters
+13.) 0.5 Buttons / Keys / Inputs / Actions X 256 Player Characters
+14.) 0.25 Buttons / Keys / Inputs / Actions X 512 Player Characters
+15.) 0.125 Buttons / Keys / Inputs / Actions X 1,024 Player Characters
+16.) 0.0625 Buttons / Keys / Inputs / Actions X 2,048 Player Characters
+
+
+
+----------------
+
+0.0625 Buttons / Keys / Inputs / Actions [~0.00048828125 Player Characters / ~0.000030517578125 Machines]
+
+(0.048828125% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 2,048)
+
+----------------
+
+0.125 Buttons / Keys / Inputs / Actions [~0.0009765625 Player Characters / ~0.00006103515625 Machines] [100% Action Powerfulness Traditional Farming Emulator]
+
+(0.09765625% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 1,024)
+
+----------------
+
+0.25 Buttons / Keys / Inputs / Actions [~0.001953125 Player Characters / ~0.0001220703125 Machines]
+
+(0.1953125% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 512)
+
+----------------
+
+0.5 Buttons / Keys / Inputs / Actions [~0.00390625 Player Characters / ~0.000244140625 Machines] [100% Action Powerfulness Traditional Automatic Battler]
+
+(0.390625% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 256)
+
+----------------
+
+1 Buttons / Keys / Inputs / Actions [~0.0078125 Player Characters / ~0.00048828125 Machines]
+
+(0.78125% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 128)
+
+----------------
+
+2 Buttons / Keys / Inputs / Actions [~0.015625 Player Characters / ~0.0009765625 Machines] [100% Action Powerfulness Traditional Arcade Joysticks]
+
+(1.5625% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 64)
+
+----------------
+
+4 Buttons / Keys / Inputs / Actions [~0.03125 Player Characters / ~0.001953125 Machines]
+
+(3.125% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 32)
+
+----------------
+
+8 Buttons / Keys / Inputs / Actions [~0.0625 Player Characters / ~0.00390625 Machines] [100% Action Powerfulness Traditional Twin Stick Gamepad Controllers]
+
+(6.250% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 16)
+
+----------------
+
+16 Buttons / Keys / Inputs / Actions [~0.125 Player Characters / ~0.0078125 Machines]
+
+(12.500% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 8)
+
+----------------
+
+32 Buttons / Keys / Inputs / Actions [~0.25 Player Characters / ~0.015625 Machines] [100% Action Powerfulness Traditional Full Keyboards And Mouses / Mice Mapped Onto Traditional Twin Stick Gamepad Controllers]
+
+(25.000% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 4)
+
+
+----------------
+
+64 Buttons / Keys / Inputs / Actions [~0.5 Player Characters / ~0.03125 Machines]
+
+(50.000% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 2)
+
+----------------
+
+128 Buttons / Keys / Inputs / Actions [~1 Player Characters / ~0.0625 Machines] [100% Action Powerfulness Traditional Full Keyboards And Mouses / Mice]
+
+(100.000% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (1 / 1)
+
+1.) 2,048 Buttons / Keys / Inputs / Actions X 0.0625 Player Characters
+2.) 1,024 Buttons / Keys / Inputs / Actions X 0.125 Player Characters
+3.) 512 Buttons / Keys / Inputs / Actions X 0.25 Player Characters
+4.) 256 Buttons / Keys / Inputs / Actions X 0.5 Player Characters
+5.) 128 Buttons / Keys / Inputs / Actions X 1 Player Characters
+6.) 64 Buttons / Keys / Inputs / Actions X 2 Player Characters
+7.) 32 Buttons / Keys / Inputs / Actions X 4 Player Characters
+8.) 16 Buttons / Keys / Inputs / Actions X 8 Player Characters
+9.) 8 Buttons / Keys / Inputs / Actions X 16 Player Characters
+10.) 4 Buttons / Keys / Inputs / Actions X 32 Player Characters
+11.) 2 Buttons / Keys / Inputs / Actions X 64 Player Characters
+12.) 1 Buttons / Keys / Inputs / Actions X 128 Player Characters
+13.) 0.5 Buttons / Keys / Inputs / Actions X 256 Player Characters
+14.) 0.25 Buttons / Keys / Inputs / Actions X 512 Player Characters
+15.) 0.125 Buttons / Keys / Inputs / Actions X 1,024 Player Characters
+16.) 0.0625 Buttons / Keys / Inputs / Actions X 2,048 Player Characters
+
+----------------
+
+256 Buttons / Keys / Inputs / Actions [~2 Player Characters / ~0.125 Machines]
+
+(200.000% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (2 / 1)
+
+----------------
+
+512 Buttons / Keys / Inputs / Actions [~4 Player Characters / ~0.25 Machines] [Traditional Multiboxing]
+
+(400.000% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (4 / 1)
+
+----------------
+
+1,024 Buttons / Keys / Inputs / Actions [~8 Player Characters / ~0.5 Machines]
+
+(800.000% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (8 / 1)
+
+----------------
+
+2,048 Buttons / Keys / Inputs / Actions [~16 Player Characters / ~1 Machines] [Traditional Multiple Computers / Advanced Multiboxing]
+
+(1,600.000% Action Powerfulness Of 128 Buttons / Keys / Inputs / Actions ~1 Player Characters) (16 / 1) 
+
+----------------
+
+
+
+0.0625 Buttons / Keys / Inputs / Actions [~0.00048828125 Player Characters / ~0.000030517578125 Machines]
+
+0.125 Buttons / Keys / Inputs / Actions [~0.0009765625 Player Characters / ~0.00006103515625 Machines] [100% Action Powerfulness Traditional Farming Emulator]
+
+0.25 Buttons / Keys / Inputs / Actions [~0.001953125 Player Characters / ~0.0001220703125 Machines]
+
+0.5 Buttons / Keys / Inputs / Actions [~0.00390625 Player Characters / ~0.000244140625 Machines] [100% Action Powerfulness Traditional Automatic Battler]
+
+1 Buttons / Keys / Inputs / Actions [~0.0078125 Player Characters / ~0.00048828125 Machines]
+
+2 Buttons / Keys / Inputs / Actions [~0.015625 Player Characters / ~0.0009765625 Machines] [100% Action Powerfulness Traditional Arcade Joysticks]
+
+4 Buttons / Keys / Inputs / Actions [~0.03125 Player Characters / ~0.001953125 Machines]
+
+8 Buttons / Keys / Inputs / Actions [~0.0625 Player Characters / ~0.00390625 Machines] [100% Action Powerfulness Traditional Twin Stick Gamepad Controllers]
+
+16 Buttons / Keys / Inputs / Actions [~0.125 Player Characters / ~0.0078125 Machines]
+
+32 Buttons / Keys / Inputs / Actions [~0.25 Player Characters / ~0.015625 Machines] [100% Action Powerfulness Traditional Full Keyboards And Mouses / Mice Mapped Onto Traditional Twin Stick Gamepad Controllers]
+
+64 Buttons / Keys / Inputs / Actions [~0.5 Player Characters / ~0.03125 Machines]
+
+128 Buttons / Keys / Inputs / Actions [~1 Player Characters / ~0.0625 Machines] [100% Action Powerfulness Traditional Full Keyboards And Mouses / Mice]
+
+256 Buttons / Keys / Inputs / Actions [~2 Player Characters / ~0.125 Machines]
+
+512 Buttons / Keys / Inputs / Actions [~4 Player Characters / ~0.25 Machines] [Traditional Multiboxing]
+
+1,024 Buttons / Keys / Inputs / Actions [~8 Player Characters / ~0.5 Machines]
+
+2,048 Buttons / Keys / Inputs / Actions [~16 Player Characters / ~1 Machines] [Traditional Multiple Computers / Advanced Multiboxing]
+
+
+
+----------------
+
+
+
+Notes:
+
+
+
+----------------
+
+
+
+AGABAL® Action Powerfulness Per X Buttons Keys Inputs Actions [X Player Characters, X Machines] [X Servers]++
+
+
+
+----------------
+
+-3.) 0.0625 Buttons / Keys / Inputs / Actions [~0.00048828125 Player Characters / ~0.000030517578125 Machines]
+
+-2.) 0.125 Buttons / Keys / Inputs / Actions [~0.0009765625 Player Characters / ~0.00006103515625 Machines] [100% Action Powerfulness Traditional Farming Emulator]
+
+-1.) 0.25 Buttons / Keys / Inputs / Actions [~0.001953125 Player Characters / ~0.0001220703125 Machines]
+
+0.) 0.5 Buttons / Keys / Inputs / Actions [~0.00390625 Player Characters / ~0.000244140625 Machines] [100% Action Powerfulness Traditional Automatic Battler]
+
+----------------
+
+1.) 1 Buttons / Keys / Inputs / Actions [~0.0078125 Player Characters / ~0.00048828125 Machines]
+
+2.) 2 Buttons / Keys / Inputs / Actions [~0.015625 Player Characters / ~0.0009765625 Machines] [100% Action Powerfulness Traditional Arcade Joysticks]
+
+3.) 4 Buttons / Keys / Inputs / Actions [~0.03125 Player Characters / ~0.001953125 Machines]
+
+4.) 8 Buttons / Keys / Inputs / Actions [~0.0625 Player Characters / ~0.00390625 Machines] [100% Action Powerfulness Traditional Twin Stick Gamepad Controllers]
+
+----------------
+
+5.) 16 Buttons / Keys / Inputs / Actions [~0.125 Player Characters / ~0.0078125 Machines]
+
+6.) 32 Buttons / Keys / Inputs / Actions [~0.25 Player Characters / ~0.015625 Machines] [100% Action Powerfulness Traditional Full Keyboards And Mouses / Mice Mapped Onto Traditional Twin Stick Gamepad Controllers]
+
+7.) 64 Buttons / Keys / Inputs / Actions [~0.5 Player Characters / ~0.03125 Machines]
+
+8.) 128 Buttons / Keys / Inputs / Actions [~1 Player Characters / ~0.0625 Machines] [100% Action Powerfulness Traditional Full Keyboards And Mouses / Mice]
+
+----------------
+
+9.) 256 Buttons / Keys / Inputs / Actions [~2 Player Characters / ~0.125 Machines]
+
+10.) 512 Buttons / Keys / Inputs / Actions [~4 Player Characters / ~0.25 Machines] [Traditional Multiboxing]
+
+11.) 1,024 Buttons / Keys / Inputs / Actions [~8 Player Characters / ~0.5 Machines]
+
+12.) 2,048 Buttons / Keys / Inputs / Actions [~16 Player Characters / ~1 Machines] [Traditional Multiple Computers / Advanced Multiboxing]
+
+----------------
+
+13.) 4,096 Buttons / Keys / Inputs / Actions [~32 Player Characters / ~2 Machines]
+
+14.) 8,192 Buttons / Keys / Inputs / Actions [~64 Player Characters / ~4 Machines] [Advanced Multiple Computers / Power Multiboxing]
+
+15.) 16,384 Buttons / Keys / Inputs / Actions [~128 Player Characters / ~8 Machines]
+
+16.) 32,768 Buttons / Keys / Inputs / Actions [~256 Player Characters / ~16 Machines] [Traditional Swarm Computers / Power Multiple Computers]
+
+----------------
+
+17.) 65,536 Buttons / Keys / Inputs / Actions [~512 Player Characters / ~32 Machines]
+
+18.) 131,072 Buttons / Keys / Inputs / Actions [~1,024 Player Characters / ~64 Machines] [Traditional Super Computer / Advanced Swarm Computers]
+
+19.) 262,144 Buttons / Keys / Inputs / Actions [~2,048 Player Characters / ~128 Machines]
+
+20.) 524,288 Buttons / Keys / Inputs / Actions [~4,096 Player Characters / ~256 Machines] [Advanced Super Computer / Power Swarm Computers]
+
+----------------
+
+21.) 1,048,576 Buttons / Keys / Inputs / Actions [~8,192 Player Characters / ~512 Machines]
+
+22.) 2,097,152 Buttons / Keys / Inputs / Actions [~16,384 Player Characters / ~1,024 Machines] [Traditional Super Computers Swarm / Power Super Computer]
+
+23.) 4,194,304 Buttons / Keys / Inputs / Actions [~32,768 Player Characters / ~2,048 Machines]
+
+24.) 8,388,608 Buttons / Keys / Inputs / Actions [~65,536 Player Characters / ~4,096 Machines] [Traditional Server Clusters / Advanced Super Computers Swarm]
+
+----------------
+
+25.) 16,777,216 Buttons / Keys / Inputs / Actions [~131,072 Player Characters / ~8,192 Machines] [Advanced Server Clusters / Power Super Computers Swarm]
+
+26.) 33,554,432 Buttons / Keys / Inputs / Actions [~262,144 Player Characters / ~16,384 Machines]
+
+27.) 67,108,864 Buttons / Keys / Inputs / Actions [~524,288 Player Characters / ~32,768 Machines] [Traditional Super Servers Clusters / Power Server Clusters]
+
+28.) 134,217,728 Buttons / Keys / Inputs / Actions [~1,048,576 Player Characters / ~65,536 Machines]
+
+----------------
+
+29.) 268,435,456 Buttons / Keys / Inputs / Actions [~2,097,152 Player Characters / ~131,072 Machines] [Traditional Mega Servers / Advanced Super Servers Clusters]
+
+30.) 536,870,912 Buttons / Keys / Inputs / Actions [~4,194,304 Player Characters / ~262,144 Machines]
+
+31.) 1,073,741,824 Buttons / Keys / Inputs / Actions [~8,388,608 Player Characters / ~524,288 Machines] [Advanced Mega Servers / Power Super Servers Clusters]
+
+32.) 2,147,483,648 Buttons / Keys / Inputs / Actions [~16,777,216 Player Characters / ~1,048,576 Machines]
+
+----------------
+
+33.) 4,294,967,296 Buttons / Keys / Inputs / Actions [~33,554,432 Player Characters / ~2,097,152 Machines] [Traditional Mega Server Clusters / Power Mega Servers]
+
+34.) 8,589,934,592 Buttons / Keys / Inputs / Actions [~67,108,864 Player Characters / ~4,194,304 Machines]
+
+35.) 17,179,869,184 Buttons / Keys / Inputs / Actions [~134,217,728 Player Characters / ~8,388,608 Machines] [Traditional Ultimate Servers / Advanced Mega Server Clusters]
+
+36.) 34,359,738,368 Buttons / Keys / Inputs / Actions [~268,435,456 Player Characters / ~16,777,216 Machines]
+
+----------------
+
+37.) 68,719,476,736 Buttons / Keys / Inputs / Actions [~536,870,912 Player Characters / ~33,554,432 Machines] [Advanced Ultimate Servers / Power Mega Server Clusters]
+
+38.) 137,438,953,472 Buttons / Keys / Inputs / Actions [~1,073,741,824 Player Characters / ~67,108,864 Machines] 
+
+39.) 274,877,906,944 Buttons / Keys / Inputs / Actions [~2,147,483,648 Player Characters / ~134,217,728 Machines] [Traditional Ultimate Server Clusters / Power Ultimate Servers]
+
+40.) 549,755,813,888 Buttons / Keys / Inputs / Actions [~4,294,967,296 Player Characters / ~268,435,456 Machines] 
+
+----------------
+
+41.) 1,099,511,627,776 Buttons / Keys / Inputs / Actions [~8,589,934,592 Player Characters / ~536,870,912 Machines] [? Servers / Advanced Ultimate Server Clusters]
+
+42.) 2,199,023,255,552 Buttons / Keys / Inputs / Actions [~17,179,869,184 Player Characters / ~1,073,741,824 Machines]
+
+43.) 4,398,046,511,104 Buttons / Keys / Inputs / Actions [~34,359,738,368 Player Characters / ~2,147,483,648 Machines] [?? Servers / Power Ultimate Server Clusters]
+
+44.) 8,796,093,022,208 Buttons / Keys / Inputs / Actions [~68,719,476,736 Player Characters / ~4,294,967,296 Machines]
+
+----------------
+
+45.) 17,592,186,044,416 Buttons / Keys / Inputs / Actions [~137,438,953,472 Player Characters / ~8,589,934,592 Machines] [??? Servers]
+
+46.) 35,184,372,088,832 Buttons / Keys / Inputs / Actions [~274,877,906,944 Player Characters / ~17,179,869,184 Machines]
+
+47.) 70,368,744,177,664 Buttons / Keys / Inputs / Actions [~549,755,813,888 Player Characters / ~34,359,738,368 Machines] [???? Servers]
+
+48.) 140,737,488,355,328 Buttons / Keys / Inputs / Actions [~1,099,511,627,776 Player Characters / ~68,719,476,736 Machines]
+
+----------------
+
+49.) 281,474,976,710,656 Buttons / Keys / Inputs / Actions [~2,199,023,255,552 Player Characters / ~137,438,953,472 Machines] [????? Servers]
+
+50.) 562,949,953,421,312 Buttons / Keys / Inputs / Actions [~4,398,046,511,104 Player Characters / ~274,877,906,944 Machines]
+
+51.) 1,125,899,906,842,624 Buttons / Keys / Inputs / Actions [~8,796,093,022,208 Player Characters / ~549,755,813,888 Machines] [?????? Servers]
+
+52.) 2,251,799,813,685,248 Buttons / Keys / Inputs / Actions [~17,592,186,044,416 Player Characters / ~1,099,511,627,776 Machines]
+
+----------------
+
+53.) 4,503,599,627,370,496 Buttons / Keys / Inputs / Actions [~35,184,372,088,832 Player Characters / ~2,199,023,255,552 Machines] [??????? Servers]
+
+54.) 9,007,199,254,740,992 Buttons / Keys / Inputs / Actions [~70,368,744,177,664 Player Characters / ~4,398,046,511,104 Machines]
+
+55.) 18,014,398,509,481,984 Buttons / Keys / Inputs / Actions [~140,737,488,355,328 Player Characters / ~8,796,093,022,208 Machines] [???????? Servers]
+
+56.) 36,028,797,018,963,968 Buttons / Keys / Inputs / Actions [~281,474,976,710,656 Player Characters / ~17,592,186,044,416 Machines]
+
+----------------
+
+57.) 72,057,594,037,927,936 Buttons / Keys / Inputs / Actions [~562,949,953,421,312 Player Characters / ~35,184,372,088,832 Machines] [????????? Servers]
+
+58.) 144,115,188,075,855,872 Buttons / Keys / Inputs / Actions [~1,125,899,906,842,624 Player Characters / ~70,368,744,177,664 Machines]
+
+59.) 288,230,376,151,711,744 Buttons / Keys / Inputs / Actions [~2,251,799,813,685,248 Player Characters / ~140,737,488,355,328 Machines] [?????????? Servers]
+
+60.) 576,460,752,303,423,488 Buttons / Keys / Inputs / Actions [~4,503,599,627,370,496 Player Characters / ~281,474,976,710,656 Machines]
+
+----------------
+
+61.) 1,152,921,504,606,846,976 Buttons / Keys / Inputs / Actions [~9,007,199,254,740,992 Player Characters / ~562,949,953,421,312 Machines] [??????????? Servers]
+
+62.) 2,305,843,009,213,693,952 Buttons / Keys / Inputs / Actions [~18,014,398,509,481,984 Player Characters / ~1,125,899,906,842,624 Machines]
+
+63.) 4,611,686,018,427,387,904 Buttons / Keys / Inputs / Actions [~36,028,797,018,963,968 Player Characters / ~2,251,799,813,685,248 Machines] [???????????? Servers]
+
+64.) 9,223,372,036,854,775,808 Buttons / Keys / Inputs / Actions [~72,057,594,037,927,936 Player Characters / ~4,503,599,627,370,496 Machines]
+
+----------------
+
+
+
+Notes:
+
+
+
+----------------
+
+
+
+-Matthew Gordon Roulston Ambitionfire 8:44 PM + 9:03 PM + 9:18 PM 12th (Thursday) / 11th (November) / 2026
+
+
+
+----------------
+
+
+
+-Matthew Gordon Roulston Ambitionfire 2:56 PM 13th (Friday) / 11th (November) / 2026
